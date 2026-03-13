@@ -28,7 +28,7 @@ These facilities serve researchers from all areas of UK science.
 
 This breadth was illustrated clearly in the LinkedIn post by Prof. Alan Heavens [https://www.linkedin.com/posts/alan-heavens-87b72817_drilling-down-into-the-diamond-light-source-activity-7434659576823664641-tcEv](https://www.linkedin.com/posts/alan-heavens-87b72817_drilling-down-into-the-diamond-light-source-activity-7434659576823664641-tcEv), which shows that at Diamond Light Source, over 90% of UKRI-funded research activity is supported not by STFC, but by EPSRC, BBSRC, and MRC. 
 This pattern is not unique to Diamond. 
-Researchers like ourselves, whose curiosity-led research is funded by other funding councils, rely on STFC-operated. 
+Researchers like ourselves, whose curiosity-led research is funded by other funding councils, rely on STFC-operated facilities. 
 Without continued access to these facilities, significant areas of UKRI-funded research simply could not proceed.
 
 We understand the financial pressures facing STFC are genuine and, in part, structurally unique: the long planning timescales, the rising cost of electricity, and the exposure to foreign exchange fluctuations that come with operating large facilities and international partnerships. 
