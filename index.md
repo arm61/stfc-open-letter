@@ -1,5 +1,9 @@
-The [Open Letter Regarding The Importance of STFC Facilities](./2026/03/13/letter.html) can be found in the **Posts** section below. 
-To offer a change to the text of the letter, please open a pull request on [GitHub](https://github.com/arm61/stfc-open-letter), or email [Dr Andrew R. McCluskey](mailto:andrew.mccluskey@bristol.ac.uk).
+---
+layout: base
+---
+
+The [Open Letter Regarding The Importance of STFC Facilities](./2026/03/13/letter.html) can be read by clicking the link. 
+To offer a change to the text of the letter, please open a pull request on [GitHub](https://github.com/arm61/stfc-open-letter), or email [Dr Andrew McCluskey](mailto:andrew.mccluskey@bristol.ac.uk).
 
 If you would like to be a signatory of this open letter, please complete the form below and your name will be added shortly.
 
