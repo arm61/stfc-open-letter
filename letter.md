@@ -5,12 +5,10 @@ name: Open Letter Regarding The Importance of STFC Facilities
 
 13 March 2026
 
-**Professor Michele Dougherty**
-
+**Professor Michele Dougherty**<br>
 Executive Chair, Science and Technology Facilities Council
 
-**Professor Sir Ian Chapman**
-
+**Professor Sir Ian Chapman**<br>
 Chief Executive, UK Research and Innovation
 
 *Re: The Impact of STFC Budget Reductions on the Broader UK Research Community*
@@ -49,8 +47,8 @@ We would welcome the opportunity to discuss these concerns further and to contri
 
 Yours sincerely,
 
-Andrew McCluskey, University of Bristol
-Jem Pitcairn, University of Birmingham
-James Cumby, University of Edinburgh
-Claire Hobday, University of Edinburgh
-Amanda Jarvis, University of Edinburgh
+Andrew McCluskey, University of Bristol<br>
+Jem Pitcairn, University of Birmingham<br>
+James Cumby, University of Edinburgh<br>
+Claire Hobday, University of Edinburgh<br>
+Amanda Jarvis, University of Edinburgh<br>
