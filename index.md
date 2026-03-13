@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 ---
 
 The [Open Letter Regarding The Importance of STFC Facilities](./2026/03/13/letter.html) can be read by clicking the link. 
