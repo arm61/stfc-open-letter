@@ -57,3 +57,4 @@ Euan Brechin, University of Edinburgh<br>
 Lingcong Meng, University of Edinburgh<br>
 Anita Jones, University of Edinburgh<br>
 Adam Michalchuk, University of Birmingham<br>
+Tim Snow, Diamond Light Source<br>
