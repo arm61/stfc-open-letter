@@ -60,3 +60,5 @@ Adam Michalchuk, University of Birmingham<br>
 Tim Snow, Diamond Light Source<br>
 Joshaniel Cooper, European Spallation Source<br>
 Antonia Mey, University of Edinburgh<br>
+Andrew Alexander, University of Edinburgh<br>
+Hannah Logan, University of Edinburgh<br>
