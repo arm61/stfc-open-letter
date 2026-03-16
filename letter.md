@@ -58,3 +58,5 @@ Lingcong Meng, University of Edinburgh<br>
 Anita Jones, University of Edinburgh<br>
 Adam Michalchuk, University of Birmingham<br>
 Tim Snow, Diamond Light Source<br>
+Joshaniel Cooper, European Spallation Source<br>
+Antonia Mey, University of Edinburgh<br>
