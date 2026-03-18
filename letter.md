@@ -67,3 +67,5 @@ William Sharratt, University of Liverpool<br>
 Colin Pulham, University of Edinburgh<br>
 Julia Rho, University College London<br>
 Alastair Lennox, University of Bristol<br>
+Alexander O'Malley, University of Bath<br>
+Eliza Dempsey, Trinity College Dublin<br>
