@@ -70,3 +70,8 @@ Alastair Lennox, University of Bristol<br>
 Alexander O'Malley, University of Bath<br>
 Eliza Dempsey, Trinity College Dublin<br>
 Petra Agota Szilagyi, University of Oslo<br>
+Keith Butler, University College London<br>
+James Hallett, University of Reading<br>
+Jin-Chong Tan, University of Oxford<br>
+Christoph Salzmann, University College London<br>
+Cuillaume Schweicher, Université Libre de Bruxelles<br>
