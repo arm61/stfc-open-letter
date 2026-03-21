@@ -80,3 +80,8 @@ Peter Slater, University of Birmingham<br>
 Sarah Horswell, University of Birmingham<br>
 Louise Male, University of Birmingham<br>
 Stephen	Fielden, University of Birmingham<br>
+Timothy Easun, University of Birmingham<br>
+Jarvist Moore	Frost, Imperial College London<br>
+Andy Wilson, University of Birmingham<br>
+Stefanos Athanasopoulos, European Spallation Source<br>
+Matt Derry, Aston University<br>
