@@ -98,3 +98,5 @@ Duncan Bruce, University of York<br>
 Steven Bramwell, University College London<br>
 John Slattery, University of York<br>
 Simon Clarke, University of Oxford<br>
+Richard Douthwaite, University of York<br>
+Richard Walton, University of Warwick<br>
