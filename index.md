@@ -2,6 +2,8 @@ The *Open Letter Regarding The Importance of STFC Facilities* can be read by fol
 
 [Read The Letter](./letter.html)
 
+The letter will be sent on **2nd April 2026**. 
+
 To offer a change to the text of the letter, please open a pull request on [GitHub](https://github.com/arm61/stfc-open-letter), or email [Dr Andrew McCluskey](mailto:andrew.mccluskey@bristol.ac.uk).
 
 If you would like to be a signatory of this open letter, please complete the form below and your name will be added shortly.
