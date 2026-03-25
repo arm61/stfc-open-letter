@@ -114,3 +114,13 @@ Mingee Chung, University of Birmingham<br>
 Natalia Plechkova, Queen's University Belfast<br>
 Andrew Boothroyd, Oxford University<br>
 Thorsten Hesjedal, University of Oxford<br>
+Oliver Smith, STFC (Central Laser Facility)<br>
+Anam Fatima ,University of East Anglia<br>
+Michael Parkes, University College London<br>
+Chris Sparling, Heriot-Watt University<br> 
+Enrico Da Como, University of Bath<br>
+Matthew Tang, University of Oxford/STFC<br>
+Russell Minns, University of Southampton<br>
+Simon Bending, University of Bath<br>
+Nathaniel Hill, University of Liverpool<br>
+Daniel Wolverson, University of Bath<br>
