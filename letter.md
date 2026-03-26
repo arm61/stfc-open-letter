@@ -91,7 +91,7 @@ Abbie McLaughlin, University of Aberdeen<br>
 Hamish Yeung, University of Birmingham<br>
 Simon Titmuss, University of Edinburgh<br>
 Matthew Cliffe, University of Cambridge<br>
-J. Paul Attfield, University of Edinburgh<br>
+J. Paul Attfield FRS, University of Edinburgh<br>
 Geetha Balakrishnan, University of Warwick<br>
 Alexandra Gibbs, University of St Andrews<br>
 Duncan Bruce, University of York<br>
