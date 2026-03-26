@@ -131,7 +131,7 @@ Matthew Streeter, Queen's University Belfast<br>
 Lucia Corrigan, Queen’s University Belfast<br>
 Noel Kehoe, Queens University Belfast<br>
 Emma McBride, Queen's University Belfast<br>
-Conor McAnespie, Queens University Belfast<br>
+Conor McAnespie, Queen's University Belfast<br>
 Aidan Hindmarch, Durham University<br>
 Jimmy Weeks, Queen's University Belfast<br>
 Anna Regoutz, University of Oxford<br>
@@ -141,3 +141,9 @@ Daniel Molloy, Queen’s University Belfast<br>
 Gianluca Sarri, Queen’s University Belfast<br>
 Marco Borghesi, Queen's University Belfast<br>
 Richard Catlow FRS, University College London<br>
+Mark Yeung, Queen's University Belfast<br>
+John Evans, Durham University<br>
+Ivana Evans, Durham University<br>
+Thomas Penfold, Newcastle University<br>
+Colm Fitzpatrick, Queen's University Belfast<br>
+Adrian McCay, Queen's University Belfast<br>
