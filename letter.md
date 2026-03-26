@@ -134,3 +134,6 @@ Emma McBride, Queen's University Belfast<br>
 Conor McAnespie, Queens University Belfast<br>
 Aidan Hindmarch, Durham University<br>
 Jimmy Weeks, Queen's University Belfast<br>
+Anna Regoutz, University of Oxford<br>
+Jason Greenwood, Queen's University Belfast<br>
+Andrew Burnett, University of Leeds<br>
