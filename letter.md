@@ -124,3 +124,13 @@ Russell Minns, University of Southampton<br>
 Simon Bending, University of Bath<br>
 Nathaniel Hill, University of Liverpool<br>
 Daniel Wolverson, University of Bath<br>
+Jon	Marangos, Imperial College<br>
+Roger Johnson, Durham University<br>
+Briony Yorke, University of Leeds<br>
+Matthew Streeter, Queen's University Belfast<br>
+Lucia Corrigan, Queen’s University Belfast<br>
+Noel Kehoe, Queens University Belfast<br>
+Emma McBride, Queen's University Belfast<br>
+Conor McAnespie, Queens University Belfast<br>
+Aidan Hindmarch, Durham University<br>
+Jimmy Weeks, Queen's University Belfast<br>
