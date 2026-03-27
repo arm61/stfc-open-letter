@@ -170,3 +170,4 @@ Jasper van Thor, Imperial College London<br>
 Temour Foster, Queen's University Belfast<br>
 John Tisch, Imperial College London<br>
 Holly Huddleston, Queen's University Belfast<br>
+Giovanna Fragneto, European Spallation Source<br>
