@@ -173,3 +173,7 @@ Holly Huddleston, Queen's University Belfast<br>
 Giovanna Fragneto, European Spallation Source<br>
 Katharina Edkins, University of Strathclyde<br>
 Fabrizia Foglia, University College London<br>
+Ralf Schweins, Institut Laue - Langevin<br>
+Mary Wood, University of Copenhagen<br>
+David Boldrin, University of Glasgow<br>
+John Wood, CERN<br>
