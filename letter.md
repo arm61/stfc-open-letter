@@ -172,3 +172,4 @@ John Tisch, Imperial College London<br>
 Holly Huddleston, Queen's University Belfast<br>
 Giovanna Fragneto, European Spallation Source<br>
 Katharina Edkins, University of Strathclyde<br>
+Fabrizia Foglia, University College London<br>
