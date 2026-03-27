@@ -21,7 +21,7 @@ We wish to draw your attention to an aspect of the proposed STFC budget reductio
 Much of the reaction to these cuts has focused on researchers in particle physics, astronomy, and nuclear physics, who depend on STFC for applicant-led grant funding. 
 We fully support those concerns. 
 However, STFC's role extends well beyond funding a single scientific community. 
-It operates and financially sustains world-class research infrastructure, including ISIS Neutron and Muon Source, Diamond Light Source, and the Central Laser Facility, and it manages the UK's participation in major international collaborations such as the European Synchrotron Radiation Facility, European Spallation Source, European XFEL and European Molecular Biology Laboratory. 
+It operates and financially sustains world-class research infrastructure, including ISIS Neutron and Muon Source, Diamond Light Source, and the Central Laser Facility, and it manages the UK's participation in major international collaborations such as the European Synchrotron Radiation Facility, Institut Laue-Langevin, European Spallation Source, European XFEL and European Molecular Biology Laboratory. 
 These facilities serve researchers from all areas of UK science.
 
 This breadth was illustrated clearly in the LinkedIn post by Prof. Alan Heavens [https://www.linkedin.com/posts/alan-heavens-87b72817_drilling-down-into-the-diamond-light-source-activity-7434659576823664641-tcEv](https://www.linkedin.com/posts/alan-heavens-87b72817_drilling-down-into-the-diamond-light-source-activity-7434659576823664641-tcEv), which shows that at Diamond Light Source, over 90% of UKRI-funded research activity is supported not by STFC, but by EPSRC, BBSRC, and MRC. 
