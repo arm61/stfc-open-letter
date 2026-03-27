@@ -177,3 +177,6 @@ Ralf Schweins, Institut Laue - Langevin<br>
 Mary Wood, University of Copenhagen<br>
 David Boldrin, University of Glasgow<br>
 John Wood, CERN<br>
+Nicola Kelly, University of Cambridge<br>
+Catherine Pappas, Delft University of Technology<br>
+Kit McColl, University of Oxford<br>
