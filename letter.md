@@ -189,3 +189,29 @@ Daniel Rainer, University of Southampton<br>
 Catriona Crawford, University of Warwick<br>
 Anna Marie Davies, King's College London<br>
 Camilla Di Mino, University of Oxford<br>
+Ashley Wooles, University of Manchester<br>
+Sacha Fop, University of Aberdeen<br>
+Radu Coldea, University of Oxford<br>
+Colin Seaton, University of Bradford<br>
+Eamonn Connolly, Diamond Light Source<br>
+John Finney, University College London<br>
+Ulrich Baisch, University of Malta<br>
+Kacper Druzbicki, Centre of Molecular and Macromolecular Studies, Polish Academy of Sciences<br>
+Christopher Frampton, Brunel University London<br>
+Cameron Wilson, University of Warwick<br>
+Tony Bell, Sheffield Hallam University<br>
+Georgina Rosair, Heriot Watt University<br>
+Saskia Lindhoud, University of Twente<br>
+Farheen Sayed, Cambridge University<br>
+Martin Ward, University of Strathclyde<br>
+Ellie Keil, The University of Southampton<br>
+John Helliwell, University of Manchester<br>
+Anna Herlihy, Diamond Light Source<br>
+Julia Payne, University of St Andrews<br>
+Sakil Awan, University of Plymouth<br>
+Graeme Blake, University of Groningen<br>
+Struan Simpson, University of Warwick<br>
+Rebecca Scatena, Diamond Light Source<br>
+Hanna Boström, Stockholm University<br>
+David Aragao, Diamond Light Source<br>
+Timothy Prior, University of Liverpool<br>
