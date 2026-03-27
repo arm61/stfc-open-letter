@@ -202,7 +202,7 @@ Cameron Wilson, University of Warwick<br>
 Tony Bell, Sheffield Hallam University<br>
 Georgina Rosair, Heriot Watt University<br>
 Saskia Lindhoud, University of Twente<br>
-Farheen Sayed, Cambridge University<br>
+Farheen Sayed, University of Cambridge<br>
 Martin Ward, University of Strathclyde<br>
 Ellie Keil, The University of Southampton<br>
 John Helliwell, University of Manchester<br>
@@ -215,3 +215,4 @@ Rebecca Scatena, Diamond Light Source<br>
 Hanna Boström, Stockholm University<br>
 David Aragao, Diamond Light Source<br>
 Timothy Prior, University of Liverpool<br>
+Fanny Costa, University of Leeds<br>
