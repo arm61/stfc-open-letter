@@ -173,7 +173,7 @@ Holly Huddleston, Queen's University Belfast<br>
 Giovanna Fragneto, European Spallation Source<br>
 Katharina Edkins, University of Strathclyde<br>
 Fabrizia Foglia, University College London<br>
-Ralf Schweins, Institut Laue - Langevin<br>
+Ralf Schweins, Institut Laue-Langevin<br>
 Mary Wood, University of Copenhagen<br>
 David Boldrin, University of Glasgow<br>
 John Wood, CERN<br>
@@ -216,3 +216,23 @@ Hanna Boström, Stockholm University<br>
 David Aragao, Diamond Light Source<br>
 Timothy Prior, University of Liverpool<br>
 Fanny Costa, University of Leeds<br>
+Claire Wilson, University of Glasgow<br>
+Maria R Conte, King's College London<br>
+Peter Wells, University of Southampton<br>
+Charles Dewhurst, Institut Laue-Langevin<br>
+Jeremiah Tidey, University of Warwick<br>
+Joseph Bear, Kingston University<br>
+Simon Parsons, University of Edinburgh<br>
+Robert Bannister, University of Southampton<br>
+Karen Johnston, Durham University<br>
+Joao Muniz, University of São Paulo, São Carlos Institute of Physics<br>
+Michał Stękiel, Forschungszentrum Jülich GmbH<br>
+James Steele, University of Cambridge<br>
+Nathan Smith, University of York<br>
+Randy Read, University of Cambridge<br>
+Stuart Mangles, Imperial College London<br>
+Simon Bland, Imperial College London<br>
+Jacques Huot, Université du Québec à Trois-Rivières<br>
+Mark Sanderson, Imperial College London<br>
+David Briggs, Francis Crick Institute<br>
+Maisoon Al-Jawad, University of Leeds<br>
