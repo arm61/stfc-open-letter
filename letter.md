@@ -240,3 +240,6 @@ Indu Dhiman, TU Delft<br>
 Eddy Lelièvre-Berna, Institut Laue-Langevin<br>
 Robert Jackson, Keele University<br>
 Paula Salgado, Newcastle University<br>
+Kyle Gregory, University of Bath<br>
+Thomas McCorvie, Newcastle University<br>
+Ibon Bustinduy, ESS-BILBAO<br>
