@@ -18,7 +18,7 @@ Dear Professor Dougherty and Professor Sir Ian Chapman,
 We write to you as researchers working across a range of UK science disciplines whose work depends critically on access to the large-scale national facilities operated and supported by the Science and Technology Facilities Council (STFC). 
 We wish to draw your attention to an aspect of the proposed STFC budget reductions that we believe has so far received insufficient attention in the public discourse: the consequences for the substantial portion of the UK research community that relies on STFC facilities but is funded through other UKRI research councils.
 
-Much of the reaction to these cuts has focused on researchers in particle physics, astronomy, and nuclear physics, who depend on STFC for applicant-led grant funding. 
+Much of the reaction to these cuts has focused on researchers in particle physics, astronomy, and nuclear physics (PPAN), who depend on STFC for applicant-led grant funding. 
 We fully support those concerns. 
 However, STFC's role extends well beyond funding a single scientific community. 
 It operates and financially sustains world-class research infrastructure, including ISIS Neutron and Muon Source, Diamond Light Source, and the Central Laser Facility, and it manages the UK's participation in major international collaborations such as the European Synchrotron Radiation Facility, Institut Laue-Langevin, European Spallation Source, European XFEL and European Molecular Biology Laboratory. 
