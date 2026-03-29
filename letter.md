@@ -251,3 +251,5 @@ Jeffrey Rust, UK Space Agency<br>
 Roger	Pynn, Indiana University<br>
 Natalie Tatum, Newcastle University<br>
 Josh Makepeace, University of Birmingham<br>
+Laura Spagnolo, University of Glasgow<br>
+Simon Coles, University of Southampton<br>
