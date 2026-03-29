@@ -243,3 +243,10 @@ Paula Salgado, Newcastle University<br>
 Kyle Gregory, University of Bath<br>
 Thomas McCorvie, Newcastle University<br>
 Ibon Bustinduy, ESS-BILBAO<br>
+Xiangqiang Chu, City University of Hong Kong<br>
+Andreas Stadler, Forschungszentrum Jülich<br>
+Joseph Ogar, Nottingham Trent University<br>
+Deborah Harrus, EMBL-EBI<br>
+Jeffrey Rust, UK Space Agency<br>
+Roger	Pynn, Indiana University<br>
+Natalie Tatum, Newcastle University<br>
