@@ -281,3 +281,5 @@ Francesco Grazzi, CNR-IFAC  - Italy<br>
 Cara Clarke, Queen's University Belfast<br>
 Jon Marles-Wright, Newcastle University<br>
 Denis Vasiukov, European Spallation Source<br>
+Alexander MacAskill, University of Glasgow<br>
+Jonathan Kennedy, Queens University Belfast<br>
