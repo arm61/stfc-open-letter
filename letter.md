@@ -253,3 +253,13 @@ Natalie Tatum, Newcastle University<br>
 Josh Makepeace, University of Birmingham<br>
 Laura Spagnolo, University of Glasgow<br>
 Simon Coles, University of Southampton<br>
+László Bottyán, Budapest Neutron Centre, HUN-REN Centre for Energy Research<br>
+Patricio Montecinos Munoz, Universidade de Sao Paulo<br>
+Yong Ma, University of Michigan <br>
+Andrew Wildes, Institut Laue-Langevin<br>
+Stephane Mouilleron, The Francis crick institute<br>
+Sebastian Busch, Helmholtz-Zentrum Hereon<br>
+David Blackman, ELI ERIC Beamlines Facility<br>
+Jose Luis Garcia-Muñoz, Barcelona Institute of Materials Science (ICMAB-CSIC) <br>
+Devon Sheppard, Francis Crick Institute<br>
+Michael Quin, Gothenburg University<br>
