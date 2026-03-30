@@ -274,3 +274,10 @@ Elizabeth Arnold, University of Warwick<br>
 Karen Edler, Lund University<br>
 Christopher Ridgers, University of York<br>
 Mark Elsegood, Loughborough University<br>
+Naëmi Leo, Loughborough University<br>
+Peter Parsons, Queen's University Belfast<br>
+Sarah Berger, University of Glasgow<br>
+Francesco Grazzi, CNR-IFAC  - Italy<br>
+Cara Clarke, Queen's University Belfast<br>
+Jon Marles-Wright, Newcastle University<br>
+Denis Vasiukov, European Spallation Source<br>
