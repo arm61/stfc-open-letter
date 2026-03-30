@@ -257,7 +257,7 @@ László Bottyán, Budapest Neutron Centre, HUN-REN Centre for Energy Research<b
 Patricio Montecinos Munoz, Universidade de Sao Paulo<br>
 Yong Ma, University of Michigan <br>
 Andrew Wildes, Institut Laue-Langevin<br>
-Stephane Mouilleron, The Francis crick institute<br>
+Stephane Mouilleron, The Francis Crick Institute<br>
 Sebastian Busch, Helmholtz-Zentrum Hereon<br>
 David Blackman, ELI ERIC Beamlines Facility<br>
 Jose Luis Garcia-Muñoz, Barcelona Institute of Materials Science (ICMAB-CSIC) <br>
