@@ -263,3 +263,13 @@ Jose Luis Garcia-Muñoz, Barcelona Institute of Materials Science (ICMAB-CSIC) <
 Devon Sheppard, Francis Crick Institute<br>
 Michael Quin, Gothenburg University<br>
 Gavin John Irvine, University of St Andrews<br>
+Gianluca Gregori, University of Oxford<br>
+Nicolò Paracini, University of Copenhagen<br>
+Charlotte Palmer, Queen’s University Belfast<br>
+Mads Gabrielsen, University of Glasgow<br>
+Christopher Arran, Lancaster University<br>
+Gary Nichol, University of Edinburgh<br>
+Hannah Maguire, Queen's University Belfast<br>
+Elizabeth Arnold, University of Warwick<br>
+Karen Edler, Lund University<br>
+Christopher Ridgers, University of York<br>
