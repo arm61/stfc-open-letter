@@ -57,7 +57,7 @@ Euan Brechin, University of Edinburgh<br>
 Lingcong Meng, University of Edinburgh<br>
 Anita Jones, University of Edinburgh<br>
 Adam Michalchuk, University of Birmingham<br>
-Tim Snow, Diamond Light Source<br>
+Tim Snow
 Joshaniel Cooper, European Spallation Source<br>
 Antonia Mey, University of Edinburgh<br>
 Andrew Alexander, University of Edinburgh<br>
@@ -283,3 +283,6 @@ Jon Marles-Wright, Newcastle University<br>
 Denis Vasiukov, European Spallation Source<br>
 Alexander MacAskill, University of Glasgow<br>
 Jonathan Kennedy, Queens University Belfast<br>
+Nina Steinke, Institut Laue-Langevin<br>
+Matthew Gerring, Jackson Laboratory<br>
+Sergey Lebedev, Imperial College<br>
