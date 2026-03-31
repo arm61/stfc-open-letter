@@ -298,3 +298,5 @@ Bratislav Lukic, Institut Laue-Langevin<br>
 Robin Woracek, European Spallation Source & Technical University of Munich<br>
 Tom Hayward, University of Sheffield<br>
 Fellipe Carneiro, Diamond Light Source<br>
+Peter Fouquet, Institut Laue-Langevin<br>
+Thomas Saerbeck, Institut Laue-Langevin<br>
