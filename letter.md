@@ -292,3 +292,9 @@ Ellen Fogh, Technical University of Munich<br>
 Tracey Gloster, University of St Andrews<br>
 Andrew Stewart, University College London<br>
 Reem Alraddadi, University of York<br>
+Ursula Bengaard	Hansen, Institut Laue-Langevin<br>
+Simon Hooker, University of Oxford<br>
+Bratislav Lukic, Institut Laue-Langevin<br>
+Robin Woracek, European Spallation Source & Technical University of Munich<br>
+Tom Hayward, University of Sheffield<br>
+Fellipe Carneiro, Diamond Light Source<br>
