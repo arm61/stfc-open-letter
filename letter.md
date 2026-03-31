@@ -317,3 +317,11 @@ Marcell Wolf, Technical University of Munich<br>
 Philip Gutfreund, Institut Laue-Langevin<br>
 Matthew Jessop, The Institute of Cancer Research<br>
 Trevor Greenhough, Keele University<br>
+Dave Adams, University of Glasgow<br>
+Adam Sapnik, University of Copenhagen<br>
+Emily Meekel, University of Birmingham<br>
+Richard Dixey, Diamond Light Source<br> 
+Simon Cassidy, University of Oxford<br>
+Lewis Blackburn, University of Sheffield<br>
+Malcolm McMahon, University of Edinburgh<br>
+Lucas Launay, Imperial College London<br>
