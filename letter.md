@@ -300,3 +300,14 @@ Tom Hayward, University of Sheffield<br>
 Fellipe Carneiro, Diamond Light Source<br>
 Peter Fouquet, Institut Laue-Langevin<br>
 Thomas Saerbeck, Institut Laue-Langevin<br>
+Derek Sinclair, University of Sheffield<br>
+William Proud, Imperial College London<br>
+Sergio Federico Mayer, Consejo Superior de Investigaciones Científicas<br>
+Felix Fernandez-Alonso, Materials Physics Center & Ikerbasque<br>
+Michael Schulz, Technical University of Munich<br>
+Judith Peters, Université Grenoble Alpes<br>
+Nik Reeves-McLaren, University of Sheffield<br>
+Emily Draper, University of Glasgow<br>
+Giancarlo Abis, King's College London<br>
+Peter Skabara, University of Glasgow<br>
+Emma Gibson, University of Glasgow<br>
