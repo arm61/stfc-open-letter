@@ -325,3 +325,6 @@ Simon Cassidy, University of Oxford<br>
 Lewis Blackburn, University of Sheffield<br>
 Malcolm McMahon, University of Edinburgh<br>
 Lucas Launay, Imperial College London<br>
+Julia Weinstein, University of Sheffield<br>
+Laura Corner, University of Liverpool<br>
+Klaas Wynne, University of Glasgow<br>
