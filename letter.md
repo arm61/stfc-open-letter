@@ -328,3 +328,27 @@ Lucas Launay, Imperial College London<br>
 Julia Weinstein, University of Sheffield<br>
 Laura Corner, University of Liverpool<br>
 Klaas Wynne, University of Glasgow<br>
+John Palastro, University of Rochester Laboratory for Laser Energetics<br>
+John Claridge, University of Liverpool<br>
+Emma Hawking, Cambridge Crystallographic Data Centre<br>
+Natalie Johnson, Cambridge Crystallographic Data Centre<br>
+Charles McMonagle, Swiss-Norwegian Beamlines at ESRF<br>
+Suzanna Ward, Cambridge Crystallographic Data Centre<br>
+Giulio Isacco Lampronti, University of Cambridge<br>
+Martin King, Royal Holloway University of London<br>
+Amber L. Thompson, Chemical Crystallography, Oxford<br>
+Alexander Dickson, Royal Holloway University of London<br>
+Queenie Chan, Royal Holloway University of London<br>
+Igor Marković, University of Birmingham<br>
+Franko Bayer, University of Michigan<br>
+David Tam, Institut Laue-Langevin<br>
+Steven Armes, University of Sheffield<br>
+Nick Turner, University of Sheffield<br>
+Gary Verth, University of Sheffield<br>
+Denis Mettus, MLZ (Technical University Munich)<br>
+Stefan Mattauch, Forschungszentrum Jülich GmbH<br>
+Sarah Harris, University of Sheffield<br>
+Reiner Zorn, Forschungszentrum Juelich<br>
+Leonie Stödter, Forschungszentrum Jülich<br>
+Aureliano Tartaglione, Technical University of Munich<br>
+Oleksandr Mykhaylyk, University of Sheffield<br>
