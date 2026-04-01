@@ -118,7 +118,7 @@ Anam Fatima ,University of East Anglia<br>
 Michael Parkes, University College London<br>
 Chris Sparling, Heriot-Watt University<br> 
 Enrico Da Como, University of Bath<br>
-Matthew Tang, University of Oxford/STFC<br>
+Matthew Tang, University of Oxford<br>
 Russell Minns, University of Southampton<br>
 Simon Bending, University of Bath<br>
 Nathaniel Hill, University of Liverpool<br>
