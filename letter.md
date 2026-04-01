@@ -208,7 +208,6 @@ Julia Payne, University of St Andrews<br>
 Sakil Awan, University of Plymouth<br>
 Graeme Blake, University of Groningen<br>
 Struan Simpson, University of Warwick<br>
-Rebecca Scatena, Diamond Light Source<br>
 Hanna Boström, Stockholm University<br>
 Timothy Prior, University of Liverpool<br>
 Fanny Costa, University of Leeds<br>
