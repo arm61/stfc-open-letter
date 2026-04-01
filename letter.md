@@ -139,7 +139,7 @@ Andrew Burnett, University of Leeds<br>
 Daniel Molloy, Queen’s University Belfast<br>
 Gianluca Sarri, Queen’s University Belfast<br>
 Marco Borghesi, Queen's University Belfast<br>
-Richard Catlow FRS, University College London<br>
+Sir Richard Catlow FRS, University College London<br>
 Mark Yeung, Queen's University Belfast<br>
 John Evans, Durham University<br>
 Ivana Evans, Durham University<br>
@@ -371,3 +371,8 @@ Jeyan Thiyagalingam, Tata Institute of Fundamental Research<br>
 Shabir Najmudin, Randall Centre, King's College London<br>
 Andrew Orr-Ewing FRS, University of Bristol<br>
 Robbie Wilson, University of Strathclyde<br>
+Chris Smith, University of Cambridge<br>
+Dame Clare Grey FRS, University of Cambridge<br>
+George Phillips, University of Cambridge<br>
+Ewan Dolier, University of Strathclyde<br>
+Charlotte Cordery, EMBL-EBI<br>
