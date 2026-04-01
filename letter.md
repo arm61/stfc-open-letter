@@ -267,7 +267,6 @@ Mads Gabrielsen, University of Glasgow<br>
 Christopher Arran, Lancaster University<br>
 Gary Nichol, University of Edinburgh<br>
 Hannah Maguire, Queen's University Belfast<br>
-Elizabeth Arnold, University of Warwick<br>
 Karen Edler, Lund University<br>
 Christopher Ridgers, University of York<br>
 Mark Elsegood, Loughborough University<br>
