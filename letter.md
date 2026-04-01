@@ -281,7 +281,6 @@ Jonathan Kennedy, Queens University Belfast<br>
 Nina Steinke, Institut Laue-Langevin<br>
 Matthew Gerring, Jackson Laboratory<br>
 Sergey Lebedev, Imperial College London<br>
-Aly Abdeldaim, Diamond Light Source<br>
 Ellen Fogh, Technical University of Munich<br>
 Tracey Gloster, University of St Andrews<br>
 Andrew Stewart, University College London<br>
