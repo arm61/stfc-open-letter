@@ -369,3 +369,7 @@ Shaun Doherty, University of York<br>
 Robert Georgii, Technical University of Munich<br>
 Niamh McAllister, Queen's University Belfast<br>
 Stephen Worrall, Aston University<br>
+Paul McKenna, University of Strathclyde<br>
+Jeyan Thiyagalingam, Tata Institute of Fundamental Research<br>
+Shabir Najmudin, Randall Centre, King's College London<br>
+Andrew Orr-Ewing FRS, University of Bristol<br>
