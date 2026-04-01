@@ -351,3 +351,7 @@ Reiner Zorn, Forschungszentrum Juelich<br>
 Leonie Stödter, Forschungszentrum Jülich<br>
 Aureliano Tartaglione, Technical University of Munich<br>
 Oleksandr Mykhaylyk, University of Sheffield<br>
+Laura McWilliams, Queen's University Belfast<br>
+Jim Thomas, University of Sheffield<br>
+Samuel Moody, Paul Scherrer Institute<br>
+Jon Goff, Royal Holloway University of London<br>
