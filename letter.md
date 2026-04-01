@@ -212,7 +212,6 @@ Graeme Blake, University of Groningen<br>
 Struan Simpson, University of Warwick<br>
 Rebecca Scatena, Diamond Light Source<br>
 Hanna Boström, Stockholm University<br>
-David Aragao, Diamond Light Source<br>
 Timothy Prior, University of Liverpool<br>
 Fanny Costa, University of Leeds<br>
 Claire Wilson, University of Glasgow<br>
