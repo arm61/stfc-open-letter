@@ -205,7 +205,6 @@ Farheen Sayed, University of Cambridge<br>
 Martin Ward, University of Strathclyde<br>
 Ellie Keil, The University of Southampton<br>
 John Helliwell, University of Manchester<br>
-Anna Herlihy, Diamond Light Source<br>
 Julia Payne, University of St Andrews<br>
 Sakil Awan, University of Plymouth<br>
 Graeme Blake, University of Groningen<br>
