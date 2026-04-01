@@ -192,7 +192,6 @@ Ashley Wooles, University of Manchester<br>
 Sacha Fop, University of Aberdeen<br>
 Radu Coldea, University of Oxford<br>
 Colin Seaton, University of Bradford<br>
-Eamonn Connolly, Diamond Light Source<br>
 John Finney, University College London<br>
 Ulrich Baisch, University of Malta<br>
 Kacper Druzbicki, Centre of Molecular and Macromolecular Studies, Polish Academy of Sciences<br>
