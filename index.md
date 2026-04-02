@@ -3,7 +3,7 @@ The *Open Letter Regarding The Importance of STFC Facilities* can be read by fol
 [Read The Letter](./letter.html)
 
 The letter was sent on **2nd April 2026**. 
-You still sign the letter, but it will only show up on the webpage. 
+You can still sign the letter, but it will only show up on the webpage. 
 
 If you would like to be a signatory of this open letter, please complete the form below and your name will be added shortly.
 
