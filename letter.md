@@ -389,3 +389,27 @@ Alec Thomas, University of Michigan<br>
 Andreas Döpp, LMU Munich<br>
 Manchikanti Krishnamurthy, Tata Institute of Fundamental Research<br>
 Christopher Murphy, University of York<br>
+Demeke Tegegne, University of St Andrews<br>
+Kerry McMahon, University of St Andrews<br>
+Su Ji Kim, University of St Andrews<br>
+Nida Shahbaz, University of St Andrews<br>
+Candice Mitchell, University of St Andrews<br>
+Michael Pitcher, Centre National de la Recherche Scientifique<br>
+Robert Armstrong, University of St Andrews<br>
+David Cordes, University of St Andrews<br>
+Saiful Islam, University of Oxford<br>
+Caroline Kirk, University of Edinburgh<br>
+Paul Connor, University of St Andrews<br>
+Jan-Willem Bos, University of St Andrews<br>
+Lemuel Crentsil, University of Oxford<br>
+Stephen Argent, University of Nottingham<br>
+Elaine Moore, The Open University<br>
+Martin Attfield, University of Manchester<br>
+Ieuan Seymour, University of Aberdeen<br>
+Joachim Breternitz, FH Münster University of Applied Sciences<br>
+Peter Dunne, Trinity College Dublin<br>
+Pablo Calvo, FAU Erlangen<br>
+Jeremy Sloan, University of Warwick<br>
+Neil Allan, University of Bristol<br>
+Weihao Li, University of Glasgow<br>
+Naveed Kausar	Janjua	Quaid-i-Azam University Islamabad<br>
