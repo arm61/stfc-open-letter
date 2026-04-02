@@ -447,3 +447,4 @@ Girija Perumal, Annamalai University<br>
 Debashis Tripathy, University of Cambridge<br>
 John Pasley, University of York<br>
 Jörg Schreiber, LMU Munich<br>
+Cormac McGuinness, Trinity College Dublin<br>
