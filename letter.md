@@ -376,3 +376,16 @@ Dame Clare Grey FRS, University of Cambridge<br>
 George Phillips, University of Cambridge<br>
 Ewan Dolier, University of Strathclyde<br>
 Charlotte Cordery, EMBL-EBI<br>
+Lukasz Domanski, University of Cambridge<br>
+Liam Nagle-Cocco, Stanford University<br>
+Teedhat Zugus Trisukhon, University of Cambridge<br>
+Jessica O'Flaherty, University of Cambridge<br>
+Sundeep Vema, University of Cambridge<br>
+Ramón Héctor Campoy Félix, University of Cambridge<br>
+Surat Prempluem, University of Cambridge<br>
+Stefan Karsch, Ludwig-Maximilians-Universität München<br>
+Louise Willingale, University of Michigan<br>
+Alec Thomas, University of Michigan<br>
+Andreas Döpp, LMU Munich<br>
+Manchikanti Krishnamurthy, Tata Institute of Fundamental Research<br>
+Christopher Murphy, University of York<br>
