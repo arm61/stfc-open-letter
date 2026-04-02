@@ -412,7 +412,7 @@ Pablo Calvo, FAU Erlangen<br>
 Jeremy Sloan, University of Warwick<br>
 Neil Allan, University of Bristol<br>
 Weihao Li, University of Glasgow<br>
-Naveed Kausar	Janjua	Quaid-i-Azam University Islamabad<br>
+Naveed Kausar	Janjua, Quaid-i-Azam University<br>
 Alexey Ganin, University of Glasgow<br>
 Robert Price, University of St Andrews<br>
 Jade Doody, University of Birmingham<br>
