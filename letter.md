@@ -452,3 +452,10 @@ Leon Focks, University of Cambridge<br>
 Jason Lynam, University of York<br>
 Jessica McConnell,  University of Cambridge<br>
 Anthony Phillips, Queen Mary University of London<br>
+Andreas Maier, Deutsches Elektronen Synchrotron DESY<br>
+James Le Houx, University of Greenwich<br>
+Philippa Cox, University of Birmingham<br>
+Thomas Ashton, University College London<br>
+Christian Pfleiderer, Technical University of Munich<br>
+Thomas Brogan, University of Birmingham<br>
+Eirini Kaiserli, University of Glasgow<br>
