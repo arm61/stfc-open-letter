@@ -461,3 +461,8 @@ Thomas Brogan, University of Birmingham<br>
 Eirini Kaiserli, University of Glasgow<br>
 Leonida Antonio Gizzi, CNR<br>
 Michael Hale, Newcastle University<br>
+Jergus Strucka, European XFEL<br>
+Donna Arnold, University of Kent<br>
+Thierry Bigault, Institut Laue Langevin<br>
+Alan Dunbar, University of Sheffield<br>
+Alisyn Nedoma, University of Sheffield<b>
