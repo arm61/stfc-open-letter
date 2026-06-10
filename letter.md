@@ -482,3 +482,7 @@ Stuart Cavill, University of York<br>
 Chris Toseland, University of Sheffield<br>
 Vijayakumar P Rajamanickam University of Bristol<br>
 Anthony Dornan University of Glasgow<br>
+Harry Sansom, University of Bristol<br>
+Matthew Wheatley<br>
+Edward Stuckey, Uppsala University<br>
+Samuel Fryer, University of Bristol<br>
