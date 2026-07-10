@@ -45,5 +45,3 @@ Yours sincerely,
 [Your name] 
 
 [Your address / postcode] 
-
-[Your email address]
