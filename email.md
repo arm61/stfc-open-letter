@@ -6,7 +6,7 @@ Subject: Please help protect the UK's multidisciplinary science facilities from 
 
 Dear [MP's name],
 
-I am writing to you as a constituent about UKRI’s “Explainer: STFC prioritisation outcomes 2026 to 2030" (https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/, 9 July 2026) and the cuts to UK national research infrastructure that it outlines. 
+I am writing to you as a constituent about the cuts to UK national research infrastructure outlined in the UKRI’s “Explainer: STFC prioritisation outcomes 2026 to 2030" (https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/, 9 July 2026), and the impacts this will have on UK science, innovation and growth. 
 
 ### What is being cut
 
