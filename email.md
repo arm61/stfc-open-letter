@@ -31,11 +31,10 @@ Running down our own facilities quietly removes a strategic capability that the 
 
 ### What I am asking you to do
 
-1. Raise these concerns with DSIT and UKRI/STFC, and ask for a full assessment of the impact on Industrial Strategy priority sectors;
-2. Push for the muon beamlines and Lasers for Science Facility to be protected rather than left to find alternative funding;
-3. Seek assurances on the 2027/2028 gateway reviews and press for Parliament to be kept informed;
-4. Ask what assessment has been made of the risks of relying on international facilities instead of sovereign UK capability;
-5. Raise this in the House via a written or oral question.
+1. Raise these concerns via a written or oral question in the House of Commons, and ask for a full assessment of the impact on Industrial Strategy priority sectors;
+2. Ask what assessment has been made of the risks of relying on international facilities instead of sovereign UK capability;
+3. Push for government support to protect muon beamlines and Lasers for Science Facility rather than abandoning them without a concrete plan of how to continue operation and retain jobs;
+4. Seek assurances on the 2027/2028 gateway reviews and press for Parliament to be kept informed;
 
 I'd welcome the chance to discuss this further, and am happy to meet if it's useful.
 
