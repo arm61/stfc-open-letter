@@ -26,7 +26,7 @@ Cutting access and support while asking these sectors to invest more sends a mix
 ### Sovereign capacity matters
 
 UK researchers may, in principle, use similar international facilities, but this is not a neutral substitute. 
-It means competing with host-nation researchers for oversubscribed beamtime, sending proprietary or security-sensitive materials abroad, and paying in foreign currency for a capability the UK doesn't control. 
+It means competing with host-nation researchers for access, sending proprietary or security-sensitive materials abroad, and paying in foreign currency for a capability the UK doesn't control. 
 Running down our own facilities quietly removes a strategic capability that the Industrial Strategy is meant to build, not export.
 
 ### What I am asking you to do
