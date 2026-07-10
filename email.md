@@ -1,3 +1,7 @@
+[Find Your MPs Contact Details](https://www.theyworkforyou.com)
+
+<hr>
+
 Subject: Please help protect the UK's multidisciplinary science facilities from budget cuts
 
 Dear [MP's name],
@@ -44,7 +48,3 @@ Yours sincerely,
 [Your address / postcode] 
 
 [Your email address]
-
-<hr>
-
-[Find Your MPs Contact Details](https://www.theyworkforyou.com)
