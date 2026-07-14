@@ -12,3 +12,7 @@ If you would like to be a signatory of this open letter, please complete the for
 ## Sign The Letter
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3u6dcq7fxKQQzWsqBWrNrLwIrbNhzi-oUf4KuwiOPgZe0jA/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Muon Letter
+
+Following the announcement of the results of the priorisation activity by STFC, we have prepared a [muon scattering](./muon.html) specific letter to be sent to Michele Dougherty. 
