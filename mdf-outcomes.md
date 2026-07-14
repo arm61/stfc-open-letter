@@ -203,3 +203,53 @@ Ulrich Baisch, Professor  (University of Malta)<br>
 Leon Focks, PhD Student (University of Cambridge)<br>
 Jon Goff, Chair of Experimental Condensed Matter Physics (Royal Holloway University of London)<br>
 Victoria Hilborne, Associate Professor (Teaching) (UCL)<br>
+Hanna  Boström ,  (Stockholm University )<br>
+Alan Drew, Professor of Experimental Physics (Queen Mary University of London)<br>
+Alex Cline, Senior Lecturer in Information Systems (Queen Mary University of London)<br>
+Michael Quin, Postdoc (Gothenburg University)<br>
+Sanjit Nayak, Senior Lecturer (University of Bristol)<br>
+Nathan Bentley, PhD student (Durham University)<br>
+Jon Marangos, Professor of Physics (Imperial College London)<br>
+Denis Vasiukov, Instrument Scientist (European Spallation Source ERIC)<br>
+Marta Falkowska, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
+Andrew Huxley, Professor (University of Edinburgh )<br>
+Andrew Beale, Professor of Inorganic Chemistry (UCL)<br>
+Anna Marie Davies, Research Fellow (King's College London)<br>
+Jonathan Nitschke, Professor of Chemistry (University of Cambridge)<br>
+Aryaman  Gogoi Baruah, PhD (University of St Andrews)<br>
+Raj Pandya, Assistant Professoe (University of Cambridge and Warwick )<br>
+Saskia Lindhoud, Professor  (University of Twente)<br>
+Alexey Kiselyk, PhD student (Durham University)<br>
+Seán Kavanagh, Assistant Professor (University of Cambridge)<br>
+Clare  Grey, Professor  (University of Cambridge )<br>
+Richard  Walton, Professor of Chemistry (University of Warwick)<br>
+Boyan Bonev, Professor of Biophysics, Director fo Research & KE (University of Nottingham)<br>
+Simon Parsons, Emeritus Professor of Crystallography (The University of Edinburgh)<br>
+Manuel dos Santos Dias, Computational Scientist (STFC Scientific Computing)<br>
+Lukasz Domanski, PhD student (University of Cambridge )<br>
+Alastair Lennox, Professor of Chemistry (University of Bristol)<br>
+Jeremiah Tidey, Senior Research Technician (University of Warwick & National Electron Diffraction Facility)<br>
+Maisoon  Al-Jawad , Professor of Biological Physics (University of Leeds)<br>
+Bob C. Schroeder, Professor of Organic Materials (UCL)<br>
+James Steele, Postdoctoral Research Fellow (University of Oxford )<br>
+Jacques Huot, Professor (Université du Québec à Trois-Rivières)<br>
+Amber Visser, PhD candidate (University of Cambridge)<br>
+Julia Rho, Lecturer of Organic Chemistry (UCL)<br>
+Daniel Rainer, Senior Specialist Technician (University of Southampton)<br>
+Joao Muniz, Professor (University of Sao Paulo, Sao Carlos Institute of Physics, Brazil.)<br>
+Del Atkinson, Professor of Physics (Durham University)<br>
+Shu Mo, PhD student (University of St Andrews)<br>
+Gavin Bell, Professor of Physics (University of Warwick)<br>
+James Keeler, Head of Department (Yusuf Hamied Department of Chemistry (University of Cambridge))<br>
+Matthew Evans, Research Fellow (University of Cambridge)<br>
+Marin Alexe, Professor, Chair of Functional Materials (University of Warwick )<br>
+Keith Butler, Associate Professor  (UCL)<br>
+Marta Falkowska, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
+Stuart  Clarke, Professor of Surface Science (University of Cambridge)<br>
+Naëmi Leo, UKRI Future Leader Fellow (Loughborough University )<br>
+Jason Greenwood, Reader (Queen's University Belfast)<br>
+Mads Gabrielsen, Facility lead (University of Glasgow)<br>
+Bora  Karasulu , Associate Professor in computational chemistry (University of Warwick )<br>
+Anna Marie  Davies, Research Fellow (King's College London)<br>
+Daniel  Halliday, Postdoctoral Research Associate  (Durham University )<br>
+
