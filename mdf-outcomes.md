@@ -178,3 +178,7 @@ Matthew Pearce, Postdoctoral Researcher (Durham University)<br>
 Shabir Najmudin, Senior Research Fellow (Randall Centre, King's College London)<br>
 Catherine  Pappas, Emerita professor  (Delft University of Technology )<br>
 Kacper Druzbicki, Professor (Polish Academy of Sciences)<br>
+Julia Payne, Lecturer in Inorganic Chemistry (University of St Andrews)<br>
+Adam Michalchuk, Associate Professor of Physical Chemistry (University of Birmingham)<br>
+Thomas Sheerin, Postdoctoral researcher (University of St Andrews)<br>
+Bruno Kenichi Saika, Postdoctoral researcher (University of St Andrews)<br>
