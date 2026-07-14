@@ -154,3 +154,27 @@ John Helliwell, Emeritus Professor in Dept of Chemistry (University of Mancheste
 Stephen  Fielden, Royal Society Dorothy Hodgkin Fellow (University of Birmingham)<br>
 Saiful Islam, Professor of Materials Science  (University of Oxford )<br>
 Thomas Brogan, Ph.D. Candidate in Condensed Matter Physics  (University of Birmingham)<br>
+Caroline Kirk, Professor of Sustainable Materials Chemistry (University of Edinburgh)<br>
+Ieuan Seymour, Lecturer (University of Aberdeen)<br>
+Euan Brechin , Crum Brown Chair of Chemistry (The University of Edinburgh )<br>
+Stuart Cavill, Professor of Condensed Matter Physics (University of York)<br>
+Klaas Wynne, Chair of Chemical Physics (University of Glasgow)<br>
+Paul Freeman, Senior Lecturer (University of Lancashire)<br>
+George Phillips, PhD Student (University of Cambridge)<br>
+Enrico Da Como, Associate Professor (University of Bath)<br>
+Oscar Cespedes, Professor (University of Leeds)<br>
+Simon Bending, Professor (University of Bath)<br>
+Diogo A. Fernandes De Almeida, Research Fellow (University of St Andrews)<br>
+Paul Saines, Reader in Chemistry (University of Kent)<br>
+Daniel Wilson, 1851 Research Fellow (UCL)<br>
+Jose Luis Garcia-Muñoz, Research Professor  ( Institute of Materials Science of Barcelona (ICMAB-CSIC))<br>
+Yoshiko Nanao, Post-doc researcher  (University of St Andrews)<br>
+Nik Reeves-McLaren, Senior Lecturer (University of Sheffield)<br>
+Thomas Ashton, Associate Professor (UCL)<br>
+Neil Robertson, Professor, School of Chemistry (University of Edinburgh)<br>
+Chris Clarkson, Professor of Cosmology (Queen Mary University of London)<br>
+Jorge Quintanilla, Director, Quantum Applications Research Centre (University of Kent)<br>
+Matthew Pearce, Postdoctoral Researcher (Durham University)<br>
+Shabir Najmudin, Senior Research Fellow (Randall Centre, King's College London)<br>
+Catherine  Pappas, Emerita professor  (Delft University of Technology )<br>
+Kacper Druzbicki, Professor (Polish Academy of Sciences)<br>
