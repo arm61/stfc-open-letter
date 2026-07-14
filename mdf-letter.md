@@ -20,3 +20,5 @@ Targeting cuts here, rather than allowing the MDFs to make strategic funding cho
 We urge you to reconsider the scale of the cuts to the MDFs and to allow those cuts that must be made to be based on consultation with users, evidence, and with regard to the talent that exists across the diverse UK scientific community that STFC is meant to serve.
  
 Yours sincerely,
+
+Andrew	McCluskey,	Senior Lecturer	(University of Bristol)
