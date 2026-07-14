@@ -31,3 +31,12 @@ Lucy Clark, Professor of Materials Chemistry (University of Birmingham)<br>
 Andrew McCluskey,	Senior Lecturer	(University of Bristol)<br>
 Thorsten Hesjedal, Professor (University of Oxford)<br>
 Serena Cussen, Full Professor in Materials Chemistry (University College Dublin)<br>
+Tom Lancaster, Deputy Head of Physics (Durham University)<br>
+Michael Hayward, Professor of Inorganic Chemistry (University of Oxford)<br>
+Hariom Jani, Royal Society - University Research Fellow (University of Oxford)<br>
+Marek Szablewski, Professor of Physics (Durham University)<br>
+John Evans, Professor of Materials Chemistry (Durham University)<br>
+Claudio Castelnovo, Professor (University of Cambridge)<br>
+Emma McCabe, Associate Professor of Physics (Durham University)<br>
+Budhika Mendis, Professor (Durham University)<br>
+Sean Giblin, Professor (Cardiff University)<br>
