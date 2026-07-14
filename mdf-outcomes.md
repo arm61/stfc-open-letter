@@ -2,7 +2,17 @@ The *Open Letter In Response to STFC Priorisation Activity Outcomes for the Mult
 
 [**Sign the Letter**](https://docs.google.com/forms/d/e/1FAIpQLSc0JSfyoV88DsqG--tcwK9BzwCmwJKTb5h4evND3v0Aih1HFw/viewform?usp=dialog)
 
-Dear Professor Dougherty,
+14 July 2026
+
+Professor Michele Dougherty
+Executive Chair, Science and Technology Facilities Council
+
+Professor Sir Ian Chapman
+Chief Executive, UK Research and Innovation
+
+Re: Response to STFC Priorisation Activity Outcomes for the Multidisciplinary Facilities User Communities
+
+Dear Professor Dougherty and Professor Sir Ian Chapman,
 
 We are writing to express our deep concern about the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs) such as ISIS and Diamond. Although we recognise the need for STFC to operate sustainably, the cuts announced fall disproportionately on these MDFs and will cause serious harm to the large and highly interdisciplinary UK facility user community working across condensed matter physics, materials science, chemistry, engineering, and the life sciences.
 
