@@ -69,3 +69,6 @@ Geetha Balakrishnan, Professor  (University of Warwick)<br>
 Nicola Kelly, Research Fellow (University of Cambridge)<br>
 Matthew Coak, Associate Professor in Condensed Matter Physics (University of Birmingham)<br>
 Geetha Balakrishnan, Professor (University of Warwick)<br>
+Andrew Jackson, Adjunct Senior Lecturer (Lund University)<br>
+James Annis, Research Fellow (University of Birmingham)<br>
+Steven Bramwell, Director (London Centre for Nanotechnology, UCL)<br>
