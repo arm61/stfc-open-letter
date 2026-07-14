@@ -63,3 +63,9 @@ Nicholas Bristowe, Associate Professor (Durham University )<br>
 Harry Lloyd, PhD Student (University of Birmingham)<br>
 Abbie Mclaughlin, Professor of Chemistry (University of Aberdeen)<br>
 Louise Male, X-ray Diffraction Facility Manager (University of Birmingham)<br>
+Alexandra Gibbs, Reader (University of St Andrews)<br>
+James Barclay, Postdoctoral Researcher (University of Birmingham )<br>
+Geetha Balakrishnan, Professor  (University of Warwick)<br>
+Nicola Kelly, Research Fellow (University of Cambridge)<br>
+Matthew Coak, Associate Professor in Condensed Matter Physics (University of Birmingham)<br>
+Geetha Balakrishnan, Professor (University of Warwick)<br>
