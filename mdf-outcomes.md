@@ -104,3 +104,14 @@ Rachel  Crespo Otero, Associate Professor  (University College London)<br>
 Aidan Hindmarch, Associate Professor (Durham University)<br>
 Benjamin Moss, Lecturer in Inorganic Materials Chemistry (UCL)<br>
 Daniel Mayoh, Assistant Professor (University of Warwick)<br>
+Patricija Mendelyte, PhD student (University of Edinburgh)<br>
+Sarah Price, Professor of Physical Chemistry (UCL)<br>
+Tracey Clarke, Associate Professor (UCL)<br>
+Gunnar Möller, Head of Physics of Quantum & Materials Group (University of Kent)<br>
+Joseph Wright, Senior Lecturer in Energy Materials  (University of East Anglia)<br>
+Nicola Morley, Professor of Materials Physics (University of Sheffield)<br>
+Yishan Lu, PhD student  (University of Edinburgh )<br>
+Yiming  Zhao, PhD student  (University of Edinburgh )<br>
+Phoebe Allan, Professor of Materials Chemistry (University of Birmingham)<br>
+Steve Armes, Firth Professor of Chemistry (University of Sheffield)<br>
+Anthony Phillips, Professor of Physics and Chemistry of Materials (Queen Mary University of London)<br>
