@@ -198,3 +198,8 @@ River Riley, Associate Professor of Chemistry (UCL)<br>
 Ben Humphreys, instrument scientist (Institut Laue-Langevin (ILL))<br>
 Sundeep Vema, Postdoctoral Research Fellow (University of Cambridge)<br>
 Ewan Thomas, DPhil Student (University of Oxford)<br>
+Dipranjan  Chatterjee, Postdoctoral Research Assistant (University of Oxford)<br>
+Ulrich Baisch, Professor  (University of Malta)<br>
+Leon Focks, PhD Student (University of Cambridge)<br>
+Jon Goff, Chair of Experimental Condensed Matter Physics (Royal Holloway University of London)<br>
+Victoria Hilborne, Associate Professor (Teaching) (UCL)<br>
