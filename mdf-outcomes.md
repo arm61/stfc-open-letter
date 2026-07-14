@@ -30,3 +30,4 @@ Stephen Blundell, Professor of Physics (University of Oxford)<br>
 Lucy Clark, Professor of Materials Chemistry (University of Birmingham)<br>
 Andrew McCluskey,	Senior Lecturer	(University of Bristol)<br>
 Thorsten Hesjedal, Professor (University of Oxford)<br>
+Serena Cussen, Full Professor in Materials Chemistry (University College Dublin)<br>
