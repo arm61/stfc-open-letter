@@ -72,3 +72,5 @@ Geetha Balakrishnan, Professor (University of Warwick)<br>
 Andrew Jackson, Adjunct Senior Lecturer (Lund University)<br>
 James Annis, Research Fellow (University of Birmingham)<br>
 Steven Bramwell, Director (London Centre for Nanotechnology, UCL)<br>
+Andrew Heard, Research Fellow (University of Birmingham)<br>
+Tim Barendt, Associate Prof in Chemistry (University of Birmingham)<br>
