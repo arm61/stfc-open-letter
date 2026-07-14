@@ -48,4 +48,18 @@ Christopher Marrows, Professor & Head of Condensed Matter Physics (University of
 Sian Dutton, Professor (University of Cambridge)<br>
 Andrew Boothroyd, Head of Department of Physics (University of Oxford)<br>
 Stewart Clark, Professor of Physics (Durham University)<br>
-
+Matthew Cliffe, Associate Professor of Materials Chemistry (University of Cambridge)<br>
+Duncan Bruce, Professor of Materials Chemistry (University of York)<br>
+Elizabeth  Bromley, Professor (Durham University)<br>
+J. Paul Attfield, Chair of Materials Science At Extreme Conditions (University of Edinburgh)<br>
+Malte Grosche, Professor for Condensed Matter Physics (University of Cambridge)<br>
+Caitlin Brooker-Davis, PhD student (University of Birmingham)<br>
+Naveen Naguleswaran, PhD researcher (University of Birmingham)<br>
+Jacob Brownlee, PhD Student (University of Birmingham / ISIS Neutron and Muon Source)<br>
+Paul Goddard, Professor of Physics  (University of Warwick )<br>
+Thomas Hicken, Postdoctoral Fellow (Paul Scherrer Institute)<br>
+Martin Lees, Professor of Physics (University of Warwick)<br>
+Nicholas Bristowe, Associate Professor (Durham University )<br>
+Harry Lloyd, PhD Student (University of Birmingham)<br>
+Abbie Mclaughlin, Professor of Chemistry (University of Aberdeen)<br>
+Louise Male, X-ray Diffraction Facility Manager (University of Birmingham)<br>
