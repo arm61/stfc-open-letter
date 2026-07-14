@@ -115,3 +115,39 @@ Yiming  Zhao, PhD student  (University of Edinburgh )<br>
 Phoebe Allan, Professor of Materials Chemistry (University of Birmingham)<br>
 Steve Armes, Firth Professor of Chemistry (University of Sheffield)<br>
 Anthony Phillips, Professor of Physics and Chemistry of Materials (Queen Mary University of London)<br>
+Colin Seaton, Associate Professor (University of Bradford)<br>
+Zachary Warren , Postdoctoral Research Associate  (University of Bath)<br>
+Robert Jackson, Emeritus Reader in Computational Solid State Chemistry (Keele University)<br>
+Alan Dunbar, Senior Lecturer (University of Sheffield)<br>
+Hamish Yeung, Associate Professor of Materials Chemistry (University of Birmingham)<br>
+Iain Oswald, Reader (University of Strathclyde)<br>
+Joshaniel Cooper, Instrument Scientist (European Spallation Source)<br>
+Struan Simpson, Research fellow (University of Warwick)<br>
+Andrew Orr-Ewing FRS, Professor (University of Bristol)<br>
+Judith Peters, Professor (Univ. Grenoble Alpes)<br>
+Martin Attfield, Reader (The University of Manchester)<br>
+Liam Nagle-Cocco, Postdoctoral researcher  (Stanford University)<br>
+Andrew Purkiss, Principal Laboratory Research Scientist (The Francis Crick Institute)<br>
+John Claridge, Reader (University of Liverpool)<br>
+James Hallett, Lecturer in Physical Chemistry (University of Reading)<br>
+Arzhang Ardavan, Professor of Physics and Head of Condensed Matter Physics (University of Oxford)<br>
+Charles Dewhurst, Staff Scientist (Institut Laue-Langevin, Grenoble, France)<br>
+Sacha Fop, Lecturer (University of Aberdeen)<br>
+Hannah Maguire, PhD Student (Queen's University Belfast)<br>
+William Sharratt, Lecturer in Soft Materials (University of Liverpool)<br>
+Bob Baker, Assistant Professor  (Trinity college Dublin)<br>
+John Slattery, Reader in Chemistry (The University of York)<br>
+Dr Eliza Dempsey, Postdoctoral Research Fellow (Trinity College Dublin)<br>
+Derri  Hughes, PhD Researcher in Chemical Physics (University of Southampton)<br>
+Matthew Potter, Lecturer in Inorganic Chemistry (University of Bath)<br>
+Dave Adams, Professor (University of Glasgow)<br>
+Joseph Bear, Senior Lecturer in Inorganic Chemistry (Kingston University)<br>
+Lizzie Evans, PhD student (University of Birmingham )<br>
+Patricio Munoz, Assistant professor (Universidade de Sao Paulo, Brazil)<br>
+Alexey Ganin, Senior Lecturer (University of Glasgow)<br>
+Mingee Chung, Associate Professor (University of Birmingham)<br>
+Tony Bell, Senior Technical Specialist (Sheffield Hallam University)<br>
+Simon Clarke, Professor of Chemistry; IMAT-CDT Director (University of Oxford)<br>
+Tamara Alhilfi, Associate Professor (University college London)<br>
+James Le Houx, Senior Lecturer  (University of Greenwich)<br>
+John Helliwell, Emeritus Professor in Dept of Chemistry (University of Manchester)<br>
