@@ -15,4 +15,4 @@ If you would like to be a signatory of this open letter, please complete the for
 
 ## Outcomes Letter
 
-Following the announcement of the results of the priorisation activity by STFC, we have prepared a [second letter](./mdf-outcome.html) expressing concerns regarding the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs).
+Following the announcement of the results of the priorisation activity by STFC, we have prepared a [second letter](./mdf-outcomes.html) expressing concerns regarding the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs).
