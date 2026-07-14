@@ -26,4 +26,6 @@ We urge you to reconsider the scale of the cuts to the MDFs and to allow those c
 
 Yours sincerely,
 
-Andrew	McCluskey,	Senior Lecturer	(University of Bristol)
+Stephen Blundell, Professor of Physics (University of Oxford)
+Lucy Clark, Professor of Materials Chemistry (University of Birmingham)
+Andrew McCluskey,	Senior Lecturer	(University of Bristol)
