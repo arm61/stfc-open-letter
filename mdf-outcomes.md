@@ -47,4 +47,5 @@ Radu Coldea, Professor of Physics (University of Oxford)<br>
 Christopher Marrows, Professor & Head of Condensed Matter Physics (University of Leeds)<br>
 Sian Dutton, Professor (University of Cambridge)<br>
 Andrew Boothroyd, Head of Department of Physics (University of Oxford)<br>
+Stewart Clark, Professor of Physics (Durham University)<br>
 
