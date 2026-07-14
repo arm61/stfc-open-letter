@@ -102,3 +102,5 @@ Hugh  Geaney, Associate Professor (University of Limerick)<br>
 Miguel Rivera, Associate Professor (Teaching) (UCL)<br>
 Rachel  Crespo Otero, Associate Professor  (University College London)<br>
 Aidan Hindmarch, Associate Professor (Durham University)<br>
+Benjamin Moss, Lecturer in Inorganic Materials Chemistry (UCL)<br>
+Daniel Mayoh, Assistant Professor (University of Warwick)<br>
