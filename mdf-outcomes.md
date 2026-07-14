@@ -44,3 +44,7 @@ Sir Richard Catlow, Research Professor (UCL and Cardiff University)<br>
 Anna Regoutz, Associate Professor in Experimental Inorganic Chemistry (University of Oxford)<br>
 Roger Johnson, Associate Professor (Durham University)<br>
 Radu Coldea, Professor of Physics (University of Oxford)<br>
+Christopher Marrows, Professor & Head of Condensed Matter Physics (University of Leeds)<br>
+Sian Dutton, Professor (University of Cambridge)<br>
+Andrew Boothroyd, Head of Department of Physics (University of Oxford)<br>
+
