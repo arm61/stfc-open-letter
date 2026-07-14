@@ -252,4 +252,11 @@ Mads Gabrielsen, Facility lead (University of Glasgow)<br>
 Bora  Karasulu , Associate Professor in computational chemistry (University of Warwick )<br>
 Anna Marie  Davies, Research Fellow (King's College London)<br>
 Daniel  Halliday, Postdoctoral Research Associate  (Durham University )<br>
+Fernando B. Dias, Professor, Condensed matter Physics (University of Durham)<br>
+Dejan-Kresimir Bucar, Associate Professor (University College London)<br>
+Aditya Singh, Research Fellow  (Warwick University )<br>
+Reidar Lund, Professor (University of Oslo)<br>
+Josie Ball, PhD student  (University of Manchester)<br>
+Kanad Mallik, Lead Systems Engineer, R&D (Malvern Panalytical Ltd)<br>
+Andrew Stewart, TEM Facility Manager (University College London )<br>
 
