@@ -74,3 +74,31 @@ James Annis, Research Fellow (University of Birmingham)<br>
 Steven Bramwell, Director (London Centre for Nanotechnology, UCL)<br>
 Andrew Heard, Research Fellow (University of Birmingham)<br>
 Tim Barendt, Associate Prof in Chemistry (University of Birmingham)<br>
+Andrew Heard, Research Fellow (University of Birmingham)<br>
+Tim Barendt, Associate Prof in Chemistry (University of Birmingham)<br>
+Lee Brammer, Professor of Chemistry (University of Sheffield)<br>
+Isolde Marsland, PhD Student (University of Edinburgh)<br>
+John Irvine, Professor of Chemistry (University of St Andrews)<br>
+Eddie  Cussen, Lecturer in Green and Sustainable Chemistry (Technological University Dublin)<br>
+Kate Emmerson, PhD Student (University of Edinburgh)<br>
+Fabrizia Foglia, Associate Professor in Inorganic & material Chemistry (UCL)<br>
+Jan-Willem  Bos, Reader (University of St Andrews )<br>
+Malcolm McMahon, Professor of Physics (University of Edinburgh)<br>
+Evgenia  Georgiadou , PhD student  (University of St Andrews)<br>
+Maximilian Pelly, Research Fellow (University of St Andrews)<br>
+Benjamin Huddart, Postdoctoral Research Assistant (University of Oxford)<br>
+Claire Hobday, Senior Lecturer and UKRI Future Leaders Fellow (University of Edinburgh)<br>
+Phil King, Professor of Physics (University of St Andrews)<br>
+Michael Parkes, Senior Researcher (UCL)<br>
+Kislon Voitchovsky, Professor, Head of Condensed Matter Physics (Durham University)<br>
+Adam Clancy, Lecturer of Inorganic Chemistry (UCL)<br>
+Sam Cassidy, Lecturer (UCL)<br>
+Rebecca Rae, Research Specialist in Materials Chemistry (University of Edinburgh)<br>
+Karen  Johnston, Associate Professor (Durham University)<br>
+Christoph Salzmann, Professor (University College London)<br>
+Naina Kushwaha, PhD student (University of St-Andrews)<br>
+Gavin Burnell, Professor of Materials Physics (University of Leeds)<br>
+Hugh  Geaney, Associate Professor (University of Limerick)<br>
+Miguel Rivera, Associate Professor (Teaching) (UCL)<br>
+Rachel  Crespo Otero, Associate Professor  (University College London)<br>
+Aidan Hindmarch, Associate Professor (Durham University)<br>
