@@ -182,3 +182,6 @@ Julia Payne, Lecturer in Inorganic Chemistry (University of St Andrews)<br>
 Adam Michalchuk, Associate Professor of Physical Chemistry (University of Birmingham)<br>
 Thomas Sheerin, Postdoctoral researcher (University of St Andrews)<br>
 Bruno Kenichi Saika, Postdoctoral researcher (University of St Andrews)<br>
+Nida Shahbaz, PhD Student (University of St Andrews)<br>
+Geoff Thornton, Professor of Physical Chemistry (UCL)<br>
+Jacob Williams, PhD Student (University of Birmingham)<br>
