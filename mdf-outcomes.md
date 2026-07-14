@@ -40,3 +40,7 @@ Claudio Castelnovo, Professor (University of Cambridge)<br>
 Emma McCabe, Associate Professor of Physics (Durham University)<br>
 Budhika Mendis, Professor (Durham University)<br>
 Sean Giblin, Professor (Cardiff University)<br>
+Sir Richard Catlow, Research Professor (UCL and Cardiff University)<br>
+Anna Regoutz, Associate Professor in Experimental Inorganic Chemistry (University of Oxford)<br>
+Roger Johnson, Associate Professor (Durham University)<br>
+Radu Coldea, Professor of Physics (University of Oxford)<br>
