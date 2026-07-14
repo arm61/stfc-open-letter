@@ -13,6 +13,6 @@ If you would like to be a signatory of this open letter, please complete the for
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3u6dcq7fxKQQzWsqBWrNrLwIrbNhzi-oUf4KuwiOPgZe0jA/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Muon Letter
+## Outcomes Letter
 
-Following the announcement of the results of the priorisation activity by STFC, we have prepared a [muon scattering](./muon.html) specific letter to be sent to Michele Dougherty. 
+Following the announcement of the results of the priorisation activity by STFC, we have prepared a [second letter](./mdf-outcome.html) expressing concerns regarding the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs).
