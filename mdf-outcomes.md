@@ -151,3 +151,6 @@ Simon Clarke, Professor of Chemistry; IMAT-CDT Director (University of Oxford)<b
 Tamara Alhilfi, Associate Professor (University college London)<br>
 James Le Houx, Senior Lecturer  (University of Greenwich)<br>
 John Helliwell, Emeritus Professor in Dept of Chemistry (University of Manchester)<br>
+Stephen  Fielden, Royal Society Dorothy Hodgkin Fellow (University of Birmingham)<br>
+Saiful Islam, Professor of Materials Science  (University of Oxford )<br>
+Thomas Brogan, Ph.D. Candidate in Condensed Matter Physics  (University of Birmingham)<br>
