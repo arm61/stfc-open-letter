@@ -185,3 +185,16 @@ Bruno Kenichi Saika, Postdoctoral researcher (University of St Andrews)<br>
 Nida Shahbaz, PhD Student (University of St Andrews)<br>
 Geoff Thornton, Professor of Physical Chemistry (UCL)<br>
 Jacob Williams, PhD Student (University of Birmingham)<br>
+Caroline Knapp, Associate Professor (University College London)<br>
+Mark Sanderson, Visiting Professor (Division of Systems Medicine, Imperial College London)<br>
+Alexander O'Malley, Senior Lecturer  (University of Bath)<br>
+Heloisa Nunes Bordallo, Professor (Assoc) (University of Copenhagen )<br>
+Kelly Morrison, Professor of experimental physics (Loughborough University)<br>
+Freya Johnson, Eric and Wendy Schmidt AI in Science Research Fellow (Imperial College London)<br>
+Andrew Burnett, Associate Professor (University of Leeds)<br>
+Claire Wilson, Analytical Services Manager (University of Glasgow)<br>
+Robert  Price, Research Fellow (University of St Andrews)<br>
+River Riley, Associate Professor of Chemistry (UCL)<br>
+Ben Humphreys, instrument scientist (Institut Laue-Langevin (ILL))<br>
+Sundeep Vema, Postdoctoral Research Fellow (University of Cambridge)<br>
+Ewan Thomas, DPhil Student (University of Oxford)<br>
