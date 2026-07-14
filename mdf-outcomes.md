@@ -1,6 +1,6 @@
 The *Open Letter In Response to STFC Priorisation Activity Outcomes for the Multidisciplinary Facilities User Communities* can be read by following the link below: 
 
-[Read The Letter](./muon-letter.html)
+[Read The Letter](./mdf-letter.html)
 
 If you would like to be a signatory of this open letter, please complete the form below and your name will be added shortly.
 
