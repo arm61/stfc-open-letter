@@ -261,3 +261,15 @@ Kanad Mallik, Lead Systems Engineer, R&D (Malvern Panalytical Ltd)<br>
 Andrew Stewart, TEM Facility Manager (University College London)<br>
 Michael  Hale, Postgraduate Research Student (Newcastle University )<br>
 Harry Richardson, PhD student  (University of Bristol )<br>
+Eddy Lelièvre-Berna, Head of Services for Advanced Neutron Environment (Institut Laue-Langevin)<br>
+Ralf Schweins, Head of LSS group (Institut Laue - Langevin)<br>
+Thomas Moore, Associate Professor (University of Leeds)<br>
+Derek Wann, Head of Department of Chemistry (University of York)<br>
+Veronique Arluison, Professor (Assoc) (University Paris Cité)<br>
+Tom Chamberlain, Research Fellow (University of Warwick)<br>
+Jose Maria Porro Azpiazu, Associate Professor (BCMaterials)<br>
+Ellie Keil, PGR (The University of Southampton)<br>
+Jim Thomas, Prof of  inorganic chemistry  (University of Sheffield )<br>
+John Finney, Emeritus Professor of Physics (University College London)<br>
+Chris Stock, Professor Physics (University of Edinburgh)<br>
+Carole Morrison, Professor in Computational Chemistry (University of Edinburgh)<br>
