@@ -288,12 +288,12 @@ Nicholas Hine, Professor of Physics (University of Warwick)<br>
 Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
 Marios Hadjimichael, Associate Professor (University of Warwick)<br>
 Mark Light, Associate Professor - X-ray scattering (University of Southampton)<br>
-Matej Pregelj, senior reserch fellow (Jožef Stefan Institute)<br>
+Matej Pregelj, senior research fellow (Jožef Stefan Institute)<br>
 Deborah Harrus, PDBe Archive Project Leader (EMBL-EBI)<br>
 Donna Arnold, Reader in Chemistry and Forensic Science (University of Kent)<br>
 Thomas Prokscha, Head a.i. Laboratory for Muon Spin Spectroscopy (Paul Scherrer Institute)<br>
 Jennifer Graham, Assistant Professor (Lund University)<br>
-Nikitas  Gidopoulos , Associate Professor  (Durham University )<br>
+Nikitas  Gidopoulos, Associate Professor  (Durham University )<br>
 Kevin Jaksetič, PhD student (Jožef Stefan Institute)<br>
 Peter Murray-Rust, Reader Emeritus  (University of Cambridge)<br>
 Chung Xu, PhD (University College London)<br>
@@ -309,7 +309,7 @@ Silvia Gutiérrez, postdoc (ITQ)<br>
 Simon Titmuss, Reader in Soft Matter Physics (University of Edinburgh)<br>
 Jon Husband, Research Fellow in Sustainable Chemical Technologies (University of Bath)<br>
 Anna Roffey, Associate Professor (Teaching) (UCL)<br>
-Manuel Sánchez-Sánchez, Scientific Reseracher (Institute of Catalysis and Petroleum Chemistry (ICP), CSIC)<br>
+Manuel Sánchez-Sánchez, Scientific Researcher (Institute of Catalysis and Petroleum Chemistry (ICP), CSIC)<br>
 Jack Stewart, PDRA (University of Bath)<br>
 Michael Walters, PhD student (University of Bath)<br>
 Ian Tucker, Retired Scientist and Former NSG Chair (Retired)<br>
@@ -319,7 +319,7 @@ Paul Waddell, Crystallography Officer (Newcastle University)<br>
 Andreas W Rost, Lecturer, School of Physics and Astronomy (University of St Andrews)<br>
 Thomas Smith, PhD Student (Newcastle University)<br>
 Phoebe Meadows, PhD Researcher (Royal Holloway, University of London)<br>
-Sam Thompson , Postdoctoral Fellow (Aarhus University)<br>
+Sam Thompson, Postdoctoral Fellow (Aarhus University)<br>
 Jade Doody, PhD Student (University of Birmingham)<br>
 Peter Dunne,  (Trinity College Dublin)<br>
 Peter Fouquet, Head of the ILL Doctoral School (Institut Laue-Langevin)<br>
@@ -336,3 +336,10 @@ Mikr Glazer, Emeritus Professor of Physics (Oxford University)<br>
 Maria Asuncion Molina Esquinas, Postdoctoral Research Assistant (Diamond Light Source)<br>
 John Dainton FRS, Prof Physics and Cockcroft Institute ( Lancaster Univ)<br>
 Pam Thomas, Professor of Physics (University of Warwick)<br>
+Jean-Marie Peron, Senior Lecturer in Organic and Pharmaceutical Chemistry (Kingston University)<br>
+Ramón  De la Serna, Postdoctoral researcher (ICP-CSIC)<br>
+Alexandra  Longcake, RTP in Advanced Diffraction Methods  (University of Liverpool )<br>
+Lucy Schofield, PhD Student (University of York)<br>
+Rushabh  Chheda, PhD Student in Chemistry  (University of Bath )<br>
+Jonas A. Krieger, Scientist (Paul Scherrer Institute)<br>
+Sean Wang, PhD student in Chemistry (University of York)<br>
