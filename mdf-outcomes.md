@@ -258,5 +258,6 @@ Aditya Singh, Research Fellow  (Warwick University )<br>
 Reidar Lund, Professor (University of Oslo)<br>
 Josie Ball, PhD student  (University of Manchester)<br>
 Kanad Mallik, Lead Systems Engineer, R&D (Malvern Panalytical Ltd)<br>
-Andrew Stewart, TEM Facility Manager (University College London )<br>
-
+Andrew Stewart, TEM Facility Manager (University College London)<br>
+Michael  Hale, Postgraduate Research Student (Newcastle University )<br>
+Harry Richardson, PhD student  (University of Bristol )<br>
