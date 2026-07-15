@@ -436,3 +436,7 @@ Ben Davies , PhD Student  (Cardiff University )<br>
 Zhongyu Jiang, PhD student (Cardiff University)<br>
 Akhil Rajan, Research Fellow (University of St Andrews)<br>
 Brian Tanner, Emeritus Professor of Physics (Durham University)<br>
+Hayley Gilbert, PhD student (Cambridge University )<br>
+Manuel López Granados, Professor (Spanish National Research Council (Institute of Catalysis and Petrochemistry))<br>
+Zurab Guguchia, Senior Scientist, SNSF Group Leader (Paul Scherrer Institute)<br>
+Donald Arseneau , Research Scientist  (TRIUMF)<br>
