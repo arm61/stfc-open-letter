@@ -68,7 +68,6 @@ James Barclay, Postdoctoral Researcher (University of Birmingham )<br>
 Geetha Balakrishnan, Professor  (University of Warwick)<br>
 Nicola Kelly, Research Fellow (University of Cambridge)<br>
 Matthew Coak, Associate Professor in Condensed Matter Physics (University of Birmingham)<br>
-Geetha Balakrishnan, Professor (University of Warwick)<br>
 Andrew Jackson, Adjunct Senior Lecturer (Lund University)<br>
 James Annis, Research Fellow (University of Birmingham)<br>
 Steven Bramwell, Director (London Centre for Nanotechnology, UCL)<br>
@@ -244,7 +243,6 @@ James Keeler, Head of Department (Yusuf Hamied Department of Chemistry (Universi
 Matthew Evans, Research Fellow (University of Cambridge)<br>
 Marin Alexe, Professor, Chair of Functional Materials (University of Warwick )<br>
 Keith Butler, Associate Professor  (UCL)<br>
-Marta Falkowska, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
 Stuart  Clarke, Professor of Surface Science (University of Cambridge)<br>
 Naëmi Leo, UKRI Future Leader Fellow (Loughborough University )<br>
 Jason Greenwood, Reader (Queen's University Belfast)<br>
@@ -348,3 +346,52 @@ Adam Wright, Assistant Professor (University of Warwick)<br>
 Susan  Quinn, Professor (University College Dublin)<br>
 Charlie Tomlinson, PDRA (University of York)<br>
 David Cordes, Senior Scientific Officer (University of St Andrews)<br>
+Theo Webb, PhD Student (University of Bath)<br>
+Emily Draper, Professor of Soft Materials (University of Glasgow)<br>
+Shanshan Xu, Dame Kathleen Ollerenshaw Research Fellow (The University of Manchester)<br>
+Sam Moody, Instrument Responsible (The Paul Scherrer Institute, CH)<br>
+Pablo Martinez-Bulit, Research and Applications Scientist (Cambridge Crystallographic Data Centre)<br>
+Tim Snow, Private Citizen ()<br>
+Donato Decarolis, Beamline Scientist (Diamond Light Source)<br>
+Anna Price, PGR (University of York)<br>
+James Cumby, Senior Lecturer (University of Edinburgh)<br>
+Pablo Arévalo Cid, Pablo (Institute for Catalysis and Petrochemistry (ICP), CSIC)<br>
+Paloma  Lafuente Magro, PhD student (ICP-CSIC)<br>
+Sacha METTOUDI, Visiting Scholar (University of St-Andrews)<br>
+Philip Jones, PhD Student (University of Warwick)<br>
+Patryk A Kudrel, PhD Student (University of Edinburgh)<br>
+Luke Abraham, Research Professor (Department of Chemistry, University of Cambridge)<br>
+Batoul Almoussawi, PDRA (University of Edinburgh)<br>
+Francisco Sousa, Professor (Federal University of Para)<br>
+Jipeng  Zhang, PhD Student (University College Dublin)<br>
+Alberto Roldan Martinez, Reader in Computational Chemistry and Catalysis (Cardiff University)<br>
+Lauren Hatcher, Royal Society University Research Fellow (Cardiff University)<br>
+fabrizio pertusati, Lecturer (cardiff university)<br>
+Rhodri Jenkins, PhD Student (Cardiff University - CCI)<br>
+Lucas Rivera-Blair, PhD Student  (Cardiff University )<br>
+Isabel Antony, PhD researcher (UCL)<br>
+Pietro Carretta, Professor (University of Pavia)<br>
+Iain McKenzie, Scientist (Centre for Molecular and Material Science, TRIUMF)<br>
+Hubertus Luetkens, Head of Bulk Muon Spin Spectroscopy (Paul Scherrer Institute, Switzerland)<br>
+Nicholas Dummer, Research Fellow (Cardiff University)<br>
+Dalia M. Liuzzi, Researcher (Instituto de Catálisis y Petroleoquímica - CSIC)<br>
+Altin Sula, Principle Scientist (Syngenta )<br>
+Jack Henderson, UKRI Future Leaders Fellow (University of Surrey)<br>
+Sana Khalid, PhD Student (Cardiff University)<br>
+Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
+Michael Pitcher, Research Director (CNRS)<br>
+Isobel Raynes, PhD Student (University of Bath)<br>
+Matteo Cataldo, PostDoc (INFN )<br>
+Lauren Hatcher, Royal Society University Research Fellow (Cardiff University)<br>
+Massimiliano Clemenza, Researcher  (INFN and University of Milano Bicocca)<br>
+Graeme Luke, Professor and Acting Chair (McMaster University)<br>
+Matthew Brown, PhD Student (Cardiff University)<br>
+Rosalie Hamill, Chemical and Safety Technician (UCL)<br>
+Taylor Wilde, PhD student (Cardiff university )<br>
+Mary Wood, Assistant professor (University of Copenhagen)<br>
+Katherine Blundell, 38th Gresham Professor of Astronomy  (University of Oxford)<br>
+José Luis del Río Rodríguez, Phd Student (Instituto de Tecnología Química (CSIC-UPV))<br>
+Thomas Dore, PhD Student (University College London)<br>
+Anthony North, Professor of Biophysics (now retired) (University of Leeds)<br>
+Rhodri Jervis, Professor (University College London)<br>
+
