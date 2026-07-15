@@ -425,3 +425,14 @@ Theo Breeze, PhD student (Durham University)<br>
 David Morgan, Surface Analysis Manager (Cardiff University)<br>
 Danny Davies-Jones, Senior Teaching Laboratory Technician (Cardiff University)<br>
 Zifa Zuhair, PhD Researcher (University College London)<br>
+Matthew Littlehales, Postdoctoral Researcher (Technical University of Munich)<br>
+Kenji Kojima, Senior Research Scientist  (TRIUMF and University of British Columbia, Canada)<br>
+Duncan  Wass, Professor of Catalysis (Cardiff University )<br>
+Jem Pitcairn, Research Fellow (University of Warwick)<br>
+Sarah Dunsiger, Adjunct Professor (Simon Fraser University)<br>
+Graham Worth, Professor (UCL)<br>
+Matea Bjorklund, PhD Student (Cardiff University, University College London)<br>
+Ben Davies , PhD Student  (Cardiff University )<br>
+Zhongyu Jiang, PhD student (Cardiff University)<br>
+Akhil Rajan, Research Fellow (University of St Andrews)<br>
+Brian Tanner, Emeritus Professor of Physics (Durham University)<br>
