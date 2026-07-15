@@ -418,3 +418,5 @@ Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<
 Tom Hayward, Professor  (University of Sheffield)<br>
 Gavin Irvine, PDRA (University of Bath)<br>
 Aleksandra  Gorecka, PhD researcher (Cardiff University)<br>
+Michael Graf, Professor (Boston College)<br>
+Thomas Hill, PhD Student (Cardiff University)<br>
