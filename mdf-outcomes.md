@@ -450,3 +450,6 @@ Jess H. Brewer, Professor Emeritus (University of British Columbia)<br>
 Igor Marković, Assistant Professor (University of Birmingham)<br>
 Jon Agirre, Senior Lecturer (University of York)<br>
 Elspeth Garman, Professor (Emerita) (University of Oxford)<br>
+Paul Percival, Professor Emeritus (Simon Fraser University)<br>
+Robert House, Associate Professor of Materials (University of Oxford)<br>
+Peter Willendrup, Senior Resarch Engineer (DTU Physics and ESS DMSC)<br>
