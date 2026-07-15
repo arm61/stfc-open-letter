@@ -443,3 +443,13 @@ Paul Percival, Professor Emeritus (Simon Fraser University)<br>
 Robert House, Associate Professor of Materials (University of Oxford)<br>
 Peter Willendrup, Senior Research Engineer (DTU Physics and ESS DMSC)<br>
 Beth Johnston, Assistant Professor  (WMG, University of Warwick)<br>
+Susannah Speller, Professor of Materials Science (University of Oxford)<br>
+Jeff Sonier, Professor (Simon Fraser University)<br>
+Anuradha Patabandi Mudiyanselage, PhD student (University College London)<br>
+Gerald Morris, Facility Scientist (TRIUMF)<br>
+Bushra  Mughal, PhD scholar (Cardiff University )<br>
+Anna Zijderveld, PhD student (The University of Edinburgh )<br>
+Roger Pynn, Emeritus Professor of Physics (Indiana University, Bloomington)<br>
+Albert Bartok-Partay, Associate Professor (University of Warwick)<br>
+Lucien Heurtier, Postdoctoral Research Associate  (King's College London )<br>
+Rick (P.W.) Mengyan, Professor of Physics (Northern Michigan University (U.S.))<br>
