@@ -453,3 +453,9 @@ Roger Pynn, Emeritus Professor of Physics (Indiana University, Bloomington)<br>
 Albert Bartok-Partay, Associate Professor (University of Warwick)<br>
 Lucien Heurtier, Postdoctoral Research Associate  (King's College London )<br>
 Rick (P.W.) Mengyan, Professor of Physics (Northern Michigan University (U.S.))<br>
+Livia Bartok-Partay, Associate professor (University of Warwick)<br>
+Brittany Baker, Associate professor (Francis Marion University)<br>
+Liv Yarrow, Professor of Classics (CUNY)<br>
+Jak  Chakhalian , Professor  (Rutgers university )<br>
+Dong (Lilly) Liu, Associate Professor (University of Oxford)<br>
+Eunyoung Choi, Beamline Scientist (ESRF)<br>
