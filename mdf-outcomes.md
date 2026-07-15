@@ -366,7 +366,7 @@ Francisco Sousa, Professor (Federal University of Para)<br>
 Jipeng  Zhang, PhD Student (University College Dublin)<br>
 Alberto Roldan Martinez, Reader in Computational Chemistry and Catalysis (Cardiff University)<br>
 Lauren Hatcher, Royal Society University Research Fellow (Cardiff University)<br>
-fabrizio pertusati, Lecturer (cardiff university)<br>
+Fabrizio Pertusati, Lecturer (Cardiff University)<br>
 Rhodri Jenkins, PhD Student (Cardiff University - CCI)<br>
 Lucas Rivera-Blair, PhD Student  (Cardiff University )<br>
 Isabel Antony, PhD researcher (UCL)<br>
@@ -375,7 +375,7 @@ Iain McKenzie, Scientist (Centre for Molecular and Material Science, TRIUMF)<br>
 Hubertus Luetkens, Head of Bulk Muon Spin Spectroscopy (Paul Scherrer Institute, Switzerland)<br>
 Nicholas Dummer, Research Fellow (Cardiff University)<br>
 Dalia M. Liuzzi, Researcher (Instituto de Catálisis y Petroleoquímica - CSIC)<br>
-Altin Sula, Principle Scientist (Syngenta )<br>
+Altin Sula, Principal Scientist (Syngenta )<br>
 Jack Henderson, UKRI Future Leaders Fellow (University of Surrey)<br>
 Sana Khalid, PhD Student (Cardiff University)<br>
 Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
@@ -387,11 +387,21 @@ Massimiliano Clemenza, Researcher  (INFN and University of Milano Bicocca)<br>
 Graeme Luke, Professor and Acting Chair (McMaster University)<br>
 Matthew Brown, PhD Student (Cardiff University)<br>
 Rosalie Hamill, Chemical and Safety Technician (UCL)<br>
-Taylor Wilde, PhD student (Cardiff university )<br>
-Mary Wood, Assistant professor (University of Copenhagen)<br>
+Taylor Wilde, PhD student (Cardiff University)<br>
+Mary Wood, Assistant Professor (University of Copenhagen)<br>
 Katherine Blundell, 38th Gresham Professor of Astronomy  (University of Oxford)<br>
 José Luis del Río Rodríguez, Phd Student (Instituto de Tecnología Química (CSIC-UPV))<br>
 Thomas Dore, PhD Student (University College London)<br>
 Anthony North, Professor of Biophysics (now retired) (University of Leeds)<br>
 Rhodri Jervis, Professor (University College London)<br>
-
+Ana Orozco Saumell, Dra. (University Rey Juan Carlos)<br>
+Innes  McClelland, Senior research scientist (University College Dublin)<br>
+Graham Hutchings, Regius Professor of Chemistry (Cardiff University)<br>
+Yuqi Li, PhD student (University of Oxford)<br>
+Keenan Smith, Research Fellow (University College London)<br>
+David Miller, Senior Lecturer (Cardiff University)<br>
+Alan Williams, Researcher (Wolfson School of Engineering, Loughborough University)<br>
+Riccardo Rossini, Postdoctoral Fellow (University of Pavia & INFN )<br>
+Emiliano Mocchiutti, Senior researcher (INFN (Italian National Institute for Nuclear Physics))<br>
+Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
+Tom Hayward, Professor  (University of Sheffield)<br>
