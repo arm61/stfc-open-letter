@@ -277,3 +277,4 @@ Mark Senn, Professor of Materials Chemistry (University of Warwick)<br>
 Katherine Holt, Professor of Physical Chemistry (UCL)<br>
 Ruth Webster, Assistant Professor, Chemistry (University of Cambridge)<br>
 Benedetta Rosi, Instrument Scientist (ESS)<br>
+John Holbrey, Professor (Queen's University Belfast)<br>
