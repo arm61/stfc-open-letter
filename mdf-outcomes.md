@@ -281,3 +281,58 @@ John Holbrey, Professor (Queen's University Belfast)<br>
 Ailsa O'Riordan, PhD Student (University of St Andrews)<br>
 Jessica Marshall, Assistant Professor (University of Warwick)<br>
 Emma Gibson, Senior Lecturer (University of Glasgow)<br>
+Leila Moura, Senior Lecturer (Queen's University Belfast)<br>
+Inés  Lezcano-González, Dame Kathleen Ollerenshaw fellow and Harwell fellow (The University of Manchester )<br>
+Ian Terry, Associate Professor (University of Durham)<br>
+Nicholas Hine, Professor of Physics (University of Warwick)<br>
+Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
+Marios Hadjimichael, Associate Professor (University of Warwick)<br>
+Mark Light, Associate Professor - X-ray scattering (University of Southampton)<br>
+Matej Pregelj, senior reserch fellow (Jožef Stefan Institute)<br>
+Deborah Harrus, PDBe Archive Project Leader (EMBL-EBI)<br>
+Donna Arnold, Reader in Chemistry and Forensic Science (University of Kent)<br>
+Thomas Prokscha, Head a.i. Laboratory for Muon Spin Spectroscopy (Paul Scherrer Institute)<br>
+Jennifer Graham, Assistant Professor (Lund University)<br>
+Nikitas  Gidopoulos , Associate Professor  (Durham University )<br>
+Kevin Jaksetič, PhD student (Jožef Stefan Institute)<br>
+Peter Murray-Rust, Reader Emeritus  (University of Cambridge)<br>
+Chung Xu, PhD (University College London)<br>
+Nina-Juliane Steinke, Scientist (Institut Laue-Langevin)<br>
+Quinn Gibson, Lecturer (University of Aberdeen)<br>
+Jacob Kirkensgaard, Associate Professor (University of Copenhagen)<br>
+Andreas Stadler, Senior Research Scientist (Forschungszentrum Juelich)<br>
+James Annett, Emeritus Professor (University of Bristol)<br>
+Pascual Oña-Burgos, Permanent researcher (Instituto de Tecnología Química)<br>
+Andrej Zorko, Prof. (Jožef Stefan Institute)<br>
+Jose Iglesias, Professor (Rey Juan Carlos University)<br>
+Silvia Gutiérrez, postdoc (ITQ)<br>
+Simon Titmuss, Reader in Soft Matter Physics (University of Edinburgh)<br>
+Jon Husband, Research Fellow in Sustainable Chemical Technologies (University of Bath)<br>
+Anna Roffey, Associate Professor (Teaching) (UCL)<br>
+Manuel Sánchez-Sánchez, Scientific Reseracher (Institute of Catalysis and Petroleum Chemistry (ICP), CSIC)<br>
+Jack Stewart, PDRA (University of Bath)<br>
+Michael Walters, PhD student (University of Bath)<br>
+Ian Tucker, Retired Scientist and Former NSG Chair (Retired)<br>
+Ashok S. Menon, Assistant Professor (University of Warwick)<br>
+Celine  Beck, PhD student (University of Glasgow/Diamond Light Source)<br>
+Paul Waddell, Crystallography Officer (Newcastle University)<br>
+Andreas W Rost, Lecturer, School of Physics and Astronomy (University of St Andrews)<br>
+Thomas Smith, PhD Student (Newcastle University)<br>
+Phoebe Meadows, PhD Researcher (Royal Holloway, University of London)<br>
+Sam Thompson , Postdoctoral Fellow (Aarhus University)<br>
+Jade Doody, PhD Student (University of Birmingham)<br>
+Peter Dunne,  (Trinity College Dublin)<br>
+Peter Fouquet, Head of the ILL Doctoral School (Institut Laue-Langevin)<br>
+Christopher Pask, Experimental Officer (University of Leeds)<br>
+Shruti Chakravarty, Research Fellow (University of Birmingham)<br>
+Tony Keene, Associate Professor of Inorganic Chemistry (University College Dublin)<br>
+Murray Wilson, Assistant Professor of Physics (Memorial University of Newfoundland)<br>
+Kenneth Harris, Professor (Cardiff University)<br>
+Roberto  De Renzi , Professor Emeritus  (University of Parma)<br>
+Stevie Hallen Lima Silva, Assistant Professor (Universidad Rey Juan Carlos (URJC))<br>
+Sharon Ashbrook, Professor of Physical Chemistry (University of St Andrews)<br>
+Catriona Crawford, Postdoctoral Research Associate (University of Warwick)<br>
+Mikr Glazer, Emeritus Professor of Physics (Oxford University)<br>
+Maria Asuncion Molina Esquinas, Postdoctoral Research Assistant (Diamond Light Source)<br>
+John Dainton FRS, Prof Physics and Cockcroft Institute ( Lancaster Univ)<br>
+Pam Thomas, Professor of Physics (University of Warwick)<br>
