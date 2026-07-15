@@ -84,7 +84,7 @@ Kate Emmerson, PhD Student (University of Edinburgh)<br>
 Fabrizia Foglia, Associate Professor in Inorganic & material Chemistry (UCL)<br>
 Jan-Willem  Bos, Reader (University of St Andrews )<br>
 Malcolm McMahon, Professor of Physics (University of Edinburgh)<br>
-Evgenia  Georgiadou , PhD student  (University of St Andrews)<br>
+Evgenia  Georgiadou, PhD student  (University of St Andrews)<br>
 Maximilian Pelly, Research Fellow (University of St Andrews)<br>
 Benjamin Huddart, Postdoctoral Research Assistant (University of Oxford)<br>
 Claire Hobday, Senior Lecturer and UKRI Future Leaders Fellow (University of Edinburgh)<br>
@@ -116,7 +116,7 @@ Phoebe Allan, Professor of Materials Chemistry (University of Birmingham)<br>
 Steve Armes, Firth Professor of Chemistry (University of Sheffield)<br>
 Anthony Phillips, Professor of Physics and Chemistry of Materials (Queen Mary University of London)<br>
 Colin Seaton, Associate Professor (University of Bradford)<br>
-Zachary Warren , Postdoctoral Research Associate  (University of Bath)<br>
+Zachary Warren, Postdoctoral Research Associate  (University of Bath)<br>
 Robert Jackson, Emeritus Reader in Computational Solid State Chemistry (Keele University)<br>
 Alan Dunbar, Senior Lecturer (University of Sheffield)<br>
 Hamish Yeung, Associate Professor of Materials Chemistry (University of Birmingham)<br>
@@ -135,7 +135,7 @@ Charles Dewhurst, Staff Scientist (Institut Laue-Langevin, Grenoble, France)<br>
 Sacha Fop, Lecturer (University of Aberdeen)<br>
 Hannah Maguire, PhD Student (Queen's University Belfast)<br>
 William Sharratt, Lecturer in Soft Materials (University of Liverpool)<br>
-Bob Baker, Assistant Professor  (Trinity college Dublin)<br>
+Bob Baker, Assistant Professor  (Trinity College Dublin)<br>
 John Slattery, Reader in Chemistry (The University of York)<br>
 Dr Eliza Dempsey, Postdoctoral Research Fellow (Trinity College Dublin)<br>
 Derri  Hughes, PhD Researcher in Chemical Physics (University of Southampton)<br>
@@ -143,7 +143,7 @@ Matthew Potter, Lecturer in Inorganic Chemistry (University of Bath)<br>
 Dave Adams, Professor (University of Glasgow)<br>
 Joseph Bear, Senior Lecturer in Inorganic Chemistry (Kingston University)<br>
 Lizzie Evans, PhD student (University of Birmingham )<br>
-Patricio Munoz, Assistant professor (Universidade de Sao Paulo, Brazil)<br>
+Patricio Munoz, Assistant Professor (Universidade de Sao Paulo, Brazil)<br>
 Alexey Ganin, Senior Lecturer (University of Glasgow)<br>
 Mingee Chung, Associate Professor (University of Birmingham)<br>
 Tony Bell, Senior Technical Specialist (Sheffield Hallam University)<br>
@@ -203,7 +203,7 @@ Ulrich Baisch, Professor  (University of Malta)<br>
 Leon Focks, PhD Student (University of Cambridge)<br>
 Jon Goff, Chair of Experimental Condensed Matter Physics (Royal Holloway University of London)<br>
 Victoria Hilborne, Associate Professor (Teaching) (UCL)<br>
-Hanna  Boström ,  (Stockholm University )<br>
+Hanna  Boström,  (Stockholm University )<br>
 Alan Drew, Professor of Experimental Physics (Queen Mary University of London)<br>
 Alex Cline, Senior Lecturer in Information Systems (Queen Mary University of London)<br>
 Michael Quin, Postdoc (Gothenburg University)<br>
@@ -217,7 +217,7 @@ Andrew Beale, Professor of Inorganic Chemistry (UCL)<br>
 Anna Marie Davies, Research Fellow (King's College London)<br>
 Jonathan Nitschke, Professor of Chemistry (University of Cambridge)<br>
 Aryaman  Gogoi Baruah, PhD (University of St Andrews)<br>
-Raj Pandya, Assistant Professoe (University of Cambridge and Warwick )<br>
+Raj Pandya, Assistant Professor (University of Cambridge and Warwick )<br>
 Saskia Lindhoud, Professor  (University of Twente)<br>
 Alexey Kiselyk, PhD student (Durham University)<br>
 Seán Kavanagh, Assistant Professor (University of Cambridge)<br>
@@ -229,7 +229,7 @@ Manuel dos Santos Dias, Computational Scientist (STFC Scientific Computing)<br>
 Lukasz Domanski, PhD student (University of Cambridge )<br>
 Alastair Lennox, Professor of Chemistry (University of Bristol)<br>
 Jeremiah Tidey, Senior Research Technician (University of Warwick & National Electron Diffraction Facility)<br>
-Maisoon  Al-Jawad , Professor of Biological Physics (University of Leeds)<br>
+Maisoon  Al-Jawad, Professor of Biological Physics (University of Leeds)<br>
 Bob C. Schroeder, Professor of Organic Materials (UCL)<br>
 James Steele, Postdoctoral Research Fellow (University of Oxford )<br>
 Jacques Huot, Professor (Université du Québec à Trois-Rivières)<br>
@@ -249,7 +249,7 @@ Stuart  Clarke, Professor of Surface Science (University of Cambridge)<br>
 Naëmi Leo, UKRI Future Leader Fellow (Loughborough University )<br>
 Jason Greenwood, Reader (Queen's University Belfast)<br>
 Mads Gabrielsen, Facility lead (University of Glasgow)<br>
-Bora  Karasulu , Associate Professor in computational chemistry (University of Warwick )<br>
+Bora  Karasulu, Associate Professor in computational chemistry (University of Warwick )<br>
 Anna Marie  Davies, Research Fellow (King's College London)<br>
 Daniel  Halliday, Postdoctoral Research Associate  (Durham University )<br>
 Fernando B. Dias, Professor, Condensed matter Physics (University of Durham)<br>
@@ -269,9 +269,9 @@ Veronique Arluison, Professor (Assoc) (University Paris Cité)<br>
 Tom Chamberlain, Research Fellow (University of Warwick)<br>
 Jose Maria Porro Azpiazu, Associate Professor (BCMaterials)<br>
 Ellie Keil, PGR (The University of Southampton)<br>
-Jim Thomas, Prof of  inorganic chemistry  (University of Sheffield )<br>
+Jim Thomas, Prof of  Inorganic Chemistry  (University of Sheffield )<br>
 John Finney, Emeritus Professor of Physics (University College London)<br>
-Chris Stock, Professor Physics (University of Edinburgh)<br>
+Chris Stock, Professor of Physics (University of Edinburgh)<br>
 Carole Morrison, Professor in Computational Chemistry (University of Edinburgh)<br>
 Mark Senn, Professor of Materials Chemistry (University of Warwick)<br>
 Katherine Holt, Professor of Physical Chemistry (UCL)<br>
@@ -279,4 +279,5 @@ Ruth Webster, Assistant Professor, Chemistry (University of Cambridge)<br>
 Benedetta Rosi, Instrument Scientist (ESS)<br>
 John Holbrey, Professor (Queen's University Belfast)<br>
 Ailsa O'Riordan, PhD Student (University of St Andrews)<br>
-Jessica Marshall, Assistant Professsor (University of Warwick)<br>
+Jessica Marshall, Assistant Professor (University of Warwick)<br>
+Emma Gibson, Senior Lecturer (University of Glasgow)<br>
