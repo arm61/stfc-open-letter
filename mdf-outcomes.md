@@ -416,3 +416,5 @@ Riccardo Rossini, Postdoctoral Fellow (University of Pavia & INFN )<br>
 Emiliano Mocchiutti, Senior researcher (INFN (Italian National Institute for Nuclear Physics))<br>
 Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
 Tom Hayward, Professor  (University of Sheffield)<br>
+Gavin Irvine, PDRA (University of Bath)<br>
+Aleksandra  Gorecka, PhD researcher (Cardiff University)<br>
