@@ -440,3 +440,10 @@ Hayley Gilbert, PhD student (Cambridge University )<br>
 Manuel López Granados, Professor (Spanish National Research Council (Institute of Catalysis and Petrochemistry))<br>
 Zurab Guguchia, Senior Scientist, SNSF Group Leader (Paul Scherrer Institute)<br>
 Donald Arseneau , Research Scientist  (TRIUMF)<br>
+Konstantina Armadorou, PhD Student (University of Cambridge)<br>
+Andrea Rogolino, PhD candidate (University of Cambridge)<br>
+Petr Agota Szilagyi, Professor in Chemistry (University of Oslo )<br>
+Max Fitzgerald , PhD Student  (University College Dublin)<br>
+James Marrow, James Martin Chair in Energy Materials (University of Oxford)<br>
+Jessie Isufaj, PhD Student  (University College Dublin)<br>
+Jess H. Brewer, Professor Emeritus (University of British Columbia)<br>
