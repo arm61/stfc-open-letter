@@ -343,3 +343,8 @@ Lucy Schofield, PhD Student (University of York)<br>
 Rushabh  Chheda, PhD Student in Chemistry  (University of Bath )<br>
 Jonas A. Krieger, Scientist (Paul Scherrer Institute)<br>
 Sean Wang, PhD student in Chemistry (University of York)<br>
+Francisco Willame Coelho de  Vasconcelos, Phd Student (Federal university of Ceará - Brazil)<br>
+Adam Wright, Assistant Professor (University of Warwick)<br>
+Susan  Quinn, Professor (University College Dublin)<br>
+Charlie Tomlinson, PDRA (University of York)<br>
+David Cordes, Senior Scientific Officer (University of St Andrews)<br>
