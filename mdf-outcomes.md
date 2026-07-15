@@ -395,17 +395,6 @@ Thomas Dore, PhD Student (University College London)<br>
 Anthony North, Professor of Biophysics (now retired) (University of Leeds)<br>
 Rhodri Jervis, Professor (University College London)<br>
 Ana Orozco Saumell, Dra. (University Rey Juan Carlos)<br>
-Innes  McClelland, Senior research scientist (University College Dublin)<br>
-Graham Hutchings, Regius Professor of Chemistry (Cardiff University)<br>
-Yuqi Li, PhD student (University of Oxford)<br>
-Keenan Smith, Research Fellow (University College London)<br>
-David Miller, Senior Lecturer (Cardiff University)<br>
-Alan Williams, Researcher (Wolfson School of Engineering, Loughborough University)<br>
-Riccardo Rossini, Postdoctoral Fellow (University of Pavia & INFN )<br>
-Emiliano Mocchiutti, Senior researcher (INFN (Italian National Institute for Nuclear Physics))<br>
-Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
-Tom Hayward, Professor  (University of Sheffield)<br>
-Ana Orozco Saumell, Dra. (University Rey Juan Carlos)<br>
 Innes  McClelland, Senior research scientist (University college dublin)<br>
 Graham Hutchings, Regius Professor of Chemistry (Cardiff University)<br>
 Yuqi Li, PhD student (University of Oxford)<br>
