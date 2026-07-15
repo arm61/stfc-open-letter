@@ -447,3 +447,6 @@ Max Fitzgerald , PhD Student  (University College Dublin)<br>
 James Marrow, James Martin Chair in Energy Materials (University of Oxford)<br>
 Jessie Isufaj, PhD Student  (University College Dublin)<br>
 Jess H. Brewer, Professor Emeritus (University of British Columbia)<br>
+Igor Marković, Assistant Professor (University of Birmingham)<br>
+Jon Agirre, Senior Lecturer (University of York)<br>
+Elspeth Garman, Professor (Emerita) (University of Oxford)<br>
