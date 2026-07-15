@@ -278,3 +278,5 @@ Katherine Holt, Professor of Physical Chemistry (UCL)<br>
 Ruth Webster, Assistant Professor, Chemistry (University of Cambridge)<br>
 Benedetta Rosi, Instrument Scientist (ESS)<br>
 John Holbrey, Professor (Queen's University Belfast)<br>
+Ailsa O'Riordan, PhD Student (University of St Andrews)<br>
+Jessica Marshall, Assistant Professsor (University of Warwick)<br>
