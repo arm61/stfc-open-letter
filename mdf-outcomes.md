@@ -273,3 +273,7 @@ Jim Thomas, Prof of  inorganic chemistry  (University of Sheffield )<br>
 John Finney, Emeritus Professor of Physics (University College London)<br>
 Chris Stock, Professor Physics (University of Edinburgh)<br>
 Carole Morrison, Professor in Computational Chemistry (University of Edinburgh)<br>
+Mark Senn, Professor of Materials Chemistry (University of Warwick)<br>
+Katherine Holt, Professor of Physical Chemistry (UCL)<br>
+Ruth Webster, Assistant Professor, Chemistry (University of Cambridge)<br>
+Benedetta Rosi, Instrument Scientist (ESS)<br>
