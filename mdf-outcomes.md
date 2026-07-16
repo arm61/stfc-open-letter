@@ -354,7 +354,7 @@ Anna Price, PGR (University of York)<br>
 James Cumby, Senior Lecturer (University of Edinburgh)<br>
 Pablo Arévalo Cid, Pablo (Institute for Catalysis and Petrochemistry (ICP), CSIC)<br>
 Paloma  Lafuente Magro, PhD student (ICP-CSIC)<br>
-Sacha METTOUDI, Visiting Scholar (University of St-Andrews)<br>
+Sacha Mettoudi, Visiting Scholar (University of St-Andrews)<br>
 Philip Jones, PhD Student (University of Warwick)<br>
 Patryk A Kudrel, PhD Student (University of Edinburgh)<br>
 Luke Abraham, Research Professor (Department of Chemistry, University of Cambridge)<br>
@@ -416,18 +416,18 @@ Jem Pitcairn, Research Fellow (University of Warwick)<br>
 Sarah Dunsiger, Adjunct Professor (Simon Fraser University)<br>
 Graham Worth, Professor (UCL)<br>
 Matea Bjorklund, PhD Student (Cardiff University, University College London)<br>
-Ben Davies , PhD Student  (Cardiff University )<br>
+Ben Davies, PhD Student  (Cardiff University )<br>
 Zhongyu Jiang, PhD student (Cardiff University)<br>
 Akhil Rajan, Research Fellow (University of St Andrews)<br>
 Brian Tanner, Emeritus Professor of Physics (Durham University)<br>
 Hayley Gilbert, PhD student (Cambridge University )<br>
 Manuel López Granados, Professor (Spanish National Research Council (Institute of Catalysis and Petrochemistry))<br>
 Zurab Guguchia, Senior Scientist, SNSF Group Leader (Paul Scherrer Institute)<br>
-Donald Arseneau , Research Scientist  (TRIUMF)<br>
+Donald Arseneau, Research Scientist  (TRIUMF)<br>
 Konstantina Armadorou, PhD Student (University of Cambridge)<br>
 Andrea Rogolino, PhD candidate (University of Cambridge)<br>
 Petr Agota Szilagyi, Professor in Chemistry (University of Oslo )<br>
-Max Fitzgerald , PhD Student  (University College Dublin)<br>
+Max Fitzgerald, PhD Student  (University College Dublin)<br>
 James Marrow, James Martin Chair in Energy Materials (University of Oxford)<br>
 Jessie Isufaj, PhD Student  (University College Dublin)<br>
 Jess H. Brewer, Professor Emeritus (University of British Columbia)<br>
@@ -448,10 +448,10 @@ Roger Pynn, Emeritus Professor of Physics (Indiana University, Bloomington)<br>
 Albert Bartok-Partay, Associate Professor (University of Warwick)<br>
 Lucien Heurtier, Postdoctoral Research Associate  (King's College London )<br>
 Rick (P.W.) Mengyan, Professor of Physics (Northern Michigan University (U.S.))<br>
-Livia Bartok-Partay, Associate professor (University of Warwick)<br>
-Brittany Baker, Associate professor (Francis Marion University)<br>
+Livia Bartok-Partay, Associate Professor (University of Warwick)<br>
+Brittany Baker, Associate Professor (Francis Marion University)<br>
 Liv Yarrow, Professor of Classics (CUNY)<br>
-Jak  Chakhalian , Professor  (Rutgers university )<br>
+Jak  Chakhalian, Professor  (Rutgers University)<br>
 Dong (Lilly) Liu, Associate Professor (University of Oxford)<br>
 Eunyoung Choi, Beamline Scientist (ESRF)<br>
 Matt Probert, Professor of Theoretical Physics (University of York)<br>
@@ -475,7 +475,7 @@ Isao  Watanabe, Senior Research Scientist  (RIKEN, Japan)<br>
 Kenya Kubo, Professor by Special Appointment (International Christian University, Japan)<br>
 Yota Komiyama, Postdoctoral researcher (The National Institute of Advanced Industrial Science and Technology (AIST), Japan)<br>
 Soshi Takeshita, Associate Professor  (High Energy Accelerator Research Organisation (KEK))<br>
-Shunsuke Asari, Ph.D. student (The University of Osaka)<br>
+Shunsuke Asari, PhD student (The University of Osaka)<br>
 Xu-Guang Zheng, Full Professor (Saga University and Tohoku University)<br>
 John Singleton, Los Alamos Laboratory Fellow (Los Alamos National Laboratory)<br>
 Motonobu Tampo, Assistant Professor (High Energy Research Organization (KEK) )<br>
@@ -489,3 +489,23 @@ Kazuki Ohishi, Deputy Division Head, Chief Scientist (Comprehensive Research Org
 Megumi Niikura, Researcher (RIKEN Nishina Center)<br>
 Kiyotaka Asakura, Professor and Director (SR Center Ritsumeikan University)<br>
 Alessandro Lascialfari, Professor of Physics (University of Pavia)<br>
+Eiko Torikai, Professor Emeritus (University of Yamanashi)<br>
+Shigekazu Ito, Associate Professor (Institute of Science Tokyo)<br>
+Kazuhiko Ninomiya, Professor (Hiroshima University)<br>
+Koichiro Shimomura, Prof. (KEK IMSS)<br>
+Pascale Deen, Division head for spectroscopy/Affiliate Professor in solid state physics and neutron scattering.   (ESS/University of Copenhagen )<br>
+Daria Noferini, Instrument Scientist (European Spallation Source ERIC)<br>
+Zaher Salman, Senior scientist (Paul Scherrer Institute)<br>
+Andrew Goodwin, Research Professor and Royal Society Faraday Discovery Fellow (University of Oxford)<br>
+Melinda Duer, Professor of Biological and Biomedical Chemistry (University of Cambridge)<br>
+Andreas Haahr Larsen, Assistant Professor (University of Copenhagen)<br>
+Tadashi Adachi, Professor (Sophia University, Japan)<br>
+Josh Makepeace, Associate Professor (University of Birmingham)<br>
+Facundo Costa, PhD Student (The University of Warwick)<br>
+Monika Hartl, Scientist (European Spallation Source / Lund University)<br>
+Damien Murphy, Professor and Director of the CCI (Cardiff University)<br>
+Chris Thomas, Technical Officer  (University College Dublin)<br>
+Gary Nichol, Crystallography Service Manager (University of Edinburgh)<br>
+Emily Charlotte McFarlane, PhD Student (Max Planck Institute of Microstructure Physics)<br>
+Satoshi N. NAKAMURA, Professor (The University of Tokyo)<br>
+Ge Wang, Dame Kathleen Ollerenshaw Fellow (The University of Manchester)<br>
