@@ -518,3 +518,13 @@ Christopher Ridgers, Professor of Physics (University of York)<br>
 Xiyang Li, Associate Professor  (Institute of Physics, Chinese Academy of Sciences )<br>
 Hanjie  Guo, Associate Research Fellow (Songshan Lake Materials Laboratory)<br>
 Huiqian Luo, Professor (Institute of Physics, Chinese Academy of Sciences )<br>
+Maia Peat Romero, Diagnostic Scientist (Tokamak Energy, University of Strathclyde )<br>
+Nigel Woolsey, Professor (University of York)<br>
+Cecilia Pizzolotto, Researcher (INFN, Italian National Institute for Nuclear Physics)<br>
+Niels  Schröter, Professor of Physics (Martin-Luther-University and Max Planck Institute of Microstructure Physics Halle, Germany)<br>
+Lei Shu, Professor (Physics Department, Fudan University)<br>
+Luigi Rignanese, Research Technologist (INFN Bologna)<br>
+Sophie Dean, PhD Student (Cardiff University - CCI)<br>
+Alessandro Menegolli, Associate Professor (University of Pavia and INFN Pavia (Italy))<br>
+George Fulham, Research Fellow (University of Cambridge)<br>
+Conor Moroney, PhD Student (University College Dublin)<br>
