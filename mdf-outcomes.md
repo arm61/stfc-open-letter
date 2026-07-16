@@ -541,3 +541,10 @@ Lukas Beddrich, Instrument Scientist (European Spallation Source (ESS))<br>
 Sankar Meenakshisundaram, Senior Lecturer in Catalysis (Cardiff University)<br>
 Xiao Wan, Research Associate (University of Glasgow)<br>
 Nathan Coles, Research Associate (Cardiff University)<br>
+Rafael  Guimaraes da Silva, Senior Lecturer in Biochemistry (University of St Andrews)<br>
+Pia Ray, PhD student (Niels Bohr Institute, University of Copenhagen)<br>
+Veronica Sofianos, Associate Professor (University College Dublin)<br>
+Peony Ye<br>
+Anita Jones, Professor of Molecular Photophysics (University of Edinburgh)<br>
+Thomas Karagiannis, PhD candidate  (University College Dublin)<br>
+Stefano  Carretta , Professor (University of Parma )<br>
