@@ -1,5 +1,3 @@
-# Outcomes Letter
-
 Following the announcement of the [results of the priorisation activity by STFC](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/), we have prepared a [letter](./mdf-outcomes.html) expressing concerns regarding the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs).
 
 ## Previous Letter
