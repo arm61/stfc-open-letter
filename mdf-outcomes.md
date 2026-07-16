@@ -488,3 +488,4 @@ Alannah Hallas, Professor (University of British Columbia)<br>
 Kazuki Ohishi, Deputy Division Head, Chief Scientist (Comprehensive Research Organization for Science and Society (CROSS))<br>
 Megumi Niikura, Researcher (RIKEN Nishina Center)<br>
 Kiyotaka Asakura, Professor and Director (SR Center Ritsumeikan University)<br>
+Alessandro Lascialfari, Professor of Physics (University of Pavia)<br>
