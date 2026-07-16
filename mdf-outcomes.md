@@ -536,3 +536,8 @@ Christopher Court-Wallace, Senior research technician (Cardiff University)<br>
 Masanori Miyazaki, Assistant Professor (Muroran Institution of Technology)<br>
 Jacob Ridley-White, PhD Student (University of Manchester )<br>
 Nick Turner, Professor of Bioanalytical Chemistry / EPSRC Established Career Fellow (University of Sheffield)<br>
+Fanlong Ning, Professor (Zhejiang University)<br>
+Lukas Beddrich, Instrument Scientist (European Spallation Source (ESS))<br>
+Sankar Meenakshisundaram, Senior Lecturer in Catalysis (Cardiff University)<br>
+Xiao Wan, Research Associate (University of Glasgow)<br>
+Nathan Coles, Research Associate (Cardiff University)<br>
