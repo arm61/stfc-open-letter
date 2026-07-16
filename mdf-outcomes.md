@@ -534,3 +534,5 @@ Xing-Liang Xu, Associate Professor (Zhejiang University of Science and Technolog
 Stephen Potts, Associate Professor (Teaching) (University College London)<br>
 Christopher Court-Wallace, Senior research technician (Cardiff University)<br>
 Masanori Miyazaki, Assistant Professor (Muroran Institution of Technology)<br>
+Jacob Ridley-White, PhD Student (University of Manchester )<br>
+Nick Turner, Professor of Bioanalytical Chemistry / EPSRC Established Career Fellow (University of Sheffield)<br>
