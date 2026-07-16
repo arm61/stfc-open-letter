@@ -510,3 +510,7 @@ Emily Charlotte McFarlane, PhD Student (Max Planck Institute of Microstructure P
 Satoshi N. NAKAMURA, Professor (The University of Tokyo)<br>
 Ge Wang, Dame Kathleen Ollerenshaw Fellow (The University of Manchester)<br>
 Stephen De Bank, PhD Student (University of Cambridge)<br>
+Roland Kroeger, Professor (University of York)<br>
+Calum Sangster, PhD Student (University of Edinburgh)<br>
+Arno Hiess, Scientist (Institut Laue Langevin and European Spallation Source)<br>
+Adrien Perrichon, Instrument Scientist (European Spallation Source)<br>
