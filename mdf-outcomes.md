@@ -514,3 +514,7 @@ Roland Kroeger, Professor (University of York)<br>
 Calum Sangster, PhD Student (University of Edinburgh)<br>
 Arno Hiess, Scientist (Institut Laue Langevin and European Spallation Source)<br>
 Adrien Perrichon, Instrument Scientist (European Spallation Source)<br>
+Christopher Ridgers, Professor of Physics (University of York)<br>
+Xiyang Li, Associate Professor  (Institute of Physics, Chinese Academy of Sciences )<br>
+Hanjie  Guo, Associate Research Fellow (Songshan Lake Materials Laboratory)<br>
+
