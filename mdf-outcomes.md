@@ -547,4 +547,7 @@ Veronica Sofianos, Associate Professor (University College Dublin)<br>
 Peony Ye<br>
 Anita Jones, Professor of Molecular Photophysics (University of Edinburgh)<br>
 Thomas Karagiannis, PhD candidate  (University College Dublin)<br>
-Stefano  Carretta , Professor (University of Parma )<br>
+Stefano  Carretta, Professor (University of Parma )<br>
+Vlado  Lazarov, Prof. (University of York)<br>
+Deborah Kays, Professor of Inorganic Chemistry (Cardiff University)<br>
+Christian Balz, Instrument Scientist (ESS)<br>
