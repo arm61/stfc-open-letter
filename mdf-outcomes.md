@@ -73,8 +73,6 @@ James Annis, Research Fellow (University of Birmingham)<br>
 Steven Bramwell, Director (London Centre for Nanotechnology, UCL)<br>
 Andrew Heard, Research Fellow (University of Birmingham)<br>
 Tim Barendt, Associate Prof in Chemistry (University of Birmingham)<br>
-Andrew Heard, Research Fellow (University of Birmingham)<br>
-Tim Barendt, Associate Prof in Chemistry (University of Birmingham)<br>
 Lee Brammer, Professor of Chemistry (University of Sheffield)<br>
 Isolde Marsland, PhD Student (University of Edinburgh)<br>
 John Irvine, Professor of Chemistry (University of St Andrews)<br>
@@ -213,7 +211,6 @@ Denis Vasiukov, Instrument Scientist (European Spallation Source ERIC)<br>
 Marta Falkowska, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
 Andrew Huxley, Professor (University of Edinburgh )<br>
 Andrew Beale, Professor of Inorganic Chemistry (UCL)<br>
-Anna Marie Davies, Research Fellow (King's College London)<br>
 Jonathan Nitschke, Professor of Chemistry (University of Cambridge)<br>
 Aryaman  Gogoi Baruah, PhD (University of St Andrews)<br>
 Raj Pandya, Assistant Professor (University of Cambridge and Warwick )<br>
@@ -247,7 +244,7 @@ Stuart  Clarke, Professor of Surface Science (University of Cambridge)<br>
 Naëmi Leo, UKRI Future Leader Fellow (Loughborough University )<br>
 Jason Greenwood, Reader (Queen's University Belfast)<br>
 Mads Gabrielsen, Facility lead (University of Glasgow)<br>
-Bora  Karasulu, Associate Professor in computational chemistry (University of Warwick )<br>
+Bora  Karasulu, Associate Professor in Computational Chemistry (University of Warwick)<br>
 Anna Marie  Davies, Research Fellow (King's College London)<br>
 Daniel  Halliday, Postdoctoral Research Associate  (Durham University )<br>
 Fernando B. Dias, Professor, Condensed matter Physics (University of Durham)<br>
@@ -378,11 +375,9 @@ Dalia M. Liuzzi, Researcher (Instituto de Catálisis y Petroleoquímica - CSIC)<
 Altin Sula, Principal Scientist (Syngenta )<br>
 Jack Henderson, UKRI Future Leaders Fellow (University of Surrey)<br>
 Sana Khalid, PhD Student (Cardiff University)<br>
-Jun Sugiyama, Science Coordinator (CROSS Neutron Science and Technology Center)<br>
 Michael Pitcher, Research Director (CNRS)<br>
 Isobel Raynes, PhD Student (University of Bath)<br>
 Matteo Cataldo, PostDoc (INFN )<br>
-Lauren Hatcher, Royal Society University Research Fellow (Cardiff University)<br>
 Massimiliano Clemenza, Researcher  (INFN and University of Milano Bicocca)<br>
 Graeme Luke, Professor and Acting Chair (McMaster University)<br>
 Matthew Brown, PhD Student (Cardiff University)<br>
@@ -459,3 +454,37 @@ Liv Yarrow, Professor of Classics (CUNY)<br>
 Jak  Chakhalian , Professor  (Rutgers university )<br>
 Dong (Lilly) Liu, Associate Professor (University of Oxford)<br>
 Eunyoung Choi, Beamline Scientist (ESRF)<br>
+Matt Probert, Professor of Theoretical Physics (University of York)<br>
+James Kermode, Professor of Materials Modelling (University of Warwick)<br>
+Richard Gammons, Green Chemistry Technical Manager & X-ray Crystallographer (University of York)<br>
+Ganbaatar Tumen-Ulzii, Postdoctoral Research Fellow (University of Cambridge)<br>
+Will Gates, Associate Professor, Research (Institute for Frontier Materials, Deakin University)<br>
+Robert Weatherup, Professor of Energy Materials, Royce Research Area Lead for Electrochemical Systems (University of Oxford)<br>
+Samuele Sanna, Associate Professor (University of Bologna)<br>
+Fanny Nascimento Costa, Head of X-ray Analytical Facilities  (University of Leeds)<br>
+Paul Midgley, Professor of Materials Science (University of Cambridge)<br>
+Luis Gómez-Hortigüela, Scientific Researcher (CSIC)<br>
+Shumin  Li, PhD student  (Cardiff University )<br>
+Tsutomu Mibe, Professor (KEK)<br>
+Fabio R. Formiga, Scientist/PI (Oswaldo Cruz Foundation - FIOCRUZ)<br>
+Izumi Umegaki, Assistant Professor (KEK, J-PARC)<br>
+Hiroyuki Aoki, Principal Researcher (Japan Atomic Energy Agency)<br>
+Jumpei  Nakamura, Engineer (Institute of Materials Structure Science (IMSS), High Energy Accelerator Research Organization (KEK), Japan)<br>
+Amba Datt Pant, Researcher (KEK/J-PARC)<br>
+Isao  Watanabe, Senior Research Scientist  (RIKEN, Japan)<br>
+Kenya Kubo, Professor by Special Appointment (International Christian University, Japan)<br>
+Yota Komiyama, Postdoctoral researcher (The National Institute of Advanced Industrial Science and Technology (AIST), Japan)<br>
+Soshi Takeshita, Associate Professor  (High Energy Accelerator Research Organisation (KEK))<br>
+Shunsuke Asari, Ph.D. student (The University of Osaka)<br>
+Xu-Guang Zheng, Full Professor (Saga University and Tohoku University)<br>
+John Singleton, Los Alamos Laboratory Fellow (Los Alamos National Laboratory)<br>
+Motonobu Tampo, Assistant Professor (High Energy Research Organization (KEK) )<br>
+Masayoshi Fujihala, Assistant Principal Researcher (JAEA ASRC)<br>
+Akihiro Koda, Professor, Head (Muon Science Laboratory, IMSS, KEK)<br>
+Katsuya Inoue, Professor (Hiroshima University)<br>
+Ikeda Masaru, Student (Hiroshima Uno)<br>
+Ichihiro Yamauchi, Associate Professor (Saga University)<br>
+Alannah Hallas, Professor (University of British Columbia)<br>
+Kazuki Ohishi, Deputy Division Head, Chief Scientist (Comprehensive Research Organization for Science and Society (CROSS))<br>
+Megumi Niikura, Researcher (RIKEN Nishina Center)<br>
+Kiyotaka Asakura, Professor and Director (SR Center Ritsumeikan University)<br>
