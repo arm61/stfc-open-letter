@@ -528,3 +528,9 @@ Sophie Dean, PhD Student (Cardiff University - CCI)<br>
 Alessandro Menegolli, Associate Professor (University of Pavia and INFN Pavia (Italy))<br>
 George Fulham, Research Fellow (University of Cambridge)<br>
 Conor Moroney, PhD Student (University College Dublin)<br>
+Shu Miyade, Master's course student (Hiroshima University)<br>
+Xiaoyan Lu, Undergraduate student (University College Dublin)<br>
+Xing-Liang Xu, Associate Professor (Zhejiang University of Science and Technology)<br>
+Stephen Potts, Associate Professor (Teaching) (University College London)<br>
+Christopher Court-Wallace, Senior research technician (Cardiff University)<br>
+Masanori Miyazaki, Assistant Professor (Muroran Institution of Technology)<br>
