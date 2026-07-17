@@ -597,3 +597,174 @@ Sven L. M.	Schroeder, Bragg Centenary Chair	(University of Leeds)<br>
 Barbara	Ciani, Senior Lecturer in biophysical chemistry	(University of Sheffield)<br>
 Philip	Howes, Assistant Professor	(University of Sussex)<br>
 Vivek	Kumar, PhD Student	(Banaras Hindu University, India)<br>
+Thomas S. Miller, Associate Professor  (University College London )<br>
+R. M. Gamini Rajapakse, Senior Professor in Chemistry (University of Peradeniya)<br>
+Stephen Skinner, Professor of Materials Chemistry (Imperial College London)<br>
+Daniel Atkinson, Researcher (Fundación Cidetec)<br>
+Morgan L. Thomas, Project Associate Professor (Keio University)<br>
+Julien Gautrot, Professor of Biomaterials and Biointerfaces (Queen Mary University of London)<br>
+Mohd yaqub khan, Post Doctoral (National Central University)<br>
+Olufunso  Abosede , Professor and Director of Research and Quality Assurance  (Federal University Otuoke, Nigeria )<br>
+Thokozile Kathyola, Senior Support Scientist (Diamond Light Source)<br>
+Bahadur Sk, Assistant Professor (KL University)<br>
+Liam Cox, Professor of Biological Chemistry (University of Birmingham)<br>
+Anna Kleanthous, Analytical Chemist ()<br>
+Victor Volkov, independent researcher (associated with Nottingham Trent University)<br>
+Fernando  Bresme, Professor of Chemical Physics (Imperial College)<br>
+Jon Newnham, Advanced Research Associate  (University of Aberdeen )<br>
+Michael Ruggiero, Professor  (University of Strathclyde)<br>
+Trevor Clarke, Journalist (BBC)<br>
+Georgia Orton, Leverhulme Trust Early Career Fellow (University of Birmingham )<br>
+Joaquim Moreira, Associate Professor (University of Porto. Portugal)<br>
+David Danaci, Research Fellow  (Imperial College London )<br>
+Yvonne Grunder, Senior Lecturer (University of Liverpool)<br>
+Paul Topham, Professor, Director of Aston Institute for Membrane Excellence (Aston University)<br>
+Lee Durndell , Associate professor in the clean energy transition  (University of plymouth )<br>
+Ranjith Krishna Pai, Scientist (DST< Ministry of Science and Technology, Govt. of India)<br>
+Basile Curchod, Professor of Theoretical Chemistry (University of Bristol)<br>
+Matt Derry, Reader (Aston University)<br>
+Kevin Lovelock, Royal Society University Research Fellow (University of Bath)<br>
+Peter Slater, Professor of Materials Chemistry (University of Birmingham)<br>
+Zoe Wright, PhD Student (University of Oxford)<br>
+Maria Paula Marques, Associate Professor (with habillitation) (University of Coimbra )<br>
+Hope  Edwards, PhD Student (University of Leicester)<br>
+Thomas Saerbeck, Staff Research Scientist (Institut Laue-Langevin)<br>
+Dylan Tawse, Postdoctoral Research Fellow (University of Aberdeen)<br>
+Zhilun Lu, Assistant Professor (University of Leeds)<br>
+Peter Dowding, Chief Scientist (Infineum UK Limited)<br>
+James Metcalf, Postdoctoral Researcher (Max-Planck-Institut für Kohlenforschung)<br>
+Matthew Langton, Professor of Chemistry (University of Oxford)<br>
+Laura  Spagnolo , Professor of Biophysical Chemistry  (University of Glasgow )<br>
+Bushra Mughal, Member of RSC (Royal Society of Chemistry )<br>
+Peter  Griffiths, Professor  (University of Greenwich)<br>
+Alex Cowan, Professor of Chemistry  (University of Liverpool )<br>
+Mark Brouard, Professor of Chemistry (University of Oxford)<br>
+Shurui Miao, St John's College Oxford - Career Development Research Fellowship (University of Oxford)<br>
+Pankaj Sharma, Senior Research Scientist  ()<br>
+Arthur Graf, Experimental Officer (Cardiff University)<br>
+Mandeep Chahal, Lecturer, Chemsitry and Forensics (University of Kent)<br>
+Rachel Evans, Professor of Materials Chemistry (University of Cambridge)<br>
+Sean Collins, Associate Professor in Data-Driven Characterisation of Materials (Imperial College London)<br>
+Alvaro Etcheverry-Berrios, Senior Lecturer in Inorganic Chemistry (Manchester Metropolitan University)<br>
+Jordan Dorrell, ADAM Research Fellow (University of Southampton)<br>
+Aloisia  King , Research Assistant (Queens University Belfast)<br>
+Mark Brouard, Professor of Chemistry (University of Oxford)<br>
+Adam Morris, PhD Researcher (University College London)<br>
+Timothy  Burrow, PDRA (Synchrotron SOLEIL)<br>
+Michael Smidman, Associate Professor (Zhejiang University)<br>
+Annette Shrive, Senior Lecturer (Keele University)<br>
+Peter Knowles, Emeritus Professor of Chemistry (Cardiff University)<br>
+Adilson Freitas, Assistant Professor (University of Lisbon)<br>
+Iain Malone, Postdoctoral Reserarcher (École polytechnique fédérale de Lausanne)<br>
+Andrew Tarzia, Assistant Professor (University of Birmingham)<br>
+Neil Peirson, Lecturer in Chemistry (The Sheffield College)<br>
+Toby Blundell, Crystallography Service Manager (Durham University)<br>
+Steve Rannard, Professor of Chemistry (University of Liverpool)<br>
+Brett  McElwaine, Senior RnD Scientist (Domino Printing Sciences)<br>
+Alan Goddard, Professor of Biotechnology and Head of Biosciences (Aston University)<br>
+Hangfeng Zhang, Postdoctoral Research Assistant (Queen Mary University of London)<br>
+Rachel Holland, PhD Researcher (Aston University)<br>
+Cameron Wilson, Research Fellow (University of Warwick)<br>
+Hannah Howie , PhD Student (UCL)<br>
+Madasamy Thangamuthu, Research Fellow (University of Nottingham)<br>
+Cameron Alexander, Professor of Polymer Therapeutics (University of Nottingham)<br>
+Michal Winiarski, assistant professor (Gdansk University of Technology, Poland)<br>
+Carmen Domene, Professor of Chemistry (University of Bath)<br>
+Alison Paul, Reader in Innovation (Cardiff University)<br>
+Srinivasan Anandhan, Professor (NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, INDIA)<br>
+Joseph Beckwith, Assistant Professor (University of Warwick)<br>
+Gemma Shearman, Senior Lecturer in Physical / Computational Chemistry (Kingston University)<br>
+Rob McKay , Materials Engineering Consultant (retired)) (European Space Agency, ESTEC, Netherlands. )<br>
+Claire Vallance, Professor of Physical Chemistry  (University of Oxford )<br>
+Kevin Haubrich, Biomolecular NMR facility manager (UCL)<br>
+Daniel Driscoll, Experimental Officer & X-ray diffraction facility manager (University of Surrey)<br>
+Putthachat Sinted, PhD student (University of Warwick)<br>
+Syamaidzar , PhD Student (University of Warwick)<br>
+Craig Hiley, Research Fellow (University of Warwick)<br>
+Miriam Piccinini, PhD student (KTH, Royal Institute of Technology Stockholm)<br>
+Zhongwei Lu, PhD student (Cardiff University)<br>
+Jamie Allen, PDRA (University of Sheffield)<br>
+Sayan Ghosh, PhD Scholar (Rajiv Gandhi Institute of Petroleum Technology, India)<br>
+Jenny G. Vitillo, Associate Professor (University of Insubria)<br>
+Tathamay  Basu, Assistant Professor (Rajiv Gandhi Institute of Petroleum Technology, India)<br>
+Gesa Welker, University Teacher (Eindhoven University of Technology, the Netherlands)<br>
+Kirsty Smith, Member (Newcastle University)<br>
+Gediminas Simutis, scientist (Paul Scherrer Institute)<br>
+Ninto UDA, Graduate Student (Hiroshima University, WPI-SKCM2)<br>
+Chennan Wang, Senior researcher (University of Fribourg)<br>
+Chao Zhao, Postdoctoral Research Fellow; Member of the Royal Society of Chemistry (MRSC) (University of Rome Tor Vergata / CHOSE; former UK researcher)<br>
+David Amabilino, Research Professor (Institut de Ciència de Materials de Barcelona (ICMAB-SCIC))<br>
+Stephen Worrall, Deputy Head of Department (Aston University)<br>
+Sayan Ghosh, PhD Scholar (Rajiv Gandhi Institute of Petroleum Technology, India)<br>
+Ellen Heeley, Senior Lecturer in Physical Chemistry (The Open University)<br>
+Blesson Sunny, Research Fellow (University of Warwick)<br>
+Daniel Scott, Lecturer in Inorganic Chemistry (University of Bath)<br>
+Julia Weinstein, Professor, Chemistry (University of Sheffield)<br>
+Javier Castells-Gil, Leverhulme Early Career Fellow (University of Birmingham)<br>
+Giacomo Prando, Associate Professor of Physics (University of Pavia)<br>
+Pietro Bonfa', Research Fellow (University of Modena and Reggio Emilia)<br>
+Khokan Bhattacharya, PhD Scholar (Shiv Nadar Institution of Eminence)<br>
+Giovanni Costantini, Professor of Physical Chemistry (University of Birmingham)<br>
+Dr Kenneth Nwoko, Senior Development Scientist (Lucideon (UK) Ltd)<br>
+Matus Stredansky, Postdoctoral research fellow (University of Birmingham)<br>
+Kerri McKeever, PhD Student (Queen's University Belfast)<br>
+Rob Apsimon, Senior Lecturer in accelerator science (Lancaster University)<br>
+Kenneth  Nwoko , PhD, Senior Development Scientist (Analysis and Evaluation, Lucideoon UK)<br>
+Rebecca Boston, Senior Lecturer (University of Sheffield)<br>
+Martin Månsson, Professor (KTH Royal Institute of Technology)<br>
+Matthew Quesne, Lecturer in Computational Chemistry (University of Leeds)<br>
+Martin Boehm, Head of Spectroscopy Group (Institut Laue-Langevin)<br>
+Russell Minns, Professor of Chemistry (University of Southampton)<br>
+Harry  Brain, PhD Researcher (University of Warwick)<br>
+John Pasley, Reader (University of York)<br>
+Andrew Marsh, Reader (Associate Professor) (University of Warwick)<br>
+Jayadev  SARALKUMAR, Masters Thesis Intern (ILL, Grenoble )<br>
+Alex Amato, Ex Head of the PSI Center for Neutron and Muon Sciences (Paul Scherrer Institute)<br>
+Philipp Niklowitz, Associate Professor (Royal Holloway, University of London)<br>
+Rick (P.W.) Mengyan, Professor of Physics (Northern Michigan University (U.S.))<br>
+Philip Camp, Professor of Theoretical Chemistry (University of Edinburgh)<br>
+Carlos Graeff, Professor (Science Faculty - UNESP)<br>
+Brian Gainey, Retired (Fellow Energy Institute,Fellow Institute of Chemistry.. .)<br>
+Ziwen Pan, Research associate (University of Science and Technology of China)<br>
+Maja Dunstan, Post-doctoral Research Associate (The University of Edinburgh)<br>
+Thomas  Romain, PhD student  (University of Bristol)<br>
+Luc Bessuges, PhD student (ETHZ)<br>
+Isaac Abrahams, Senior Lecturer (Queen Mary University of London)<br>
+Hallam Greene, PhD Student (University of Bristol)<br>
+Joceline (Jacob) Cox, Director (Green Science Research Foundation)<br>
+Lingcong  Meng, Lecturer (University of Edinburgh)<br>
+Helena Vieira Alberto, Associate Professor (University of Coimbra, Portugal)<br>
+Steven Lustig, Associate Professor Chemical Engineering (Northeastern University)<br>
+Tom Williamson, PhD Student (University of Cambridge)<br>
+Christopher Wedge, Data Scientist (Newcastle University)<br>
+Arthur Heiss, CEO (Heiss & Associates, LLC)<br>
+Amy Matthews, PhD student (University of Manchester)<br>
+Renny Hall, Owner (Hall Scientific Ltd)<br>
+Luke Keenan, Beamline Scientist (Diamond Light Source)<br>
+John Cattermull, Research Fellow (Stanford University)<br>
+Gianrico Lamura, researcher (CNR-SPIN)<br>
+Oliver Thomas, Diamond User Committee (Oxford University)<br>
+Rui Vilarinho, Assistant Researcher (University of Porto)<br>
+Fabiano Severo Rodembusch, Professor (Federal University of Rio Grande do Sul)<br>
+Stephen Skinner, Professor of Materials Chemistry (Imperial College London)<br>
+Thomas Draper, Senior Research Fellow (University of the West of England)<br>
+Francesco Grazzi, Senior Researcher (CNR-IFAC)<br>
+Gregory Rees, PDRA (University of Oxford)<br>
+Georg Held, Visiting Professor (University of Reading)<br>
+Christopher Pickett, Professor (University of East Anglia)<br>
+Rebecca Witte, PhD student (University of Oxford)<br>
+Geoffret Mitchell, Senior Researcher (University of Leiria and the East, Portugal)<br>
+Nicole Mitchell, Postdoctoral Research Associate (University of Oxford)<br>
+Sanjukta Zamindar, Research Scholar (CSIR CMERI)<br>
+Jonathan Gratus, Senior Lecturer (Lancaster)<br>
+Silvia  Ramos, Head of School Engineering, Mathematics and Physics (University of Kent)<br>
+Kirill Kovnir, Professor of Chemistry (Iowa State University)<br>
+Elaine Moore, Honorary Associate (The Open University)<br>
+Harry Wright, PhD Student (University of Oxford)<br>
+Sofia De Sousa Coutinho, PDRA (University of Oxford)<br>
+Tracey Taylor, Senior Research Technologist (United Kingdom National Nuclear Laboratory )<br>
+Luis Batista de Carvalho FRSC, Associate Professor (University of Coimbra)<br>
+Francesco Straniero, Student (University of Oxford)<br>
+Muhammad Talal Zahid, Recent Undergraduate (Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan)<br>
+Andrei Salak, Principal Researcher (University of Aveiro (Portugal))<br>
+Niels Bech Christensen, Associate Professor (Technical University of Denmark)<br>
