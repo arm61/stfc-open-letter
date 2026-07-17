@@ -550,4 +550,50 @@ Thomas Karagiannis, PhD candidate  (University College Dublin)<br>
 Stefano  Carretta, Professor (University of Parma )<br>
 Vlado  Lazarov, Prof. (University of York)<br>
 Deborah Kays, Professor of Inorganic Chemistry (Cardiff University)<br>
-Christian Balz, Instrument Scientist (ESS)<br>
+Christian Balz, Instrument Scientist ESS)<br>
+Matthew	Jessop	Senior Scientific Officer	(The Institute of Cancer Research)<br>
+Dai	Tomono	Assistant Professor	RCNP (the University of Osaka / KEK IMSS)<br>
+Chandraleka 	Viswanaath Shanthamani 	PhD position 	(University college Dublin )<br>
+Lucy	Costley-Wood	Postdoctoral Fellow	(University College London)<br>
+Keisuke	Yokota	Master's student	(The University of Osaka / RCNP)<br>
+Suchitra	Sebastian	Professor	(University of Cambridge)<br>
+Qinhan	Wu	PhD student	(CCI)<br>
+Chandraleka 	Viswanaath Shanthamani	PhD student	(University College Dublin)<br>
+Petr	Král	Postdoctoral Fellow	(Paul Scherrer Institute)<br>
+Dimitrios	Argyriou	Director, Advanced Light Source	(Lawrence Berkeley National Laboratory )<br>
+Katherine 	Barber	Post doc 	(Chalmers )<br>
+George	Simmons	PhD Student	(University of Warwick)<br>
+Nicholas	Popiel	Postdoctoral Researcher 	(University of Bristol)<br>
+Richard	Wingad	Research Associate	(Cardiff University)<br>
+Richard	Evans	Associate Professor	(University of York)<br>
+Emma	Tierney	PhD Student	(Cardiff University)<br>
+Ratchawit	Janewithayapun	Post-doctoral researcher	(European Spallation Source)<br>
+Peter	Soar	Senior Lecturer in Computer Science	(The University of Greenwich )<br>
+Katie	Roberts	PhD student	(Cardiff Catalysis Institute )<br>
+Hans-Henning	Klauss	Professor	(Technische Universität Dresden)<br>
+Robbie	Wilson	Research Associate 	(University of Strathclyde)<br>
+Suchitra	Sebastian	Professor	(University of Cambridge)<br>
+Fernando	Rey	Research Professor	(CSIC)<br>
+John	Dainton FRS	Professor	(Lancaster University and the Cockcroft Institute)<br>
+Oznur	Apsimon	Lecturer	(The University of Manchester and the Cockcroft Institute)<br>
+Giulia	Marcucci 	Postdoctoral researcher 	(Milano-Bicocca University)<br>
+Abdullah	Al Abdulghani	Lecturer	(University College Dublin)<br>
+Laura	Corner	Senior Lecturer	(University of Liverpool)<br>
+Rui	Vilao	Associate Professor	(University of Coimbra (Portugal))<br>
+Peter	Brommer	Associate Professor	(University of Warwick)<br>
+Nigel	Hussey	Professor of Physics	(University of Bristol)<br>
+Victoria	Karner	Senior Research Assistant	(University of British Columbia)<br>
+Rob	Kiefl	Professor Emeritus	(University of British Columbia)<br>
+Igor	Strakovsky	Professor of Physics	(The George Washington University)<br>
+Jie	Ma	professor	(Shanghai Jiao Tong University)<br>
+Farheen	Sayed	Research Associate	(University of Cambridge)<br>
+Masatoshi	Hiraishi	Resercher	(KEK )<br>
+Andrzej	Wolski	Professor	(University of Liverpool)<br>
+Yasuhiro	Miyake	Emeritus Professor	(High Energy Accelerator Research Organization,, KEK)<br>
+Kotaro	Nagura	Master’s course student	(Osaka University)<br>
+Alexander	de Bruin	Manufacturing and Scale-Up Lead 	(Methanox Ltd)<br>
+Tony	McNally	Professor 	(University of Warwick)<br>
+Sven L. M.	Schroeder	Bragg Centenary Chair	(University of Leeds)<br>
+Barbara	Ciani	Senior lecturer in biophysical chemistry	(University of Sheffield)<br>
+Philip	Howes	Assistant Professor	(University of Sussex)<br>
+Vivek	Kumar	PhD Student	Banaras Hindu University, India)<br>
