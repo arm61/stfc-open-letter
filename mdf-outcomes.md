@@ -768,3 +768,24 @@ Francesco Straniero, Student (University of Oxford)<br>
 Muhammad Talal Zahid, Recent Undergraduate (Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan)<br>
 Andrei Salak, Principal Researcher (University of Aveiro (Portugal))<br>
 Niels Bech Christensen, Associate Professor (Technical University of Denmark)<br>
+Kofi Coke, Research Fellow (University of Southampton)<br>
+Ondrej Hovorka, Associate Professor (The University of Southampton)<br>
+Douglas MacLaughlin, Emeritus Professor (University of California, Riverside)<br>
+Roderick Macrae, Professor of Chemistry (Marian University (USA))<br>
+Martin Wills, Professor (University of Warwick)<br>
+Panagiotis Manesiotis, Head of School (Queen's University Belfast)<br>
+Silvia Imberti, Lead Editor  (ACS Publications, ACS International, Oxford, UK)<br>
+Jen Lucas, Materials Scientist (Saint-Gobain Formula)<br>
+Harrison Laurent, Post doctoral research fellow (University of Leeds)<br>
+Marvadeen Singh-Wilmot, Senior Lecturer and Head of crXstal (Caribbean Regional X-ray Science Toward Advancement Laboratory) (Chemistry Department, University of the West Indies Mona Campus Jamaica)<br>
+Katie Morton, Former user (Royal society of chemistry)<br>
+Nicole Church, Assistant Professor  (University of Cambridge )<br>
+Arwen Tyler, Associate Professor (University of Leeds)<br>
+Paramaconi Rodriguez, Head of Electrochemical Hydrogen Technologies (CIC energiGUNE)<br>
+Tamiko Kiyotani, Assistant Professor (Showa Pharmaceutical University)<br>
+Ashleigh  Fletcher, Professor (University of Strathclyde )<br>
+Giuseppe Allodi, Associate Professor (University of Parma, Italy)<br>
+Adrian  Ionescu (Cambridge University)<br>
+Marc Pera-Titus, Professor and Chair in Sustainable Catalytic Chemistry (Cardiff University)<br>
+Stuart Taylor, Professor of Catalysis (Cardiff University)<br>
+Amy Sparks, Postdoctoral researcher (CERN/Paul Scherrer Institute)<br>
