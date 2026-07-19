@@ -789,3 +789,26 @@ Adrian  Ionescu (Cambridge University)<br>
 Marc Pera-Titus, Professor and Chair in Sustainable Catalytic Chemistry (Cardiff University)<br>
 Stuart Taylor, Professor of Catalysis (Cardiff University)<br>
 Amy Sparks, Postdoctoral researcher (CERN/Paul Scherrer Institute)<br>
+Yoko Sugawara, Professor emeritus (Kitasato University)<br>
+Stefan Nicholson, Senior Scientist<br>
+Arunabhiram Chutia, Senior Lecturer (University of Lincoln)<br>
+Manisha Islam, Postdoctoral Research Fellow (Paul Scherrer Institute)<br>
+Doug  Macfarlane , Sir John Monash Distinguished Professor  (Monash University )<br>
+Yasmine Sassa, Associate Professor (KTH Royal Institute of Technology)<br>
+Linn Jansson, PhD Student (KTH Royal Institute of Technology )<br>
+Alexander Munnoch, Honorary Research Fellow (University of Glasgow)<br>
+Aline Miller, Associate Vice-President and Professor (The University of Manchester)<br>
+Rasmus Tang Christiansen, Humboldt Research Fellow (University of Stuttgart)<br>
+Roberto  Senesi , Professor (Università degli Studi di Roma tor Vergata )<br>
+Samuel  Booth, Principal Scientist (Mhor Energy)<br>
+Zackary Llewellyn, Research Student (PhD) (Cardiff University)<br>
+Fredrick Okumu, Senior Lecturer (Jaramogi Oginga Odinga University of Science and Technology)<br>
+Ljiljana Fruk, Professor (University of Cambridge, Dept of Chemical Engineering and Biotechnology)<br>
+Philipp Gutfreund, Instrument Scientist (Institut Laue-Langevin)<br>
+Takehito Nakano, Associate Professor (Ibaraki University, Japan)<br>
+Xiaojie Ni , Associate Researcher (Suzhou National Laboratory)<br>
+Razan Aboljadayel, Postdoctoral Research Associate (University of Edinburgh)<br>
+Joshua Hill, Associate Professor (Royal Danish Academy, Institute of Conservation (Denmark))<br>
+Shinji Okada, Professor (Chubu University)<br>
+Shoichiro Nishimura, Assistant Professor (Muon Science Laboratry, IMSS, KEK)<br>
+Soshi Ishitani, PhD student (The University of Osaka)<br>
