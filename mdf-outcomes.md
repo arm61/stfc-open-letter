@@ -812,3 +812,39 @@ Joshua Hill, Associate Professor (Royal Danish Academy, Institute of Conservatio
 Shinji Okada, Professor (Chubu University)<br>
 Shoichiro Nishimura, Assistant Professor (Muon Science Laboratry, IMSS, KEK)<br>
 Soshi Ishitani, PhD student (The University of Osaka)<br>
+Andrew  Wills, Head of Physical Chemistry (UCL)<br>
+Thomas Sheppard, Professor (TU Wien)<br>
+Shotaro Matsui, PhD student (The University of Osaka / RCNP)<br>
+Marco Maccarini , CNRS Permanent researcher  (Université Grenoble Alpes,France)<br>
+Jennifer Johnstone-Hack, Royal Academy of Engineering Research Fellow (University of Sheffield)<br>
+Yasuyuki Ishii, Professor  (Shibaura Institute of Technology)<br>
+Masaki Fujita, Professor (Institute for Materials Research, Tohoku University)<br>
+Andy Naylor, Researcher (Uppsala University, Sweden)<br>
+Eric Kenney, Postdoc (University of Fribourg)<br>
+Anshu  Kataria, Post Doctoral fellow (University of Parma, Italy)<br>
+Małgorzata Swadźba-Kwaśny, Professor of Inorganic Chemistry (Queen's University Belfast))<br>
+Enzo Liotti, Lecturer (University of Oxford)<br>
+Takao Suzuki, Professor (Shibaura Institute of Technology)<br>
+Iain Wright, Senior Lecturer in Materials Chemistry (University of Edinburgh)<br>
+Fredrik Johansson, Lecturer (Uppsala university)<br>
+Susanna Harvey, PhD Student (University of Birmingham)<br>
+Markus Appel, Staff Scientist (Institut Laue-Langevin)<br>
+Reshma Rao, Assistant Professor (Imperial College London)<br>
+Keith McKenna, Professor (University of York)<br>
+Felix Fernandez-Alonso, Ikerbasque Professor (Materials Physics Center)<br>
+Zeke Coady, PhD Student (University of Cambridge)<br>
+Robin Lamboll, Research fellow (Imperial College London)<br>
+Neil Wilson, Professor of Physics (University of Warwick)<br>
+Helen Fielding, Thomas Graham Professor of Chemistry (University college London)<br>
+Elvezio Morenzoni, Professor, former Head of Laboratory for Muon Spin Spectroscopy PSI (Paul Scherrer Institut, Switzerland)<br>
+Finlay Morrison, Professor (University of St Andrews)<br>
+Irene D'Amico, Professor (University of York)<br>
+Jochen Litterst, Professor emeritus (Technical University of Braunschweig, Germany)<br>
+Philip Kitchen, Lecturer in Biosciences (Aston University)<br>
+Alberto Rodriguez Velamazan , Staff Scientist  (Institut Laue Langevin)<br>
+Alex Heyam, Experimental Officer (University of Leeds)<br>
+Derek Sinclair, Professor of Materials Chemistry (University of Sheffield)<br>
+Josh Bailey, Vice-Chancellor's Illuminate Fellow (Queen's University Belfast)<br>
+Andrew Alexander, Reader in Chemical Physics (University of Edinburgh)<br>
+Grant Ritchie, Professor of Chemistry (University of Oxford)<br>
+John Bevis, Retired analytical chemist<br>
