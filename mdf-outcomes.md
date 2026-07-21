@@ -848,3 +848,13 @@ Josh Bailey, Vice-Chancellor's Illuminate Fellow (Queen's University Belfast)<br
 Andrew Alexander, Reader in Chemical Physics (University of Edinburgh)<br>
 Grant Ritchie, Professor of Chemistry (University of Oxford)<br>
 John Bevis, Retired analytical chemist<br>
+Adekunle Adeyeye, Professor of Physics (Durham University)<br>
+Andrew Pratt, Professor (University of York)<br>
+Hirotaka Okabe, Research Associate Professor (The University of Electro-Communications)<br>
+Takayuki Yamazaki, Lecturer (KEK)<br>
+I-Huan Chiu, Scientist (Japan Atomic Energy Agency )<br>
+Teiichiro Matsuzaki, Senior Visiting Scientist, Honorary Scientist (RIKEN Japan)<br>
+Eri Hirose, Assistant Professor (KEK/J-PARC)<br>
+Samantha Piper, Research Fellow (Deakin University)<br>
+Anna Peacock, Professor (University of Birmingham)<br>
+Yukinori Nagatani, Special Associate Professor (KEK)<br>
