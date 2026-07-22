@@ -858,3 +858,43 @@ Eri Hirose, Assistant Professor (KEK/J-PARC)<br>
 Samantha Piper, Research Fellow (Deakin University)<br>
 Anna Peacock, Professor (University of Birmingham)<br>
 Yukinori Nagatani, Special Associate Professor (KEK)<br>
+Colin Willis, Senior Industrial Research Chemist (Infineum (UK) Ltd)<br>
+Takeshi Saito, Researcher (KEK)<br>
+Ignacio Martin-Fabiani, UKRI Future Leaders Fellow and Senior Lecturer (Loughborough University)<br>
+Jennifer Gilbert, Postdoctoral researcher (Chalmers University of Technology)<br>
+Sebastian Pike, Associate Professor (University of Warwick)<br>
+Yaroslav Odarchenko, Research Scientist (Finden Ltd (personal capacity))<br>
+Nicole Melzack, Thermal Engineer (RAL Space, STFC)<br>
+Miraslau Barabash, PhD, MInstP, Research Fellow (University College London)<br>
+James Birrell, Lecturer (University of Essex)<br>
+Shiyu Deng, Postdoc Researcher (Institut Laue-Langevin)<br>
+Edmond Chan, Instrument Scientist (Institut Laue-Langevin)<br>
+José Luis Olloqui Sariego, Assistant Professor (University of Seville)<br>
+Bela Farago, Staaff scientist (Institut Laue langevin)<br>
+Oleksandr Mykhaylyk, Senior Research Fellow (University of Sheffield)<br>
+Ricardo Vieira, Researcher (University of Coimbra)<br>
+Tina Arh, Postdoctoral Fellow  (Paul Scherrer Institute)<br>
+Fumitoshi Iga, Science Coordinator,（Emeritus Professor of Ibaraki University） (Comprehensive Research Organization for Science and Society CROSS)<br>
+Kazuaki Iwasa, Professor, Director of RECAS (Ibaraki University)<br>
+Shin-ichiro Meigo, Vice Division Leader (J-PARC/JAEA)<br>
+Hirotoshi Hayashida, BL22 Group Leader, Associate Chief Scientist (Comprehensive Research Organization for Science and Society(CROSS))<br>
+Alfred BARON, Group Director (RIKEN)<br>
+Kazuhiro Akutsu, Deputy Chief Engineer (Comprehensive Research Organization for Science and Society (CROSS))<br>
+Kazuya Kamazawa, Associate Chief Scientist (Neutron Science and Technology Center, Comprehensive Research Organization for Science and Society)<br>
+Masaaki Sugiyama, Vice Director, Professor (Institute for Integrated Raditation and Nuclear Science, Kyoto University and )<br>
+Naritoshi Kawamura, Deputy Head/Professor (J-PARC Materials and Life Science Division)<br>
+Hazuki Furukawa, Head of Physics Department (Ochanomizu University)<br>
+Hodaka Kikuchi, Neutron Scattering Instrument Scientist (Oak Ridge National Laboratory)<br>
+Ryutaro Okuma, Assistant Professor (University of Tokyo)<br>
+Makoto Yokoyama, Professor (Ibaraki University)<br>
+Asami Sano-Furukawa, Neutron Science Section Leader (J-PARC Center, JAEA)<br>
+Stefanus  Harjo , Senior Principal Researcher (Japan Atomic Energy Agency)<br>
+Sarah McKinney, PDRA (Imperial College London)<br>
+Kenji Ohoyama, Professor (Ibaraki University, Japan)<br>
+Eugenio Fasci, Associate Professor (University of Campania / INFN-Na)<br>
+Keitaro Kuwahara, Professor (Ibaraki University)<br>
+Timothy Spiller, Emeritus Professor (University of York)<br>
+Sebastien Rochat, Senior lecturer (University of Bristol)<br>
+Andrew Howes, Associate Professor (University of Warwick)<br>
+Simon Kondrat, senior Lecturer (Loughborough University)<br>
+Dominic Spencer-Jolly, Assistant Professor (University of Birmingham)<br>
