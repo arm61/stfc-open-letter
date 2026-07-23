@@ -898,3 +898,26 @@ Sebastien Rochat, Senior lecturer (University of Bristol)<br>
 Andrew Howes, Associate Professor (University of Warwick)<br>
 Simon Kondrat, senior Lecturer (Loughborough University)<br>
 Dominic Spencer-Jolly, Assistant Professor (University of Birmingham)<br>
+Arjit Shankar Banerjee, PhD Student (University of St Andrews)<br>
+Mark Greenaway, Senior Lecturer (Loughborough University)<br>
+Stephen Argent, Senior Research Fellow (University of Nottingham)<br>
+Ben Pilgrim, Associate Professor (University of Nottingham)<br>
+Stuart James, Professor (Queen's University Belfast)<br>
+Lucy Coria, Staff Researcher (INQUIMAE - UBA, CONICET)<br>
+Andrea Laybourn, UKRI Future Leaders Fellow & Associate Professor  (University of Leeds)<br>
+Michihiro Nagao, Research Professor (University of Maryland)<br>
+Francesco P. Ucci, PhD student (University of Pavia and INFN Pavia)<br>
+Masatsugu Yoshimoto, Reseracher (Rigaku Corporation)<br>
+Tatsuhito Matsuo, Associate Professor (Hiroshima International University)<br>
+George Adesola, Honours Student in Materials Chemistry (University of St Andrews)<br>
+Ryohei Oishi, Assistant Professor (Hokkaido University)<br>
+Glenn Lees, Teaching Associate (University of Nottingham)<br>
+Rachael Wright, Senior Occupational Therapist (Hampshire and Isle of Wight NHS Foundation Trust)<br>
+Ryuji Maruyama, Principal researcher (Japan Atomic Energy Agency)<br>
+Alexander Forsey, Senior lecturer in mechanical engineering (The Open University)<br>
+Dita Puspita Sari, Associate Professor (Shibaura Institute of Technology)<br>
+Yukio Yasui, Prof. (Meiji Univ. Japan)<br>
+Lorna  Sinclair, Technical Specialist (University of Manchester )<br>
+Marta Peña Fernández , Assistant Professor  (Heriot-Watt University )<br>
+Edward Lant, CEO and Founder (Elemental Resolve Ltd)<br>
+Jonathan Keeling, Professor of Theoretical Physics and Head of School of Physics and Astronomy (University of St Andrews)<br>
