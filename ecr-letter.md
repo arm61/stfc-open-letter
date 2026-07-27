@@ -43,3 +43,42 @@ Thomas Hicken, Postdoctoral Fellow (PSI)<br>
 Lizzie Evans, PhD student (University of Birmingham)<br>
 Andrew McCluskey, Senior Lecturer (University of Bristol)<br>
 Catriona Crawford, Postdoctoral Research Associate (University of Warwick)<br>
+Thomas Brogan, PhD student  (University of Birmingham )<br>
+Caitlin Brooker-Davis, PhD Student (University of Birmingham)<br>
+Struan Simpson, Research Fellow (University of Warwick)<br>
+Ewan Thomas, DPhil Student (Oxford University)<br>
+Nik Reeves-McLaren, Senior Lecturer, Faculty of Engineering PGR Lead (University of Sheffield)<br>
+Ignacio Martin-Fabiani, Professor of Soft Matter Science and Engineering (Loughborough University)<br>
+Maja Dunstan, Postdoctoral Research Associate (The University of Edinburgh)<br>
+Daniel Scott, Lecturer in Inorganic Chemistry (University of Bath)<br>
+Anna Peacock, Professor in Bioinorganic Chemistry (University of Birmingham)<br>
+Josh Bailey, Vice-Chancellor's Illuminate Fellow (Queen's University Belfast)<br>
+Quinn Gibson, Lecturer (University of Aberdeen)<br>
+Iain Malone, Postdoctoral Researcher (Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne)<br>
+Matthew Littlehales, Postdoctoral Researcher (Technical University of Munich)<br>
+Theo Breeze, PhD Student (Durham University)<br>
+Edmond Chan, Instrument Scientist (Institut Laue-Langevin)<br>
+Emily Charlotte McFarlane, PhD Student (Max Planck Institute of Microstructure Physics)<br>
+Putthachat Sinted, PhD candidate (University of Warwick)<br>
+Zoe Wright, PhD Researcher (University of Oxford)<br>
+Peter Soar, Senor Lecturer (University of Greenwich)<br>
+Zixuan Wu, PhD student  (University of Oxford)<br>
+Thomas Sheerin, Postdoctoral researcher (University of St Andrews)<br>
+Sam Thompson , Postdoctoral Fellow (Aarhus Universitet )<br>
+Altin Sula, Principal Scientist  (Syngenta )<br>
+Catherine  Pappas, Professor (Delft University of Technology )<br>
+Nicola Kelly, Research Fellow (University of Cambridge)<br>
+CHAO Zhao, Postdoctoral Research Fellow / MRSC (University of Rome Tor Vergata , former UK researcher)<br>
+Petr KrÃ¡l, Postdoctoral Fellow (Paul Scherrer Institute)<br>
+Ross Anderson, PhD Student (Heriot-Watt University)<br>
+Oliver Thomas, Diamond User Committee ECR representative (Physical Sciences) (Oxford University)<br>
+Harrison Laurent, Research fellow (Former ISIS development studentship PhD) (University of Leeds)<br>
+Benjamin Huddart, Postdoctoral Research Assistant (University of Oxford)<br>
+Tina Arh, Postdoctoral Fellow (Paul Scherrer Institute)<br>
+Jintao Shuai, Research Fellow (University of Leeds )<br>
+Conor Moroney, PhD Student (University College Dublin)<br>
+Ben Blain, Graduate Researcher (University of Kent)<br>
+Patricio  Montecinos Munoz, Assistant professor, Lecturer (Universidade de Sao Paulo, Brazil)<br>
+Daire Mallon, PhD student (University of Oxford)<br>
+Kerri McKeever, PhD Student (Queen's University Belfast)<br>
+Florian Courteville, PhD (KTH Royal Institute of Technology)<br>
