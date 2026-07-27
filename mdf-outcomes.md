@@ -973,3 +973,6 @@ Laszlo Veisz, Professor  (Umea University, Sweden)<br>
 Johan Mattsson, Associate Professor (University of Leeds)<br>
 Oliver Wagstaff, PhD Student (Durham University)<br>
 Evangelos Andreou, Research Fellow (University of St Andrews)<br>
+Amber L.  Thompson, Chemical Crystallography Manager (University of Oxford)<br>
+Florian Courteville, PhD (KTH Royal Institute of Technology)<br>
+Chengyu Jiang, Postdoctoral Research Fellow  (KTH, Royal Institute of Technology Stockholm)<br>
