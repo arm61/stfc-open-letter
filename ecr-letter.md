@@ -2,7 +2,7 @@ Professor Michele Dougherty Executive Chair, Science and Technology Facilities C
 
 Professor Sir Ian Chapman Chief Executive, UK Research and Innovation
 
-Re: Early-Career Researchers Response to STFC Prioritisation Outcomes for the Multidisciplinary Facilities User Communities
+Re: Early-Career Researchers' Response to STFC Prioritisation Outcomes for the Multidisciplinary Facilities User Communities
 
 Dear Professor Dougherty and Professor Sir Ian Chapman,
 
