@@ -38,3 +38,6 @@ Protecting the UK's reputation as a science superpower requires not only world-c
 Yours sincerely,
 
 Thomas Hicken, Postdoctoral Fellow (PSI)<br>
+Lizzie Evans, PhD student (University of Birmingham)<br>
+Andrew McCluskey, Senior Lecturer (University of Bristol)<br>
+Catriona Crawford, Postdoctoral Research Associate (University of Warwick)<br>
