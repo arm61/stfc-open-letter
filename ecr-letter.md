@@ -8,7 +8,7 @@ Re: Early-Career Researchers' Response to STFC Prioritisation Outcomes for the M
 
 Dear Professor Dougherty and Professor Sir Ian Chapman,
 
-The scientific community has already expressed deep concern over the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs) such as ISIS and Diamond; however, the specific impact on early-career researchers (ECRs) that rely on these facilities has not been discussed. 
+The scientific community has already expressed deep concern over the proposed cuts to the operations of the Multidisciplinary Facilities (MDFs) such as ISIS, Diamond, and the Central Laser Facility; however, the specific impact on early-career researchers (ECRs) that rely on these facilities has not been discussed. 
 For many of us, access to these facilities has been central to completing our PhDs, publishing our first papers, building collaborations, and securing our next positions. 
 In this letter, signed by and on behalf of members of the ECR community, we share our concerns that these cuts will harm the career development of talented ECRs, force UK researchers to look abroad for MDF access and opportunities, and weaken the pipeline of UK talent in crucial areas including both curiosity- and application-driven research.
 
