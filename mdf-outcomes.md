@@ -967,3 +967,7 @@ Allan Johnson, Research Professor (IMDEA Nanoscience)<br>
 Asmus Ougaard Dohn, Researcher (Technical University of Denmark, Department of Physics)<br>
 Arnab Sarkar, Post doctoral researcher (IMDEA Nanociencia)<br>
 Colin Church, CEO (Institute of Materials, Minerals & Mining)<br>
+Leonie Stödter, Instrument Scientist (Forschungszentrum Jülich, JCNS at MLZ, Germany)<br>
+Alan Bowman, Research Fellow (University of Oxford)<br>
+Laszlo Veisz, Professor  (Umea University, Sweden)<br>
+Johan Mattsson, Associate Professor (University of Leeds)<br>
