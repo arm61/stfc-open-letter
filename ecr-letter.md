@@ -14,7 +14,7 @@ In this letter, signed by and on behalf of members of the ECR community, we shar
 
 MDFs directly support the growth and development of ECRs in ways that cannot be replicated in other settings. 
 This is evident not only from the PhD studentships they fund, but also in the training and mentoring opportunities they provide. 
-These include hands-on training at user experiments, networking opportunities created at MDF-organised user meetings, and MDF-supported workshops and training schools.  
+These include hands-on training at user experiments, networking opportunities created at MDF-organised user meetings, and MDF-supported workshops and training schools.
 For many, these activities mark the beginning of long-term working relationships between ECRs and the facility scientists who develop, operate and continually advance these world-leading experimental techniques. 
 They also foster collaborations among ECRs, creating new, strong, and diverse research networks across disciplines. 
 Critically, all of these opportunities equip ECRs to become the highly technical workforce that is required for UK advanced industries. 
