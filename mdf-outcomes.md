@@ -963,3 +963,7 @@ Lee Edwardz, Research Associate (Cardiff University)<br>
 Adhithya Venu V M V M, Senior Research Fellow (KPR Institute of Engineering and Technology, Arasur, Coimbatore and Mahatma Gandhi University, Kottayam)<br>
 Patrick  Robertson, Assistant Professor of Physical Chemistry (University of Nottingham)<br>
 Ikuto Kawasaki, Principal Researcher (Japan Atomic Energy Agency)<br>
+Allan Johnson, Research Professor (IMDEA Nanoscience)<br>
+Asmus Ougaard Dohn, Researcher (Technical University of Denmark, Department of Physics)<br>
+Arnab Sarkar, Post doctoral researcher (IMDEA Nanociencia)<br>
+Colin Church, CEO (Institute of Materials, Minerals & Mining)<br>
