@@ -212,3 +212,13 @@ M. Asuncion Molina, Postdoctoral Research Assistant (Diamond Light Source)<br>
 Jennifer Gilbert, Postdoctoral Researcher (Chalmers University of Technology)<br>
 Xiaoyan Lu, Undergraduate Student (University College Dublin)<br>
 Lezhi Zhan, Dphil Student (University of Oxford)<br>
+Jonas A. Krieger, Tenure Track Scientist (Paul Scherrer Institute)<br>
+Daniel Halliday, Postdoctoral Research Associate (Durham University)<br>
+Tine Kalac, PhD Student (Stockholm University)<br>
+Chinnasamy Murugesan, Research Fellow (University of St Andrews)<br>
+Manisha Islam, Postdoctoral Research Fellow (Paul Scherrer Institute, Switzerland)<br>
+Anuradha Bandaranayake Patabandi Mudiyanselage, PhD Student and Postgraduate Teaching Assistant (University College London)<br>
+Xiao Zhao, Postdoc (Paul Scherrer Institute)<br>
+Angus Hodgkiss, PhD Student (Durham University)<br>
+Marios Hadjimichael, Associate Professor in Physics (University of Warwick)<br>
+Zeke Coady, PhD Student (Cambridge)<br>
