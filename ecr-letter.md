@@ -40,10 +40,10 @@ Protecting the UK's reputation as a science superpower requires not only world-c
 Yours sincerely,
 
 Thomas Hicken, Postdoctoral Fellow (PSI)<br>
-Lizzie Evans, PhD student (University of Birmingham)<br>
+Lizzie Evans, PhD Student (University of Birmingham)<br>
 Andrew McCluskey, Senior Lecturer (University of Bristol)<br>
 Catriona Crawford, Postdoctoral Research Associate (University of Warwick)<br>
-Thomas Brogan, PhD student  (University of Birmingham )<br>
+Thomas Brogan, PhD Student (University of Birmingham)<br>
 Caitlin Brooker-Davis, PhD Student (University of Birmingham)<br>
 Struan Simpson, Research Fellow (University of Warwick)<br>
 Ewan Thomas, DPhil Student (Oxford University)<br>
@@ -54,93 +54,96 @@ Daniel Scott, Lecturer in Inorganic Chemistry (University of Bath)<br>
 Anna Peacock, Professor in Bioinorganic Chemistry (University of Birmingham)<br>
 Josh Bailey, Vice-Chancellor's Illuminate Fellow (Queen's University Belfast)<br>
 Quinn Gibson, Lecturer (University of Aberdeen)<br>
-Iain Malone, Postdoctoral Researcher (Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne)<br>
+Iain Malone, Postdoctoral Researcher (École Polytechnique Fédérale de Lausanne)<br>
 Matthew Littlehales, Postdoctoral Researcher (Technical University of Munich)<br>
 Theo Breeze, PhD Student (Durham University)<br>
 Edmond Chan, Instrument Scientist (Institut Laue-Langevin)<br>
 Emily Charlotte McFarlane, PhD Student (Max Planck Institute of Microstructure Physics)<br>
-Putthachat Sinted, PhD candidate (University of Warwick)<br>
+Putthachat Sinted, PhD Candidate (University of Warwick)<br>
 Zoe Wright, PhD Researcher (University of Oxford)<br>
 Peter Soar, Senor Lecturer (University of Greenwich)<br>
-Zixuan Wu, PhD student  (University of Oxford)<br>
-Thomas Sheerin, Postdoctoral researcher (University of St Andrews)<br>
-Sam Thompson , Postdoctoral Fellow (Aarhus Universitet )<br>
-Altin Sula, Principal Scientist  (Syngenta )<br>
-Catherine  Pappas, Professor (Delft University of Technology )<br>
+Zixuan Wu, PhD Student (University of Oxford)<br>
+Thomas Sheerin, Postdoctoral Researcher (University of St Andrews)<br>
+Sam Thompson, Postdoctoral Fellow (Aarhus Universitet)<br>
+Altin Sula, Principal Scientist (Syngenta)<br>
+Catherine Pappas, Professor (Delft University of Technology)<br>
 Nicola Kelly, Research Fellow (University of Cambridge)<br>
-CHAO Zhao, Postdoctoral Research Fellow / MRSC (University of Rome Tor Vergata , former UK researcher)<br>
-Petr KrÃ¡l, Postdoctoral Fellow (Paul Scherrer Institute)<br>
+Chao Zhao, Postdoctoral Research Fellow / MRSC (University of Rome Tor Vergata , former UK researcher)<br>
+Petr Král, Postdoctoral Fellow (Paul Scherrer Institute)<br>
 Ross Anderson, PhD Student (Heriot-Watt University)<br>
-Oliver Thomas, Diamond User Committee ECR representative (Physical Sciences) (Oxford University)<br>
-Harrison Laurent, Research fellow (Former ISIS development studentship PhD) (University of Leeds)<br>
+Oliver Thomas, Diamond User Committee ECR Representative (Physical Sciences) (Oxford University)<br>
+Harrison Laurent, Research Fellow (Former ISIS Development Studentship PhD) (University of Leeds)<br>
 Benjamin Huddart, Postdoctoral Research Assistant (University of Oxford)<br>
 Tina Arh, Postdoctoral Fellow (Paul Scherrer Institute)<br>
-Jintao Shuai, Research Fellow (University of Leeds )<br>
+Jintao Shuai, Research Fellow (University of Leeds)<br>
 Conor Moroney, PhD Student (University College Dublin)<br>
 Ben Blain, Graduate Researcher (University of Kent)<br>
-Patricio  Montecinos Munoz, Assistant professor, Lecturer (Universidade de Sao Paulo, Brazil)<br>
-Daire Mallon, PhD student (University of Oxford)<br>
+Patricio Montecinos Munoz, Assistant Professor, Lecturer (Universidade de Sao Paulo, Brazil)<br>
+Daire Mallon, PhD Student (University of Oxford)<br>
 Kerri McKeever, PhD Student (Queen's University Belfast)<br>
 Florian Courteville, PhD (KTH Royal Institute of Technology)<br>
-Sachin  Gupta, PhD Student (University of Leeds)<br>
+Sachin Gupta, PhD Student (University of Leeds)<br>
 Matthew Brown, PhD Student (Cardiff University)<br>
-Jing Ming, Postdoc  (UCL)<br>
+Jing Ming, Postdoc (UCL)<br>
 Miriam Piccinini, PhD (KTH, Royal Institute of Technology, Sweden)<br>
 Zurab Guguchia, Group Leader (Paul Scherrer Institute)<br>
-Harry  Brain, PhD Researcher (University of Warwick)<br>
+Harry Brain, PhD Researcher (University of Warwick)<br>
 Issa Briki, Postdoc (PSI)<br>
 Syamaidzar Syamaidzar, PhD Student (University of Warwick)<br>
-Suraj Ghai, 1st Year PhD researcher (Queen's University Belfast)<br>
-Nathan Bentley, PhD student (Durham University)<br>
+Suraj Ghai, 1st Year PhD Researcher (Queen's University Belfast)<br>
+Nathan Bentley, PhD Student (Durham University)<br>
 Leon Ruf, PostDoc (PSI)<br>
 Ailsa O'Riordan, PhD Student (University of St Andrews)<br>
-James Metcalf, Postdoctoral Researcher (Max-Planck-Institut fÃ¼r Kohlenforschung)<br>
-Benjamin  Brereton , PhD Student  (University of Leeds )<br>
+James Metcalf, Postdoctoral Researcher (Max-Planck-Institut für Kohlenforschung)<br>
+Benjamin Brereton, PhD Student (University of Leeds)<br>
 Luke Daniels, Research Coordinator in Materials Chemistry (University of Liverpool)<br>
 Chengyu Jiang, Postdoctoral Fellow (KTH, Royal Institute of Technology)<br>
 Daniel Mayoh, Assistant Professor (University of Warwick)<br>
 James Annis, Research Fellow (University of Birmingham)<br>
-Arjit Shankar Banerjee, PhD student (University of St Andrews)<br>
-Dipranjan Chatterjee, Postdoctoral Research Assistant  (University of Oxford)<br>
+Arjit Shankar Banerjee, PhD Student (University of St Andrews)<br>
+Dipranjan Chatterjee, Postdoctoral Research Assistant (University of Oxford)<br>
 Hallam Greene, PhD Student (University of Bristol)<br>
-Jheng-Cyuan Lin, Postdoctoral researcher (Diamond Light Source)<br>
+Jheng-Cyuan Lin, Postdoctoral Researcher (Diamond Light Source)<br>
 Alex Neale, UKRU Future Leaders Fellow and Lecturer (University of Liverpool)<br>
 Lucy Costley-Wood, Postdoctoral Fellow (University College London (UCL))<br>
 Robbie Shaw, DPhil Student (University of Oxford)<br>
-Yash Rajesh  TIJARE, PhD Student (Instiut Laue Langevin)<br>
+Yash Rajesh Tijare, PhD Student (Instiut Laue Langevin)<br>
 Muhammad Sufian Sadiq, PhD Student (Queen Mary University of London)<br>
 Luke Peters, Lecturer in Photonics (Loughborough University)<br>
 David Danaci, Research Fellow (Imperial College London)<br>
 Riccardo Rossini, Postdoctoral Fellow (University of Pavia & INFN Pavia)<br>
-Harol David MartÃ­nez HernÃ¡ndez, PhD Student (Institut Laue-Langevin )<br>
+Harol David Martínez Hernández, PhD Student (Institut Laue-Langevin)<br>
 Edison Gushque, PhD Student (University of Strathclyde)<br>
 Juan Edwin James, PhD Student (Institute Laue-Langevin)<br>
-Liam Nagle-Cocco, Postdoctoral researcher  (Stanford University)<br>
+Liam Nagle-Cocco, Postdoctoral Researcher (Stanford University)<br>
 Benjamin Moss, Lecturer in Inorganic Materials Chemistry (UCL)<br>
 Philipp Niklowitz, Associate Professor (Royal Holloway, University of London)<br>
 Beth Johnston, Assistant Professor (University of Warwick)<br>
-Leonie StÃ¶dter, Instrument Scientist (Forschungszentrum JÃ¼lich, JCNS at MLZ)<br>
+Leonie Stödter, Instrument Scientist (Forschungszentrum Jülich, JCNS at MLZ)<br>
 Thomas Ashton, Associate Professor (UCL)<br>
-Alexander  O'Malley, Senior Lecturer (University of Bath )<br>
+Alexander O'Malley, Senior Lecturer (University of Bath)<br>
 Elliott Perryman, PhD (Institute Laue-Langevin)<br>
 Rick (P.W.) Mengyan, Professor of Physics (Northern Michigan University)<br>
-Aleksandra Gorecka, PGR student (Cardiff University)<br>
-Georgia  Fields, PhD student  (University of Oxford )<br>
+Aleksandra Gorecka, PGR Student (Cardiff University)<br>
+Georgia Fields, PhD Student (University of Oxford)<br>
 Rebecca Rae, Research Specialist in Materials Chemistry (University of Edinburgh)<br>
 Diogo A Fernandes De Almeida, Research Fellow (University of St Andrews)<br>
 Peter Nguyen Minh, PhD Student (Queen Mary University of London & ISIS)<br>
 Cara Waters, Postdoctoral Research Associate (Queen Mary University of London)<br>
 Gregory Rees, Research Fellow (University of Oxford)<br>
 Dita Puspita Sari, Associate Professor (Shibaura Institute of Technology)<br>
-Marta PeÃ±a FernÃ¡ndez, Assistant Professor (Heriot-Watt University)<br>
+Marta Peña Fernández, Assistant Professor (Heriot-Watt University)<br>
 Jade Doody, PhD Student (University of Birmingham)<br>
-Thomas  Harvey, PhD Student (University of Manchester)<br>
-Kathryn Edmondson, PhD Student (University of Manchester )<br>
+Thomas Harvey, PhD Student (University of Manchester)<br>
+Kathryn Edmondson, PhD Student (University of Manchester)<br>
 Jack Harrison, Postdoctoral Researcher (Diamond Light Source)<br>
-Ida Janiak, PhD student (The University of Manchester )<br>
-Emily Walls, PhD student (University of Manchester)<br>
-Phoebe Meadows, PhD student (Royal Holloway, University of London)<br>
+Ida Janiak, PhD Student (The University of Manchester)<br>
+Emily Walls, PhD Student (University of Manchester)<br>
+Phoebe Meadows, PhD Student (Royal Holloway, University of London)<br>
 Thomas Williams, ALMA Support Scientist (JBCA, University of Manchester)<br>
+Louis Jakobson, PhD Student (University of Bristol)<br>
+Jon Newnham, Research Associate (University of Aberdeen)<br>
+Abhishek Paul, PhD Student (Loughborough University)<br>
 Louis Jakobson, PhD student (University of Bristol)<br>
 Jon Newnham, Research Associate  (University of Aberdeen)<br>
 Abhishek Paul, PhD Student (Loughborough University)<br>
