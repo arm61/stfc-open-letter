@@ -192,3 +192,23 @@ Nick Parak, DPhil Student (University of Oxford)<br>
 Cameron Wilson, Research Fellow (University of Warwick)<br>
 Finn Sombrutzki, PhD Student (Institut Max von Laue - Paul Langevin (ILL))<br>
 Brendan Healy, Postdoctoral Researcher (University of Warwick)<br>
+Geetha Balakrishnan, Professor (University of Warwick)<br>
+Joshua Bishop, PhD Student (University of Manchester)<br>
+Michael Quin, Postdoc (Gothenburg University)<br>
+Matthew Pearce, Postdoctoral Researcher (Durham University)<br>
+Pritha Paul, Postdoctoral Researcher (Ludwig Maximilian University of Munich)<br>
+Dylan Tawse, Postdoctoral Research Fellow (University of Aberdeen)<br>
+Anup Yadav, PhD Student (University of Warwick)<br>
+Hank Wu, Postdoctoral Researcher (University of Oxford)<br>
+Ashok Menon, Assistant Professor (Research-Focussed) (WMG)<br>
+Alvaro Etcheverry-Berrios, Senior Lecturer in Inorganic Chemistry (Manchester Metropolitan University)<br>
+Georgia Orton, Leverhulme Trust Early Career Fellow (University of Birmingham)<br>
+Oto-Obong Inyang, Assistant Professor (Durham University)<br>
+Marta Falkowska, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
+Asmita Rohit, PhD Student (Institut Laue Langevin)<br>
+Martin Lindberg, Postdoctoral Research Associate (Queen Mary University of London)<br>
+Mustafa Tokac, Associate Professor (Alanya Alaaddin Keykubat University, Turkiye)<br>
+M. Asuncion Molina, Postdoctoral Research Assistant (Diamond Light Source)<br>
+Jennifer Gilbert, Postdoctoral Researcher (Chalmers University of Technology)<br>
+Xiaoyan Lu, Undergraduate Student (University College Dublin)<br>
+Lezhi Zhan, Dphil Student (University of Oxford)<br>
