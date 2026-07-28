@@ -965,7 +965,7 @@ Patrick  Robertson, Assistant Professor of Physical Chemistry (University of Not
 Ikuto Kawasaki, Principal Researcher (Japan Atomic Energy Agency)<br>
 Allan Johnson, Research Professor (IMDEA Nanoscience)<br>
 Asmus Ougaard Dohn, Researcher (Technical University of Denmark, Department of Physics)<br>
-Arnab Sarkar, Post doctoral researcher (IMDEA Nanociencia)<br>
+Arnab Sarkar, Postdoctoral researcher (IMDEA Nanociencia)<br>
 Colin Church, CEO (Institute of Materials, Minerals & Mining)<br>
 Leonie Stödter, Instrument Scientist (Forschungszentrum Jülich, JCNS at MLZ, Germany)<br>
 Alan Bowman, Research Fellow (University of Oxford)<br>
@@ -976,3 +976,15 @@ Evangelos Andreou, Research Fellow (University of St Andrews)<br>
 Amber L.  Thompson, Chemical Crystallography Manager (University of Oxford)<br>
 Florian Courteville, PhD (KTH Royal Institute of Technology)<br>
 Chengyu Jiang, Postdoctoral Research Fellow  (KTH, Royal Institute of Technology Stockholm)<br>
+Benjamin  Brereton, PhD Student  (University of Leeds)<br>
+Luke Daniels, Research Coordinator in Materials Chemistry (University of Liverpool)<br>
+Andreas Suter, Senior Scientist (Paul Scherrer Institut)<br>
+Laurenz Rettig, Professor (RPTU University Kaiserslautern-Landau)<br>
+Josefine Eilsø Nielsen, Associate Professor  (University of Oslo)<br>
+Natalie Pridmore, Senior Experimental Officer (Crystallography) (Durham University)<br>
+Sarah Horswell  (University of Birmingham)<br>
+Greg Mutch, Senior Lecturer & Head of Research (Chemical Engineering) (Newcastle University )<br>
+Andrew Wildes, Scientist (Institut Laue-Langevin)<br>
+Wutharath Chin, Scientist (Université Paris-Saclay)<br>
+Gayathri Manoj, PhD student (University of Leeds)<br>
+Paz Vaqueiro, Professor (University of Reading)<br>
