@@ -144,6 +144,51 @@ Thomas Williams, ALMA Support Scientist (JBCA, University of Manchester)<br>
 Louis Jakobson, PhD Student (University of Bristol)<br>
 Jon Newnham, Research Associate (University of Aberdeen)<br>
 Abhishek Paul, PhD Student (Loughborough University)<br>
-Louis Jakobson, PhD student (University of Bristol)<br>
-Jon Newnham, Research Associate  (University of Aberdeen)<br>
-Abhishek Paul, PhD Student (Loughborough University)<br>
+Jaimee Greenwood, PhD Student (University of Manchester, JBCA)<br>
+Jamie Incley, PhD Student (University of Manchester)<br>
+Thomas Karagiannis, PhD Candidate (University College Dublin)<br>
+Richard Gammons, Green Chemistry Technical Manager & X-Ray Crystallographer (University of York)<br>
+Lily Correa Magnus, PhD (University of Manchester)<br>
+Ewan Allan, Research Associate (Heriot-Watt University)<br>
+Sarah McKinney, Pdra (Imperial College London)<br>
+Peter Willendrup, Senior Research Engineer (DTU Physics & ESS DMSC)<br>
+José Luis Del Río Rodríguez, PhD Student (Instituto de Tecnología Química (CSIC-UPV))<br>
+Aliki Gerakianaki, PhD Researcher (Institut Laue Langevin)<br>
+Harry Lloyd, PhD Student (University of Birmingham)<br>
+Sohini Dutta, PhD Student (The University of Manchester)<br>
+Isabel Antony, PhD Researcher (UCL)<br>
+Nathan Coles, Research Associate (Cardiff University)<br>
+Anand Tiwari, PhD Student (ILL France and RUC Denmark)<br>
+Fanny Costa,  (University of Leeds)<br>
+Wesley Surta, Research Faculty (Oregon State University)<br>
+Eliza Dempsey, Postdoctoral Fellow (Trinity College Dublin)<br>
+James Steele, Pdra (University of Oxford)<br>
+Victor Volkov, Research Scientist (Nottingham Trent University)<br>
+Jenny Spiga, Lecturer (Loughborough University)<br>
+Ashlin Jacob, PhD Student (Loughborough University)<br>
+Jaise Johnson, PhD Researcher (University of Manchester)<br>
+Nicolai Amin, PhD (Institut Laue-Langevin (ILL))<br>
+Abi Ghaderian, Postdoc (UCL)<br>
+Chandraleka Viswanaath Shanthamani, PhD Student (University college Dublin)<br>
+Amba Datt Pant, Researcher (KEK/J-PARC, Japan)<br>
+Zhouyu Zhang, PhD Student (The University of Manchester)<br>
+Izumi Umegaki, Assistant Professor (KEK)<br>
+Paul Topham, Professor and Director of the Aston Institute for Membrane Excellence (Aston University)<br>
+Ryutaro Okuma, Assistant Professor (University of Tokyo)<br>
+Matej Pregelj, Senior Researcher (Jožef Stefan Institute, Ljubljana, Slovenia)<br>
+Anjali Kumari, PhD Student (Instiut Laue Langevin)<br>
+Amy Pon, Research Intern (Paul Scherrer Institute)<br>
+Kevin Jaksetič, PhD Student (Jožef Stefan Institute)<br>
+Haoxin Peng, PHD Student (university of Warwick)<br>
+Isabel Megatli-Niebel, PhD Student (Paul Scherrer Institute)<br>
+Kirstin Wilson, PhD Student (Institut Laue Langevin)<br>
+Lee Durndell, Associate Professor (University of plymouth)<br>
+Pascual Oña-Burgos, Permanent Reseracher (ITQ)<br>
+Nicola Collis, PhD Student (UCL)<br>
+Bruno Kenichi Saika, Post-Doctoral Researcher (University of St Andrews)<br>
+Matthew Rogers, Experimental Officer (University of Leeds)<br>
+Edward Stuckey, Postdoctoral Researcher (Uppsala University)<br>
+Nick Parak, DPhil Student (University of Oxford)<br>
+Cameron Wilson, Research Fellow (University of Warwick)<br>
+Finn Sombrutzki, PhD Student (Institut Max von Laue - Paul Langevin (ILL))<br>
+Brendan Healy, Postdoctoral Researcher (University of Warwick)<br>
