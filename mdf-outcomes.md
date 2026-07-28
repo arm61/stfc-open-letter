@@ -988,3 +988,5 @@ Andrew Wildes, Scientist (Institut Laue-Langevin)<br>
 Wutharath Chin, Scientist (Université Paris-Saclay)<br>
 Gayathri Manoj, PhD student (University of Leeds)<br>
 Paz Vaqueiro, Professor (University of Reading)<br>
+Adam Boyce, Assistant Professor (University College Dublin)<br>
+Aurelio  Hierro-Rodriguez, Senior Lecturer (University of Oviedo)<br>
