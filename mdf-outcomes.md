@@ -1017,3 +1017,9 @@ Alexander Corkett, Postdoctoral researcher (Forschungszentrum Juelich)<br>
 Kristina Djinovic Carugo, Head of EMBL Grenoble (European Molecular Biology Laboratory (EMBL) and University of Vienna)<br>
 Cheuk Wai Tai, Senior Staff Scientist (Stockholm University, Sweden)<br>
 Finn Giuliani, Professor of Ceramics (Imperial College London)<br>
+Mattia Gaboardi, Assistant Professor (University of Rome Tor Vergata (Italy))<br>
+Fabrice Bert, Professor (Universite Paris-Saclay, France)<br>
+Tatiana Guidi, Professor (Università degli Studi di Camerino)<br>
+Andrew Higginbotham, Senior Lecturer (University of York)<br>
+Joshua Lai, PhD Student in Chemistry (University of York)<br>
+Ghassan Elagib, PhD student  (University of Strathclyde )<br>
