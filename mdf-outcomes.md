@@ -1022,4 +1022,6 @@ Fabrice Bert, Professor (Universite Paris-Saclay, France)<br>
 Tatiana Guidi, Professor (Università degli Studi di Camerino)<br>
 Andrew Higginbotham, Senior Lecturer (University of York)<br>
 Joshua Lai, PhD Student in Chemistry (University of York)<br>
-Ghassan Elagib, PhD student  (University of Strathclyde )<br>
+Ghassan Elagib, PhD student  (University of Strathclyde)<br>
+James Pidgeon, PDRA (University of Sheffield)<br>
+Felix Allum, Humboldt Research Fellow (Deutches-Elektronen Synchrotron)<br>
