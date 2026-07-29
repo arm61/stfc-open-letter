@@ -1011,7 +1011,7 @@ Ross Stevenson, PhD Student  (University of Strathclyde)<br>
 Tine Kalac, PhD Student (Stockholm University)<br>
 Fathima Nida PSR, PhD (Stockholm University)<br>
 Nicolas Gauthier, Research associate (Institut National de la Recherche Scientifique, Canada)<br>
-Robert Hill, FRCS FSA ()<br>
+Robert Hill, FRCS FSA<br>
 Jarvist Moore Frost, Associate Professor of Chemistry (Imperial College London)<br>
 Alexander Corkett, Postdoctoral researcher (Forschungszentrum Juelich)<br>
 Kristina Djinovic Carugo, Head of EMBL Grenoble (European Molecular Biology Laboratory (EMBL) and University of Vienna)<br>
