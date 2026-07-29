@@ -990,3 +990,30 @@ Gayathri Manoj, PhD student (University of Leeds)<br>
 Paz Vaqueiro, Professor (University of Reading)<br>
 Adam Boyce, Assistant Professor (University College Dublin)<br>
 Aurelio  Hierro-Rodriguez, Senior Lecturer (University of Oviedo)<br>
+Michael Baker, Senior Lecturer (The University of Manchester)<br>
+Miguel Angel Gonzalez, Scientist (Institut Laue-Langevin)<br>
+Matthew Langton, Professor of Chemistry (University of Oxford)<br>
+Michael Higham, Postdoctoral Researcher (Cardiff University)<br>
+Sumit Konar, Senior Instrument Scientist (University of Lincoln)<br>
+Omar Mansour, Senior Lecturer (DeMontfort University)<br>
+Lukas Machuca-Beier, MSc (Copenhagen University)<br>
+Abbie Madden, PhD student (University of Strathclyde)<br>
+Benjamin Vella, Research Associate (University of Strathclyde)<br>
+Runhui Fan, PhD student (University of Strathclyde)<br>
+Bartosz Tomaszewski, PhD Student (University of Strathclyde)<br>
+Richard York, NMR Technician (University of Strathclyde)<br>
+Roma Fraser, PhD student  (University of Strathclyde)<br>
+Katie Coubrough, PhD Student  (University of Strathclyde )<br>
+Amy McGaff, PhD student  (Strathclyde Institute of Pharmacy and Biomedical Sciences)<br>
+Maciej Dendzik, Researcher (KTH)<br>
+Jenny Moore, Head of Global Analytical Chemistry (Syngenta)<br>
+Ross Stevenson, PhD Student  (University of Strathclyde)<br>
+Tine Kalac, PhD Student (Stockholm University)<br>
+Fathima Nida PSR, PhD (Stockholm University)<br>
+Nicolas Gauthier, Research associate (Institut National de la Recherche Scientifique, Canada)<br>
+Robert Hill, FRCS FSA ()<br>
+Jarvist Moore Frost, Associate Professor of Chemistry (Imperial College London)<br>
+Alexander Corkett, Postdoctoral researcher (Forschungszentrum Juelich)<br>
+Kristina Djinovic Carugo, Head of EMBL Grenoble (European Molecular Biology Laboratory (EMBL) and University of Vienna)<br>
+Cheuk Wai Tai, Senior Staff Scientist (Stockholm University, Sweden)<br>
+Finn Giuliani, Professor of Ceramics (Imperial College London)<br>
