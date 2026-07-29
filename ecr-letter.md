@@ -222,3 +222,14 @@ Xiao Zhao, Postdoc (Paul Scherrer Institute)<br>
 Angus Hodgkiss, PhD Student (Durham University)<br>
 Marios Hadjimichael, Associate Professor in Physics (University of Warwick)<br>
 Zeke Coady, PhD Student (Cambridge)<br>
+Josh Selfridge, PhD Student (University of Manchester)<br>
+Trevor Clarke, Journalist (BBC)<br>
+Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
+Gaurav Chaudhary, Lecturer (University of Bristol)<br>
+Monirk Tromp, Prof Msterials Chemistru  Firector Zernike Institite for Adcanced Materials (Uni Groningen, The Netherlands)<br>
+Kaushick Parui, PhD Researcher (TU Dresden)<br>
+Alex Rettie, Associate Professor (UCL)<br>
+Ying Wang, Ms. (Fudan University)<br>
+Bailin Chen, Graduate Student (Fudan University)<br>
+Malcolm Scarrott, Master's Student (University of Cape Town/South African Astronomical Observatory)<br>
+Enzo Liotti, Lecturer (University of Oxford)<br>
