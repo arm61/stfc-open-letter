@@ -1025,3 +1025,27 @@ Joshua Lai, PhD Student in Chemistry (University of York)<br>
 Ghassan Elagib, PhD student  (University of Strathclyde)<br>
 James Pidgeon, PDRA (University of Sheffield)<br>
 Felix Allum, Humboldt Research Fellow (Deutches-Elektronen Synchrotron)<br>
+Bogdan Dereka, Assistant Professor (Department of Chemistry, University of Zurich)<br>
+Steven Van Petegem, Senior Scientist (Paul Scherrer Institute)<br>
+Marc Janoschek, Professor of Experimental Physics & Head of the PSI Center for Neutron and Muon Sciences (University of Zurich & Paul Scherrer Institute)<br>
+Andrey Shibaev, Postdoctoral researcher (Basque Centre for Materials, Applications and Nanostructures)<br>
+Geza Zsigmond, Senior Staff Scientist (Paul Scherrer Institut)<br>
+Andrea Scotti, Senior Lecturer  (Lund University )<br>
+Jürg Schefer, Former Group Leader Neutron Diffraction (Paul Scherrer Institut )<br>
+Andreas Borgschulte, Materials Scientist (Empa Switzerland)<br>
+Massimo Rogante, Director (Rogante Engineering Office)<br>
+Urs Staub, Group leader Magnetism and Microscopy (Paul Scherrer Institute)<br>
+Nicola Spaldin, Professor (ETH Zürich)<br>
+Alexander Belushkin, Department Head (Frank Laboratory of Neutron Physics, JINR)<br>
+Zumair Muhammed, PhD student (Paul Scherrer Institut)<br>
+Enrico Giannini, Senior Lecturer (University of Geneva)<br>
+Ashley Williams, Instrument Scientist (Paul Scherrer Institut)<br>
+Thomas Gutberlet, Senior Scientist (Forschungszentrum Jülich GmbH)<br>
+Bertrand Blau, Head of Spallation Neutron Source Operations Group (Paul Scherrer Institute, Switzerland)<br>
+Stefan Janssen, PSI User Office (Paul Scherrer Institute)<br>
+Vincent Morano, Postdoctoral Fellow (Paul Scherrer Institute)<br>
+Werner Paulus, Professor (University of Montpellier, Institut Charles Gerhardt Montpellier)<br>
+Peter Schurtenberger, Prof. em. (Lund University )<br>
+Urs Gasser, Senior Scientist (Paul Scherrer Institut)<br>
+Luigi Talarico, Postdoctoral researcher (University of Siena)<br>
+Matteo Busi, Sales and Business Development Manager (XRnanotech)<br>
