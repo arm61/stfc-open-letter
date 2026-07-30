@@ -233,3 +233,16 @@ Ying Wang, Ms. (Fudan University)<br>
 Bailin Chen, Graduate Student (Fudan University)<br>
 Malcolm Scarrott, Master's Student (University of Cape Town/South African Astronomical Observatory)<br>
 Enzo Liotti, Lecturer (University of Oxford)<br>
+Inés Lezcano González, Dame Kathleen Ollerenshaw Fellow and Harwell Fellow (The University of Manchester)<br>
+Abdullah Al Abdulghani, Lecturer (University College Dublin)<br>
+Freya Johnson, Schmidt Sciences Fellow (Imperial College London)<br>
+Bratislav Lukic, Scientist (ILL)<br>
+Jennifer Johnstone-Hack, Royal Academy of Engineering Research Fellow (University of Sheffield)<br>
+Daniel Flavian, Postdoctoral Researcher (University of Oxford)<br>
+Adam Morris, PhD (UCL)<br>
+Anshu Kataria, Postdoctoral Fellow (University of Parma, Italy)<br>
+Yiu Fung Chiu, DPhil Studeng (University of Oxford)<br>
+Soumyarup Hait, Post-Doctoral Research Associate (University of Leeds)<br>
+Sandip Guchhait, Postdoc (Denmark Technical University)<br>
+Seán Kavanagh, Assistant Professor in Simulation of Energy Materials (University of Cambridge)<br>
+Yuk Shan Cheng, Postdoctoral Research Associate (Heriot-Watt University)<br>
