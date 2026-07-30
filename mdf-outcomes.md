@@ -1051,9 +1051,11 @@ Luigi Talarico, Postdoctoral researcher (University of Siena)<br>
 Matteo Busi, Sales and Business Development Manager (XRnanotech)<br>
 Jan Saroun, Senior scientist (Nuclear Physics Institute CAS)<br>
 Pavel Strunz, Head of Department of Neutron and Ion Methods (Nuclear Physics Institute, Czech Academy of Sciences, Czech Republic)<br>
-Jakob Heier, Research group leader (Swiss Federal Laboratories for Materials Science and TEchnology (Empa))<br>
+Jakob Heier, Research Group Leader (Swiss Federal Laboratories for Materials Science and Technology (Empa))<br>
 Stefan Klotz, Director of Research CNRS (Sorbonne University, Paris)<br>
 Christine Klauser, Scientist (Paul Scherrer Institute, Switzerland)<br>
 Luis Torquato, Postdoctoral Fellow (Paul Scherrer Institute)<br>
 Ekaterina Pomjakushina, group leader (Paul Scherrer Institute)<br>
 Paddy Cullen, Senior Lecturer (Queen Mary University of London)<br>
+Oksana Zaharko, Senior Scientist (Paul Scherrer Institut, Laboratory for Neutron Scattering and Imaging)<br>
+Livia Eleonora Bove, Research Director (CNRS)<br>
