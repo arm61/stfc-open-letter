@@ -1059,3 +1059,9 @@ Ekaterina Pomjakushina, group leader (Paul Scherrer Institute)<br>
 Paddy Cullen, Senior Lecturer (Queen Mary University of London)<br>
 Oksana Zaharko, Senior Scientist (Paul Scherrer Institut, Laboratory for Neutron Scattering and Imaging)<br>
 Livia Eleonora Bove, Research Director (CNRS)<br>
+Marek Bartkowiak, Head of Laboratory a.i. Neutron and Muon Instrumentation (Paul Scherrer Institute)<br>
+Ida Nielsen, Postdoctoral researcher (Paul Scherrer Institute)<br>
+Jiazhou Shen, Scientist (Institut Laue-Langevin)<br>
+Elena  Garlatti, Associate Professor (University of Parma)<br>
+Yuri Gerelli, Researcher (Italian National Research Council)<br>
+Paolo Santini, Professor (University of Parma)<br>
