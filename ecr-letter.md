@@ -246,3 +246,24 @@ Soumyarup Hait, Post-Doctoral Research Associate (University of Leeds)<br>
 Sandip Guchhait, Postdoc (Denmark Technical University)<br>
 Seán Kavanagh, Assistant Professor in Simulation of Energy Materials (University of Cambridge)<br>
 Yuk Shan Cheng, Postdoctoral Research Associate (Heriot-Watt University)<br>
+Shruti Chakravarty, Research Fellow (University of Birmingham)<br>
+Jacob Lewis Brownlee, PhD Student (University of Birmingham / ISIS Neutron and Muon Source)<br>
+Amie Troath, PhD Researcher (University of Birmingham)<br>
+Yoshiko Nanao, Post-Doc Researcher (University of St Andrews)<br>
+Jamie Allen, Pdra (University of Sheffield)<br>
+Rinku Kushwaha, Pdra (Department of Materials Science and Metallurgy, University of Cambridge)<br>
+Luis Leon, Postdoctoral Researcher (University of Cambridge)<br>
+Barbara Ciani, Senior Lecturer in Biophysical Chemistry (University of Sheffield)<br>
+Celine Beck, PhD Student (Uni Glasgow)<br>
+Patricija Mendelyte, PhD Student (University of Edinburgh)<br>
+Max Pelly, Research Fellow (University of St Andrews)<br>
+Libby Marshall, Pdra (University of Glasgow)<br>
+Alexander Park, PhD Student (University of Strathclyde)<br>
+Abbie Madden, PhD Student (University of Strathclyde)<br>
+Luc Costello Heaven, Postdoctoral Training Fellow (Institute of Cancer Research)<br>
+Arlidh Baird, PhD Student (University of Strathclyde)<br>
+Magdalene Chong, Postdoctoral Researcher (University of Strathclyde)<br>
+Malin Zollner, PhD Student (University of Strathclyde)<br>
+Leah Haworth, PhD Student (University of Strathclyde)<br>
+Jacob Bracegirdle-Morais, PhD Student (University of Birmingham)<br>
+Anthony North, Professor (Retired) (University of Leeds)<br>
