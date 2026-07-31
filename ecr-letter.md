@@ -226,7 +226,7 @@ Josh Selfridge, PhD Student (University of Manchester)<br>
 Trevor Clarke, Journalist (BBC)<br>
 Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
 Gaurav Chaudhary, Lecturer (University of Bristol)<br>
-Monirk Tromp, Prof Msterials Chemistru  Firector Zernike Institite for Adcanced Materials (Uni Groningen, The Netherlands)<br>
+Moniek Tromp, Prof Materials Chemistry Director Zernike Institite for Advanced Materials (Uni Groningen, The Netherlands)<br>
 Kaushick Parui, PhD Researcher (TU Dresden)<br>
 Alex Rettie, Associate Professor (UCL)<br>
 Ying Wang, Ms. (Fudan University)<br>
