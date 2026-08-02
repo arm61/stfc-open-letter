@@ -1065,3 +1065,22 @@ Jiazhou Shen, Scientist (Institut Laue-Langevin)<br>
 Elena  Garlatti, Associate Professor (University of Parma)<br>
 Yuri Gerelli, Researcher (Italian National Research Council)<br>
 Paolo Santini, Professor (University of Parma)<br>
+Christian  Schanzer, COO (SwissNeutronics AG)<br>
+Judith  Houston, lecturer/instrument scientist (Lund University)<br>
+Euan  Bassey , Postdoctoral Research Fellow  (Centre de RMN à Très Hauts Champs de Lyon )<br>
+Debora Berti, Professor (University of Florence, Italy)<br>
+Helen Engelhardt, PhD student (Oxford University Department of Materials)<br>
+João Campos Gil, Associate Professor (University of Coimbra, Portugal)<br>
+Chris Collins, Research Fellow (University of Liverpool)<br>
+Antony Vamvakeros, Royal Society Industry Fellow & Research and Development Lead Scientist (Imperial College London & Finden Ltd)<br>
+Naomi Pollock, Lecturer in Biosciences (Aston University)<br>
+Dominic Savage,  Postdoctoral Research Fellow (University of Birmingham)<br>
+Christopher Parlett, Senior Lecturer (University of Manchester)<br>
+Stefan Salentinig, Professor (University of Fribourg)<br>
+Keith Refson, Retired professor  ((formerly of) Royal Holloway University of London)<br>
+Shan Dai, PDRA (The University of Manchester)<br>
+Manuel Moliner, Professor (Instituto de Tecnologia Quimica (CSIC-UPV))<br>
+Mercedes Boronat, Scientific Researcher (Consejo Superior Investigaciones Científicas CSIC)<br>
+Dáire Hannon, PhD Candidate  (University College Cork)<br>
+Tran Trung Luu, Associate Professor (The University of Hong Kong)<br>
+Peter Böni, Professor Emeritus (Technical University of Munich)<br>
