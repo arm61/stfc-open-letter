@@ -1084,3 +1084,7 @@ Mercedes Boronat, Scientific Researcher (Consejo Superior Investigaciones Cient�
 Dáire Hannon, PhD Candidate  (University College Cork)<br>
 Tran Trung Luu, Associate Professor (The University of Hong Kong)<br>
 Peter Böni, Professor Emeritus (Technical University of Munich)<br>
+Jonathan White, Group Leader (Paul Scherrer Institute, Switzerland)<br>
+George Healing, Research Fellow (University of Southampton)<br>
+Brigitte Decrausaz, PhD Student (Paul Scherrer Institut)<br>
+Nigel Watson, Professor of Particle Physics (University of Birmingham)<br>
