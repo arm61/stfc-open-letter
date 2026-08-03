@@ -226,7 +226,7 @@ Josh Selfridge, PhD Student (University of Manchester)<br>
 Trevor Clarke, Journalist (BBC)<br>
 Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
 Gaurav Chaudhary, Lecturer (University of Bristol)<br>
-Moniek Tromp, Prof Materials Chemistry Director Zernike Institite for Advanced Materials (Uni Groningen, The Netherlands)<br>
+Monirk Tromp, Prof Msterials Chemistru  Firector Zernike Institite for Adcanced Materials (Uni Groningen, The Netherlands)<br>
 Kaushick Parui, PhD Researcher (TU Dresden)<br>
 Alex Rettie, Associate Professor (UCL)<br>
 Ying Wang, Ms. (Fudan University)<br>
@@ -267,3 +267,37 @@ Malin Zollner, PhD Student (University of Strathclyde)<br>
 Leah Haworth, PhD Student (University of Strathclyde)<br>
 Jacob Bracegirdle-Morais, PhD Student (University of Birmingham)<br>
 Anthony North, Professor (Retired) (University of Leeds)<br>
+Sacha Fop, Lecturer (University of Aberdeen)<br>
+Phoebe Cutts, PhD Student (University of Birmingham)<br>
+Lorenzo Stievano, Professor (Université de Montpellier (France) & Politecnico di Torino (Italy))<br>
+Nataliia Hulai, Research Associate (University of Liverpool)<br>
+Guowei Li, Professor (Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences)<br>
+Yiyang Li, Senior Postdoctoral Research Associate (University of Oxford)<br>
+Michael Higham, Postdoctoral Researcher (Cardiff University)<br>
+Ahmad Malik, Research Associate (University of Liverpool)<br>
+Euan Pattinson, PhD Student (University of Birmingham)<br>
+Naveen Naguleswaran, PhD Student (University of Birmingham)<br>
+Daniel Warrilow-Brennan, Pdra (University of Manchester)<br>
+Tahlia Palmer, PhD Student (University of Birmingham)<br>
+Jacob Williams, PhD Student (University of Birmingham)<br>
+Thomas Evans, PhD. Student (University of Birmingham - School of Chemistry)<br>
+Kabeer Abdulhusein, PhD Student (University of Birmingham)<br>
+Dominic Savage, Postdoctoral Research Fellow (University of Birmingham)<br>
+Javier Castells-Gil, Leverhulme Trust Early Career Fellow (University of Birmingham)<br>
+Christopher Parlett, Senior Lecturer (University of Manchester)<br>
+Wilgner Lima Da Silva, Research Fellow (University of Birmingham)<br>
+Dylan Anderson, PhD Student (University of Strathclyde)<br>
+Simon Schmid, PhD Student (University of Strathclyde)<br>
+Peter Russell, PhD Student (University of Birmingham)<br>
+Dominic Gardner, PhD Student (University of Birmingham)<br>
+Rebekah Attard-Trevisan, STEM Engagement Officer (South East Technological University)<br>
+Kartikey Dharendra, PhD Student (University of Liverpool)<br>
+Judith a K Howard CBE, FRS, Professor Emerita (Durham University)<br>
+Manuel Moliner, Professor (Instituto de Tecnologia Quimica (CSIC-UPV))<br>
+Alexandra Tangney, Professor (Imperial college)<br>
+Alexey Kiselyk, PhD Student (Durham University)<br>
+Alexandra Rozhkovskaya, Postdoctoral Research Associate (University of Birmingham)<br>
+Cameron Cox, PhD Student (University of Birmingham)<br>
+Kinjal Vaja, PhD Student (University of Liverpool)<br>
+Mollie Trueman, Postdoctoral Research Associate (University of Manchester)<br>
+Jessica Marshall, Assistant Professor (University of Warwick)<br>
