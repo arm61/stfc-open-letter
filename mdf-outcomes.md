@@ -1090,5 +1090,12 @@ Brigitte Decrausaz, PhD Student (Paul Scherrer Institut)<br>
 Nigel Watson, Professor of Particle Physics (University of Birmingham)<br>
 Johanna Fredriksson, PhD Student (Chalmers University of Technology)<br>
 Luis Simbari, PhD Student (University of Birmingham)<br>
-Banaz Fetah, PhD student  (University of Strathclyde)<br>
+Banaz Fetah, PhD Student (University of Strathclyde)<br>
 Christopher Arran, Lecturer (Lancaster University)<br>
+Nguyen Vo, Research Associate (University of Bath)<br>
+Klaus Kirch, Professor, ETH Zurich and Head of PSI Laboratory for Particle Physics (ETH Zurich & PSI)<br>
+Simon Cassidy, Facility Manager (University of Oxford)<br>
+Pawala Ariyathilaka, Staff Scientist  (RAL)<br>
+Christian Bernhard, Professor (University of Fribourg)<br>
+Shaun West, Professor of Innovation (HSLU Switzerland)<br>
+Anna Soter, Assistant Professor (ETH Zurich)<br>
