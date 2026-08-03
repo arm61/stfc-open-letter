@@ -1088,3 +1088,7 @@ Jonathan White, Group Leader (Paul Scherrer Institute, Switzerland)<br>
 George Healing, Research Fellow (University of Southampton)<br>
 Brigitte Decrausaz, PhD Student (Paul Scherrer Institut)<br>
 Nigel Watson, Professor of Particle Physics (University of Birmingham)<br>
+Johanna Fredriksson, PhD Student (Chalmers University of Technology)<br>
+Luis Simbari, PhD Student (University of Birmingham)<br>
+Banaz Fetah, PhD student  (University of Strathclyde)<br>
+Christopher Arran, Lecturer (Lancaster University)<br>
