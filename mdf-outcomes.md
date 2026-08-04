@@ -1107,3 +1107,7 @@ Christian Hohmann, Program Director of Smart-up, Sen. Lecturer and Scientist for
 Ivan Voiteshenko, Associate Professor (Educational and Scientific Institute of High Technologies )<br>
 Giovanni Pizzi, Group Leader, PSI Center for Scientific Computing, Theory and Data (Paul Scherrer Institute, Switzerland)<br>
 Stefan Ritt, Head, Muon Physics Group (Paul Scherrer Institute)<br>
+Edward Garland, PhD student (University College London)<br>
+Søren Ulstrup, Associate Professor (Aarhus University)<br>
+Douglas Fabini (Paul Scherrer Institute)<br>
+Clemens Lange, Senior Scientist (Paul Scherrer Institute PSI)<br>
