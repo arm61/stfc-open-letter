@@ -1099,3 +1099,11 @@ Pawala Ariyathilaka, Staff Scientist  (RAL)<br>
 Christian Bernhard, Professor (University of Fribourg)<br>
 Shaun West, Professor of Innovation (HSLU Switzerland)<br>
 Anna Soter, Assistant Professor (ETH Zurich)<br>
+Rugard Dressler, Senior Scientist (Paul Scherrer Institute)<br>
+Jörg Neuhausen, Scientist (Paul Scherrer Institut)<br>
+Artur Glavic, Staff Scientist (Paul Scherrer Institut)<br>
+Petra Müller-Csernetzky, Professor for Innovation Management (Hochschule Luzern)<br>
+Christian Hohmann, Program Director of Smart-up, Sen. Lecturer and Scientist for Innovation & Entrepreneurship (Lucerne University of Applied Sciences and Arts (HSLU))<br>
+Ivan Voiteshenko, Associate Professor (Educational and Scientific Institute of High Technologies )<br>
+Giovanni Pizzi, Group Leader, PSI Center for Scientific Computing, Theory and Data (Paul Scherrer Institute, Switzerland)<br>
+Stefan Ritt, Head, Muon Physics Group (Paul Scherrer Institute)<br>
