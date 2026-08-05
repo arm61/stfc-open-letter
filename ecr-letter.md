@@ -301,3 +301,37 @@ Cameron Cox, PhD Student (University of Birmingham)<br>
 Kinjal Vaja, PhD Student (University of Liverpool)<br>
 Mollie Trueman, Postdoctoral Research Associate (University of Manchester)<br>
 Jessica Marshall, Assistant Professor (University of Warwick)<br>
+Asbjørn B. Preuss, PhD Student (Technical University of Denmark)<br>
+Joel Cornelio, Research Fellow (University of Birmingham)<br>
+Sophia Vietti, PhD Student (University of Strathclyde)<br>
+Rob Carroll, Postdoctoral Research Associate (Imperial College London)<br>
+Lucie Hlubinková, PhD Student (University of Birmingham)<br>
+Vadim Rusakov, Postdoctoral Researcher (University of Manchester)<br>
+Connor Wilson, PhD Student (University of Strathclyde)<br>
+Linda Bechnak, Research Associate (University of Birmingham)<br>
+Charlie Brayson, Postgraduate Researcher (University of Birmingham)<br>
+Thanmaya Arunkumar, EngD Student (University of Birmingham)<br>
+Reshma Rao, Lecturer (Imperial College London)<br>
+Yifeng Wang, PhD Student (Imperial College London)<br>
+Sid Halder, PhD Researcher (3rd Year) (Imperial College London)<br>
+Inderjeet Chauhan, Research Associate (Imperial College London)<br>
+Jasmin Clark, EngD Student (University of Birmingham)<br>
+Jibran Khaliq, Associate Professor (University of Northumbria at Newcastle)<br>
+Zhilun Lu, Assistant Professor of Electronic and Energy Materials (University of Leeds)<br>
+Fiona Smillie, PhD Student (University of Strathclyde)<br>
+Zihe Li, Research Associate (University of Bath)<br>
+Jun Han Ng, PhD (Imperial College London)<br>
+Madeleine Robertson, PhD Student (University of Birmingham)<br>
+Mengfan Guo, Royal Society University Research Fellow (University of Cambridge)<br>
+Florian Koller, MSCA Postdoctoral Research Fellow (Queen Mary University of London)<br>
+Hubertus Luetkens, Group Leader Bulk muSR (Paul Scherrer Institute, Switzerland)<br>
+Miki Bonacci, Postdoctoral Researcher (CNR NANO (Modena, Italy))<br>
+Felix Baylis, PhD Student (University of Birmingham)<br>
+Igor Marković, Assistant Professor (University of Birmingham)<br>
+Jem Pitcairn, Postdoctoral Researcher (University of Warwick)<br>
+James Roscow, Senior Lecturer (University of Bath)<br>
+Claire Munro, PhD (University of Birmingham)<br>
+John Cooper, PhD Researcher (University of Birmingham)<br>
+Camilla Di Mino, Glasstone Research Fellow in Chemistry (University of Oxford)<br>
+Victoria Karner, Senior Research Assistant (University of British Columbia)<br>
+Sang Gu Ji, Postdoctoral Researcher (Imperial College London)<br>
