@@ -1117,3 +1117,8 @@ Angela Papa, Professor (PSI and University of Pisa & INFN)<br>
 Luise Theil Kuhn, Professor (DTU Energy, Technical University of Denmark)<br>
 Mogens Christensen, Professor (Aalborg University)<br>
 Peter Stoffer, SNSF Professor (University of Zurich and Paul Scherrer Institute, Switzerland)<br>
+Kim Lefmann, Professor (University of Copenhagen)<br>
+Pablo del Pozo Lorenzale, PhD researcher (University of Birmingham)<br>
+Michael Schaaf, Engineer (Paul Scherrer Institute)<br>
+Crishian David Hinostroza Vargas Machuca, PhD candidate (University of Stavanger)<br>
+
