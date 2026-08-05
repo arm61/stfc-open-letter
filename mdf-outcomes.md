@@ -1111,3 +1111,9 @@ Edward Garland, PhD student (University College London)<br>
 Søren Ulstrup, Associate Professor (Aarhus University)<br>
 Douglas Fabini (Paul Scherrer Institute)<br>
 Clemens Lange, Senior Scientist (Paul Scherrer Institute PSI)<br>
+Karen Edler, Professor of Materials (Lund University)<br>
+Titus Mangham-Neupert, Full Professor (University of Zurich)<br>
+Angela Papa, Professor (PSI and University of Pisa & INFN)<br>
+Luise Theil Kuhn, Professor (DTU Energy, Technical University of Denmark)<br>
+Mogens Christensen, Professor (Aalborg University)<br>
+Peter Stoffer, SNSF Professor (University of Zurich and Paul Scherrer Institute, Switzerland)<br>
