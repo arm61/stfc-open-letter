@@ -1121,4 +1121,8 @@ Kim Lefmann, Professor (University of Copenhagen)<br>
 Pablo del Pozo Lorenzale, PhD researcher (University of Birmingham)<br>
 Michael Schaaf, Engineer (Paul Scherrer Institute)<br>
 Crishian David Hinostroza Vargas Machuca, PhD candidate (University of Stavanger)<br>
-
+Patrick Steinegger, Assistant Professor (ETH Zurich and Paul Scherrer Institute)<br>
+Shoichiro Kawase, Assistant Professor (Kyushu University)<br>
+Katsuhiko Ishida (KEK)<br>
+Daniela Plana, Senior Lecturer in Chemical and Physical Sciences (Keele University)<br>
+Robert Vittoe, Associate Professor of Physical Science (Mineral Area College)<br>
