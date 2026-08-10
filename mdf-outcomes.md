@@ -1126,3 +1126,8 @@ Shoichiro Kawase, Assistant Professor (Kyushu University)<br>
 Katsuhiko Ishida (KEK)<br>
 Daniela Plana, Senior Lecturer in Chemical and Physical Sciences (Keele University)<br>
 Robert Vittoe, Associate Professor of Physical Science (Mineral Area College)<br>
+Upul Wijayantha, Head, Hydrogen Integration Research Centre (Cranfield University)<br>
+Chris Blackman, Deputy Head of Department of Chemistry (UCL)<br>
+Alessio Liguori, PhD (TU Darmstadt)<br>
+Yoshihiko Umemoto, Postdoc (ORNL)<br>
+Andreas Knecht, Senior scientist (Paul Scherrer Institute)<br>
