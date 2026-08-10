@@ -226,7 +226,7 @@ Josh Selfridge, PhD Student (University of Manchester)<br>
 Trevor Clarke, Journalist (BBC)<br>
 Vijayakumar P Rajamanickam, Marie-Curie Seal of Excellence Holder (University of Bristol)<br>
 Gaurav Chaudhary, Lecturer (University of Bristol)<br>
-Monirk Tromp, Prof Msterials Chemistru  Firector Zernike Institite for Adcanced Materials (Uni Groningen, The Netherlands)<br>
+Moniek Tromp, Prof Materials Chemistry Director Zernike Institite for Advanced Materials (Uni Groningen, The Netherlands)<br>
 Kaushick Parui, PhD Researcher (TU Dresden)<br>
 Alex Rettie, Associate Professor (UCL)<br>
 Ying Wang, Ms. (Fudan University)<br>
@@ -335,3 +335,12 @@ John Cooper, PhD Researcher (University of Birmingham)<br>
 Camilla Di Mino, Glasstone Research Fellow in Chemistry (University of Oxford)<br>
 Victoria Karner, Senior Research Assistant (University of British Columbia)<br>
 Sang Gu Ji, Postdoctoral Researcher (Imperial College London)<br>
+Samira Said, PhD Student (University of Birmingham)<br>
+Vivian Shang, Postdoctoral Research Fellow (University of Nottingham)<br>
+Pablo Del Pozo Lorenzale, PhD Researcher (University of Birmingham)<br>
+Jeremiah Tidey, Senior Research Technician (University of Warwick)<br>
+Richard Evans, Associate Professor (University of York)<br>
+Kai Ham Yu, PhD Student (University of Birmingham / ISIS neutron and muon source)<br>
+Laura Whitfield, PhD Student (University of Liverpool)<br>
+David Williams-Baldwin, Research Fellow (University of Manchester)<br>
+Annie Andersson, PhD Candidate (University of California)<br>
