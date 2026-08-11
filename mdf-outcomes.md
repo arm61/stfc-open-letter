@@ -1131,3 +1131,8 @@ Chris Blackman, Deputy Head of Department of Chemistry (UCL)<br>
 Alessio Liguori, PhD (TU Darmstadt)<br>
 Yoshihiko Umemoto, Postdoc (ORNL)<br>
 Andreas Knecht, Senior scientist (Paul Scherrer Institute)<br>
+Graham George, Professor (University of Saskatchewan)<br>
+Philipp Schmidt-Wellenburg, Senior Scientist / Professor  (University of Basel and Paul Scherrer Institute)<br>
+Guillaume Schweicher, FNRS Research Associate (Université Libre de Bruxelles)<br>
+Liam Bird, Post-doctoral research assistant (University of Oxford)<br>
+Khashayar Ghandi, Full Professor (University of Guelph, Ontario, Canada)<br>
