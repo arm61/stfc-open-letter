@@ -1136,3 +1136,8 @@ Philipp Schmidt-Wellenburg, Senior Scientist / Professor  (University of Basel a
 Guillaume Schweicher, FNRS Research Associate (Université Libre de Bruxelles)<br>
 Liam Bird, Post-doctoral research assistant (University of Oxford)<br>
 Khashayar Ghandi, Full Professor (University of Guelph, Ontario, Canada)<br>
+Jake Hill, Research Assistant  (University of Leeds)<br>
+Harry Lane, Dame Kathleen Ollerenshaw Fellow (University of Manchester)<br>
+Sanskrita Madhukailya , Postdoctoral Researcher (Queen's University Belfast )<br>
+Susana Valencia,  Scientific Researcher (Instituto de Tecnologia Quimica (CSIC-UPV))<br>
+Joseph Umpleby-Thorp, PhD Student (University of York)<br>
