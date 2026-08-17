@@ -1141,3 +1141,4 @@ Harry Lane, Dame Kathleen Ollerenshaw Fellow (University of Manchester)<br>
 Sanskrita Madhukailya , Postdoctoral Researcher (Queen's University Belfast )<br>
 Susana Valencia,  Scientific Researcher (Instituto de Tecnologia Quimica (CSIC-UPV))<br>
 Joseph Umpleby-Thorp, PhD Student (University of York)<br>
+Pavel Trtik, Instrument Scientist (Paul Scherrer Institute)<br>
