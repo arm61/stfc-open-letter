@@ -1145,3 +1145,7 @@ Pavel Trtik, Instrument Scientist (Paul Scherrer Institute)<br>
 Tetsuya Yokoo, Professor (High Energy Accelerator Research Organization)<br>
 Philippe	Mendels, Emeritus Professor (Paris-Saclay University)<br>
 Stefan Süllow, Professor (TU Braunschweig)<br>
+Tatiana Pieloni, Scientist (EPFL)<br>
+Richard Campbell, Senior Lecturer (University of Manchester)<br>
+Erik B Karlsson, Prof.em. (Uppsala University (Sweden))<br>
+Anaïs Pitto-Barry, CNRS Researcher (chargée de recherche) (CNRS (France))<br>
