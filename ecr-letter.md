@@ -346,3 +346,13 @@ David Williams-Baldwin, Research Fellow (University of Manchester)<br>
 Annie Andersson, PhD Candidate (University of California)<br>
 Ariam Mora Hernandez, R&D Engineer (Imec)<br>
 Gesa Welker, University Teacher (Eindhoven University of Technology)<br>
+Harry Lane, Dame Kathleen Ollerenshaw Fellow (University of Manchester)<br>
+Radu Coldea, Professor of Physics (University of Oxford)<br>
+Susana Valencia, Scientific Researcher (Instituto de Tecnologia Quimica (CSIC-UPV))<br>
+Joseph Umpleby-Thorp, PhD Student (University of York)<br>
+Prajna Bhatt, Postdoctoral Research Fellow (CNR-IOM)<br>
+Lorna Sinclair, Technical Specialist (University of Manchester)<br>
+Pascale Deen, Division Head for Spectroscopy & Affiliate Professor: Solid State Physics and Neutron Scattering. (European Spallation Source &  University of Copenhagen)<br>
+Léonie Parisot, DPhil Student (University of Oxford)<br>
+Jeppe Cederholm, PhD Student (Institut Laue-Langevin)<br>
+Riley Shurvinton, Researcher ()<br>
