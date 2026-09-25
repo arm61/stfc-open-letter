@@ -1149,3 +1149,9 @@ Tatiana Pieloni, Scientist (EPFL)<br>
 Richard Campbell, Senior Lecturer (University of Manchester)<br>
 Erik B Karlsson, Prof.em. (Uppsala University (Sweden))<br>
 Anaïs Pitto-Barry, CNRS Researcher (chargée de recherche) (CNRS (France))<br>
+Giovanni Romanelli, Professor (Università degli Studi di Roma Tor Vergata)<br>
+Tomas Stephen Northam de la Fuente, Postdoctoral researcher at the ILL (Tübingen University)<br>
+Tilo Seydel, Scientist (Institut Max von Laue - Paul Langevin, Grenoble, France)<br>
+Richard  Thompson, Associate Professor (Durham University)<br>
+Elizabeth Blackburn, Professor (Lund University)<br>
+Pierre Dalmas de Reotier, Director of Research (CEA Grenoble)<br>
