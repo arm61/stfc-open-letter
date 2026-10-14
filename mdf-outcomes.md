@@ -1155,3 +1155,15 @@ Tilo Seydel, Scientist (Institut Max von Laue - Paul Langevin, Grenoble, France)
 Richard  Thompson, Associate Professor (Durham University)<br>
 Elizabeth Blackburn, Professor (Lund University)<br>
 Pierre Dalmas de Reotier, Director of Research (CEA Grenoble)<br>
+Vighnesh Balkrishna Lokare, PhD Student	(RWTH Aachen University)<br>
+Ben Radick, PhD student	(University of Oxford)<br>
+Anthony Higgins, Associate Professor	(Swansea University)<br>
+Marta Martínez-Sanz, Tenured Scientist	(Spanish Council for Scientific Research)<br>
+Luis Fernández Barquín, Full Professor of Condensed Matter Physics (Universidad de Cantabria (Spain))<br>
+Cristina Echevarria Bonet, Lecturer (Universidad de Oviedo)<br>
+Patrick Denk, PostDoc	(RWTH Aachen)<br>
+Dmytro Inosov, Professor	(Technical University of Dresden)<br>
+Imad Ahmed, Chief Executive Officer	(Nanolyse Technologies Limited)<br>
+Tomoki Maeda, Associate Professor	(Ibaraki University)<br>
+Robbie Hunt, Postdoctoral reseacher	(Uppsala University)<br>
+Claire Jones, Senior PDRA	(University of East Anglia)<br>
